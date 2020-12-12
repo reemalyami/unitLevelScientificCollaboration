@@ -1,0 +1,3224 @@
+[
+    {
+        "id": "Optometry Department",
+        "name": "Optometry Department",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmaceutical Chemistry Department",
+        "name": "Pharmaceutical Chemistry Department",
+        "collaborations": 241,
+        "color": "#31a354"
+    },
+    {
+        "id": "Research Center",
+        "name": "Research Center",
+        "collaborations": 106,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Physics & Astronomy Department",
+        "name": "Physics & Astronomy Department",
+        "collaborations": 299,
+        "color": "#fdae6b"
+    },
+    {
+        "id": "Research Chair Cyber Secur",
+        "name": "Research Chair Cyber Secur",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science Department",
+        "name": "Computer Science Department",
+        "collaborations": 173,
+        "color": "#74c476"
+    },
+    {
+        "id": "Soil Science Department",
+        "name": "Soil Science Department",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainable Energy Technology Center",
+        "name": "Sustainable Energy Technology Center",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemistry Department",
+        "name": "Chemistry Department",
+        "collaborations": 409,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Kacst Technololgy Innovat Center Radio Frequency & Photonics",
+        "name": "Kacst Technololgy Innovat Center Radio Frequency & Photonics",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering Department",
+        "name": "Electrical Engineering Department",
+        "collaborations": 90,
+        "color": "#636363"
+    },
+    {
+        "id": "Plant Production Department",
+        "name": "Plant Production Department",
+        "collaborations": 177,
+        "color": "#74c476"
+    },
+    {
+        "id": "Zoology Department",
+        "name": "Zoology Department",
+        "collaborations": 471,
+        "color": "#3182bd"
+    },
+    {
+        "id": "Botany & Microbiology Department",
+        "name": "Botany & Microbiology Department",
+        "collaborations": 468,
+        "color": "#3182bd"
+    },
+    {
+        "id": "Plant Protection Department",
+        "name": "Plant Protection Department",
+        "collaborations": 58,
+        "color": "#636363"
+    },
+    {
+        "id": "King Abdullah Institute Nanotechnology",
+        "name": "King Abdullah Institute Nanotechnology",
+        "collaborations": 336,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Chemical Engineering Department",
+        "name": "Chemical Engineering Department",
+        "collaborations": 113,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Biology Department",
+        "name": "Biology Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Mathematics Department",
+        "name": "Mathematics Department",
+        "collaborations": 19,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics & Operations Research Department",
+        "name": "Statistics & Operations Research Department",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Natural Science Department",
+        "name": "Natural Science Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Information Systems Department",
+        "name": "Information Systems Department",
+        "collaborations": 128,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Research Chair Pervas & Mobile Computer",
+        "name": "Research Chair Pervas & Mobile Computer",
+        "collaborations": 36,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Health Department",
+        "name": "Dental Health Department",
+        "collaborations": 84,
+        "color": "#636363"
+    },
+    {
+        "id": "Information Science Department",
+        "name": "Information Science Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Industrial Engineering Department",
+        "name": "Industrial Engineering Department",
+        "collaborations": 158,
+        "color": "#74c476"
+    },
+    {
+        "id": "Biochemistry Department",
+        "name": "Biochemistry Department",
+        "collaborations": 429,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Community Health Department",
+        "name": "Community Health Department",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Department",
+        "name": "Medical Department",
+        "collaborations": 221,
+        "color": "#31a354"
+    },
+    {
+        "id": "Obstet & Gynaecol Department",
+        "name": "Obstet & Gynaecol Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Lab Science Department",
+        "name": "Clinical Lab Science Department",
+        "collaborations": 116,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Geog Department",
+        "name": "Geog Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Neuroophthalmology Division",
+        "name": "Pediatric Neuroophthalmology Division",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Pathology Department",
+        "name": "Pathology Department",
+        "collaborations": 220,
+        "color": "#31a354"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plants Research Center",
+        "name": "Medical Aromat & Poisonous Plants Research Center",
+        "collaborations": 54,
+        "color": "#636363"
+    },
+    {
+        "id": "Lab Center",
+        "name": "Lab Center",
+        "collaborations": 160,
+        "color": "#74c476"
+    },
+    {
+        "id": "Endodontics Division",
+        "name": "Endodontics Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Researchtorat Dental Science Department",
+        "name": "Researchtorat Dental Science Department",
+        "collaborations": 128,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Ophthalmology Department",
+        "name": "Ophthalmology Department",
+        "collaborations": 71,
+        "color": "#636363"
+    },
+    {
+        "id": "Community Health Science Department",
+        "name": "Community Health Science Department",
+        "collaborations": 66,
+        "color": "#636363"
+    },
+    {
+        "id": "Civil Engineering Department",
+        "name": "Civil Engineering Department",
+        "collaborations": 23,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology Department",
+        "name": "Pharmacology Department",
+        "collaborations": 100,
+        "color": "#636363"
+    },
+    {
+        "id": "Pharmacology & Toxicology Department",
+        "name": "Pharmacology & Toxicology Department",
+        "collaborations": 209,
+        "color": "#31a354"
+    },
+    {
+        "id": "University Sleep Disorders Center",
+        "name": "University Sleep Disorders Center",
+        "collaborations": 50,
+        "color": "#969696"
+    },
+    {
+        "id": "Family Medical Department",
+        "name": "Family Medical Department",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiac Science Department",
+        "name": "Cardiac Science Department",
+        "collaborations": 63,
+        "color": "#636363"
+    },
+    {
+        "id": "Prosthetic Dental Science Department",
+        "name": "Prosthetic Dental Science Department",
+        "collaborations": 181,
+        "color": "#74c476"
+    },
+    {
+        "id": "Prince Naif Center Immunology Research",
+        "name": "Prince Naif Center Immunology Research",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Food Science & Nutrition Department",
+        "name": "Food Science & Nutrition Department",
+        "collaborations": 187,
+        "color": "#74c476"
+    },
+    {
+        "id": "Pharmaceutical Department",
+        "name": "Pharmaceutical Department",
+        "collaborations": 297,
+        "color": "#fdae6b"
+    },
+    {
+        "id": "Physiology & Pharmacology Department",
+        "name": "Physiology & Pharmacology Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Surgery Department",
+        "name": "Medical Surgery Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Information Assurance Coeia Center",
+        "name": "Excellence Information Assurance Coeia Center",
+        "collaborations": 25,
+        "color": "#969696"
+    },
+    {
+        "id": "Rehabilitation Science Department",
+        "name": "Rehabilitation Science Department",
+        "collaborations": 32,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Department",
+        "name": "Pediatric Department",
+        "collaborations": 194,
+        "color": "#74c476"
+    },
+    {
+        "id": "Physics Department",
+        "name": "Physics Department",
+        "collaborations": 27,
+        "color": "#969696"
+    },
+    {
+        "id": "Paediatrics Department",
+        "name": "Paediatrics Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Information Assurance Center",
+        "name": "Excellence Information Assurance Center",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Engineering Department",
+        "name": "Computer Engineering Department",
+        "collaborations": 149,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Software Engineering Department",
+        "name": "Software Engineering Department",
+        "collaborations": 168,
+        "color": "#74c476"
+    },
+    {
+        "id": "Excellence Research Engineering Material Center",
+        "name": "Excellence Research Engineering Material Center",
+        "collaborations": 84,
+        "color": "#636363"
+    },
+    {
+        "id": "Mechanical Engineering Department",
+        "name": "Mechanical Engineering Department",
+        "collaborations": 194,
+        "color": "#74c476"
+    },
+    {
+        "id": "Sustainable Energy Technololgy Center",
+        "name": "Sustainable Energy Technololgy Center",
+        "collaborations": 86,
+        "color": "#636363"
+    },
+    {
+        "id": "Microbiology & Botany Department",
+        "name": "Microbiology & Botany Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacognosy Department",
+        "name": "Pharmacognosy Department",
+        "collaborations": 213,
+        "color": "#31a354"
+    },
+    {
+        "id": "Finance Department",
+        "name": "Finance Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Obstet & Gynecology Department",
+        "name": "Obstet & Gynecology Department",
+        "collaborations": 55,
+        "color": "#636363"
+    },
+    {
+        "id": "Oral Medical & Diagnostic Science Department",
+        "name": "Oral Medical & Diagnostic Science Department",
+        "collaborations": 45,
+        "color": "#969696"
+    },
+    {
+        "id": "Animal Production Department",
+        "name": "Animal Production Department",
+        "collaborations": 46,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthopedic Surgery Department",
+        "name": "Orthopedic Surgery Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Pharmacology Department",
+        "name": "Clinical Pharmacology Department",
+        "collaborations": 278,
+        "color": "#fdae6b"
+    },
+    {
+        "id": "Special Education Department",
+        "name": "Special Education Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Obesity Research Center",
+        "name": "Obesity Research Center",
+        "collaborations": 36,
+        "color": "#969696"
+    },
+    {
+        "id": "Proteomics Researchource Unit Obesity",
+        "name": "Proteomics Researchource Unit Obesity",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Advanced Manufacturing Institute",
+        "name": "Advanced Manufacturing Institute",
+        "collaborations": 134,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Geology & Geophysics Department",
+        "name": "Geology & Geophysics Department",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "Periodontics & Community Dental Department",
+        "name": "Periodontics & Community Dental Department",
+        "collaborations": 88,
+        "color": "#636363"
+    },
+    {
+        "id": "Physiology Department",
+        "name": "Physiology Department",
+        "collaborations": 132,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Global Center Mass Gatherings Medical",
+        "name": "Global Center Mass Gatherings Medical",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Gastroenterology Division",
+        "name": "Gastroenterology Division",
+        "collaborations": 27,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Disease Unit",
+        "name": "Infectious Disease Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology Units",
+        "name": "Microbiology Units",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Bin Khalid Celiac Disease Research Chair",
+        "name": "Prince Abdullah Bin Khalid Celiac Disease Research Chair",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemistry Engineering Department",
+        "name": "Chemistry Engineering Department",
+        "collaborations": 115,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "King Fahad Cardiac Center",
+        "name": "King Fahad Cardiac Center",
+        "collaborations": 27,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Education Department",
+        "name": "Medical Education Department",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "Exercise Physiology Department",
+        "name": "Exercise Physiology Department",
+        "collaborations": 20,
+        "color": "#969696"
+    },
+    {
+        "id": "Nursing Administration & Education Department",
+        "name": "Nursing Administration & Education Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Information Technololgy Department",
+        "name": "Information Technololgy Department",
+        "collaborations": 56,
+        "color": "#636363"
+    },
+    {
+        "id": "Surgery Department",
+        "name": "Surgery Department",
+        "collaborations": 118,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Excellence Research Engineering Material Cerem Center",
+        "name": "Excellence Research Engineering Material Cerem Center",
+        "collaborations": 24,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Dna Research",
+        "name": "Chair Dna Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Science Research",
+        "name": "Science Research",
+        "collaborations": 28,
+        "color": "#969696"
+    },
+    {
+        "id": "Riyadh Biochemistry Department",
+        "name": "Riyadh Biochemistry Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Strategic Center Diabetes Research",
+        "name": "Strategic Center Diabetes Research",
+        "collaborations": 27,
+        "color": "#969696"
+    },
+    {
+        "id": "Thoracic Surgery Department",
+        "name": "Thoracic Surgery Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics & Or Department",
+        "name": "Statistics & Or Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Oral & Maxillofacial Surgery Department",
+        "name": "Oral & Maxillofacial Surgery Department",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Anat Department",
+        "name": "Anat Department",
+        "collaborations": 67,
+        "color": "#636363"
+    },
+    {
+        "id": "Natural & Engineering Science Department",
+        "name": "Natural & Engineering Science Department",
+        "collaborations": 15,
+        "color": "#969696"
+    },
+    {
+        "id": "Applied Medical Science Department",
+        "name": "Applied Medical Science Department",
+        "collaborations": 35,
+        "color": "#969696"
+    },
+    {
+        "id": "Petroleum & Natural Gas Engineering Department",
+        "name": "Petroleum & Natural Gas Engineering Department",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "College Medical Research Center",
+        "name": "College Medical Research Center",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiology Department",
+        "name": "Cardiology Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Rehabilitation Research Chair",
+        "name": "Rehabilitation Research Chair",
+        "collaborations": 17,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sattam Bin Abdulaziz Research Chair Epidemiology &",
+        "name": "Prince Sattam Bin Abdulaziz Research Chair Epidemiology &",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Abdullah Bugshan Research Chair Dental & Oral Rehab",
+        "name": "Abdullah Bugshan Research Chair Dental & Oral Rehab",
+        "collaborations": 43,
+        "color": "#969696"
+    },
+    {
+        "id": "Endocrinology Department",
+        "name": "Endocrinology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Surgery Nursing Department",
+        "name": "Medical Surgery Nursing Department",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Biomaterials Research Chair",
+        "name": "Dental Biomaterials Research Chair",
+        "collaborations": 42,
+        "color": "#969696"
+    },
+    {
+        "id": "Clincal Pharmacology Department",
+        "name": "Clincal Pharmacology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plant Research Center",
+        "name": "Medical Aromat & Poisonous Plant Research Center",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Pharmacokinet & Pharmacodynam Unit",
+        "name": "Clinical Pharmacokinet & Pharmacodynam Unit",
+        "collaborations": 35,
+        "color": "#969696"
+    },
+    {
+        "id": "Psychiatry Department",
+        "name": "Psychiatry Department",
+        "collaborations": 43,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergency Medical Department",
+        "name": "Emergency Medical Department",
+        "collaborations": 28,
+        "color": "#969696"
+    },
+    {
+        "id": "Critical Care Department",
+        "name": "Critical Care Department",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Intensive Care Unit",
+        "name": "Pediatric Intensive Care Unit",
+        "collaborations": 37,
+        "color": "#969696"
+    },
+    {
+        "id": "Petroleum & Gas Engineering Department",
+        "name": "Petroleum & Gas Engineering Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Geology Department",
+        "name": "Geology Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Psychol Department",
+        "name": "Psychol Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Urban Planning Department",
+        "name": "Urban Planning Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Otolaryngol Head & Neck Surgery Department",
+        "name": "Otolaryngol Head & Neck Surgery Department",
+        "collaborations": 29,
+        "color": "#969696"
+    },
+    {
+        "id": "English Language & Translation Department",
+        "name": "English Language & Translation Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Paediatrics Dental & Orthodontics Department",
+        "name": "Paediatrics Dental & Orthodontics Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Precision Agricultural Research Chair",
+        "name": "Precision Agricultural Research Chair",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Science Department",
+        "name": "Health Science Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sultan Research Chair Environm & Wildlife",
+        "name": "Prince Sultan Research Chair Environm & Wildlife",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Neuroophthalmology Division",
+        "name": "Neuroophthalmology Division",
+        "collaborations": 21,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthopedic Department",
+        "name": "Orthopedic Department",
+        "collaborations": 15,
+        "color": "#969696"
+    },
+    {
+        "id": "Li Ka Shing Collaborative Research Program",
+        "name": "Li Ka Shing Collaborative Research Program",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Pathology & Lab Medical Department",
+        "name": "Pathology & Lab Medical Department",
+        "collaborations": 61,
+        "color": "#636363"
+    },
+    {
+        "id": "Pediatric Infectious Disease Unit",
+        "name": "Pediatric Infectious Disease Unit",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Urology Division",
+        "name": "Urology Division",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Dept Family & Community Med",
+        "name": "Dept Family & Community Med",
+        "collaborations": 146,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Chair Medical Education Research & Development",
+        "name": "Chair Medical Education Research & Development",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Plastic & Hand Surgery Division",
+        "name": "Plastic & Hand Surgery Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Basic Science Department",
+        "name": "Basic Science Department",
+        "collaborations": 17,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Department",
+        "name": "Electrical Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Arabic Linguistics Institute",
+        "name": "Arabic Linguistics Institute",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "King Saud University Li Ka Shing Collaborative Research Program",
+        "name": "King Saud University Li Ka Shing Collaborative Research Program",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Optometry & Vis Science Department",
+        "name": "Optometry & Vis Science Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Anesthesiol Department",
+        "name": "Anesthesiol Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmaceutical & Microbiology Department",
+        "name": "Pharmaceutical & Microbiology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Botany Department",
+        "name": "Botany Department",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology Department",
+        "name": "Microbiology Department",
+        "collaborations": 31,
+        "color": "#969696"
+    },
+    {
+        "id": "Vitiligo Research Chair",
+        "name": "Vitiligo Research Chair",
+        "collaborations": 37,
+        "color": "#969696"
+    },
+    {
+        "id": "College Engineering Center",
+        "name": "College Engineering Center",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Internal Medical Department",
+        "name": "Internal Medical Department",
+        "collaborations": 49,
+        "color": "#969696"
+    },
+    {
+        "id": "King Abdullah Ear Specialist Center",
+        "name": "King Abdullah Ear Specialist Center",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Curriculum Development & Research Unit",
+        "name": "Curriculum Development & Research Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomedical Technololgy Department",
+        "name": "Biomedical Technololgy Department",
+        "collaborations": 15,
+        "color": "#969696"
+    },
+    {
+        "id": "Shaik Al Amodi Autism Research Chair",
+        "name": "Shaik Al Amodi Autism Research Chair",
+        "collaborations": 23,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiovasc Science Department",
+        "name": "Cardiovasc Science Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Medication Safety Research Chair",
+        "name": "Medication Safety Research Chair",
+        "collaborations": 45,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Naif Health Research Center",
+        "name": "Prince Naif Health Research Center",
+        "collaborations": 38,
+        "color": "#969696"
+    },
+    {
+        "id": "Vaccines & Biology Research Unit",
+        "name": "Vaccines & Biology Research Unit",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Economics Department",
+        "name": "Economics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Molecular Genetics Pathology Unit",
+        "name": "Molecular Genetics Pathology Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Dental & Orthodontics Department",
+        "name": "Pediatric Dental & Orthodontics Department",
+        "collaborations": 32,
+        "color": "#969696"
+    },
+    {
+        "id": "Liver Disease Research Center",
+        "name": "Liver Disease Research Center",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "King Saud University Li Ka Shing Knowledge Institute Collaboration",
+        "name": "King Saud University Li Ka Shing Knowledge Institute Collaboration",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Enthns Department",
+        "name": "Enthns Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthopaedics Department",
+        "name": "Orthopaedics Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Female Science & Medical College Center",
+        "name": "Female Science & Medical College Center",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Biomaterials Research & Development Chair",
+        "name": "Dental Biomaterials Research & Development Chair",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Alamoudi Water Research Chair",
+        "name": "Alamoudi Water Research Chair",
+        "collaborations": 24,
+        "color": "#969696"
+    },
+    {
+        "id": "Agricultural Engineering Department",
+        "name": "Agricultural Engineering Department",
+        "collaborations": 76,
+        "color": "#636363"
+    },
+    {
+        "id": "Structure Engineering Department",
+        "name": "Structure Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Concrete Research & Testing Center",
+        "name": "Excellence Concrete Research & Testing Center",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Archaeology Department",
+        "name": "Archaeology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pathology & Microbiology Department",
+        "name": "Pathology & Microbiology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "University Diabetes Center",
+        "name": "University Diabetes Center",
+        "collaborations": 37,
+        "color": "#969696"
+    },
+    {
+        "id": "Autism Research & Treatment Center",
+        "name": "Autism Research & Treatment Center",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology & Physiology Department",
+        "name": "Pharmacology & Physiology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Support Department",
+        "name": "Research Support Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Health Information & Promot",
+        "name": "Research Chair Health Information & Promot",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Science Technololgy & Innovation Unit",
+        "name": "Science Technololgy & Innovation Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Anesthesia Department",
+        "name": "Anesthesia Department",
+        "collaborations": 19,
+        "color": "#969696"
+    },
+    {
+        "id": "Vasc Surgery Division",
+        "name": "Vasc Surgery Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Curriculum Instruction Department",
+        "name": "Curriculum Instruction Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellent Center Science & Mathematics Education",
+        "name": "Excellent Center Science & Mathematics Education",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacoecon Research Unit",
+        "name": "Pharmacoecon Research Unit",
+        "collaborations": 56,
+        "color": "#636363"
+    },
+    {
+        "id": "Researchtorat Science Department",
+        "name": "Researchtorat Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanomedicine Unit Nmu",
+        "name": "Nanomedicine Unit Nmu",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Dermatology Department",
+        "name": "Dermatology Department",
+        "collaborations": 45,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Laser Diagnosis Cancer",
+        "name": "Research Chair Laser Diagnosis Cancer",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Deanship Science Research",
+        "name": "Deanship Science Research",
+        "collaborations": 21,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Thrombosis & Haemostasis Center",
+        "name": "Excellence Thrombosis & Haemostasis Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Head & Neck Surgery Department",
+        "name": "Head & Neck Surgery Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "King Abdullah Ear Specialist Center Kaesc",
+        "name": "King Abdullah Ear Specialist Center Kaesc",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Nasser Al Rashid Ophthalmology Research Chair",
+        "name": "Nasser Al Rashid Ophthalmology Research Chair",
+        "collaborations": 18,
+        "color": "#969696"
+    },
+    {
+        "id": "Nephrology Division",
+        "name": "Nephrology Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Rheumatology Division",
+        "name": "Rheumatology Division",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Applied Science Medical Department",
+        "name": "Applied Science Medical Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Exploitat Renewable Energy Applicat Sau",
+        "name": "Research Chair Exploitat Renewable Energy Applicat Sau",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacognosy & Medical Aromat Department",
+        "name": "Pharmacognosy & Medical Aromat Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Poisonous Plants Research Center",
+        "name": "Poisonous Plants Research Center",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Lab Research Center",
+        "name": "Lab Research Center",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sultan Advanced Technololgy Research Institute",
+        "name": "Prince Sultan Advanced Technololgy Research Institute",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Physics Therapy Department",
+        "name": "Physics Therapy Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "It Department",
+        "name": "It Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Biotechnology Research Center",
+        "name": "Excellence Biotechnology Research Center",
+        "collaborations": 66,
+        "color": "#636363"
+    },
+    {
+        "id": "Islamic Banking Center",
+        "name": "Islamic Banking Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology Unit",
+        "name": "Microbiology Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Obstetric Gynecology Department",
+        "name": "Obstetric Gynecology Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Family & Community Medical Department",
+        "name": "Family & Community Medical Department",
+        "collaborations": 76,
+        "color": "#636363"
+    },
+    {
+        "id": "Administration Science Department",
+        "name": "Administration Science Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Smart Robootics Research Center",
+        "name": "Smart Robootics Research Center",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Plastic Surgery Division",
+        "name": "Plastic Surgery Division",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Oncology Division",
+        "name": "Oncology Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology Division",
+        "name": "Microbiology Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Biomedical Applicat Nanomat",
+        "name": "Research Chair Biomedical Applicat Nanomat",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Information & E Learning Unit",
+        "name": "Medical Information & E Learning Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Histopathol Department",
+        "name": "Histopathol Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Elecenteron Microscope Unit",
+        "name": "Elecenteron Microscope Unit",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical & Nephrology Department",
+        "name": "Medical & Nephrology Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Family Medical & Polyclin Department",
+        "name": "Family Medical & Polyclin Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Rehabilitation Health Science Department",
+        "name": "Rehabilitation Health Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bioproducts Research Department",
+        "name": "Bioproducts Research Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cancer Research Chair",
+        "name": "Cancer Research Chair",
+        "collaborations": 20,
+        "color": "#969696"
+    },
+    {
+        "id": "Female Medical Studies Center",
+        "name": "Female Medical Studies Center",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Oncology Center",
+        "name": "Oncology Center",
+        "collaborations": 17,
+        "color": "#969696"
+    },
+    {
+        "id": "Intensive Care Unit",
+        "name": "Intensive Care Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bugshan Research Chair Expans Soils",
+        "name": "Bugshan Research Chair Expans Soils",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Neurosurgery Department",
+        "name": "Neurosurgery Department",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiology & Medical Imaging Department",
+        "name": "Radiology & Medical Imaging Department",
+        "collaborations": 28,
+        "color": "#969696"
+    },
+    {
+        "id": "Nursing Education & Administration Department",
+        "name": "Nursing Education & Administration Department",
+        "collaborations": 15,
+        "color": "#969696"
+    },
+    {
+        "id": "Ems Department",
+        "name": "Ems Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Bin Khalid Coeliac Disease Research Chair",
+        "name": "Prince Abdullah Bin Khalid Coeliac Disease Research Chair",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology Unit",
+        "name": "Pharmacology Unit",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Researchtorat Dental Department",
+        "name": "Researchtorat Dental Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Science Department",
+        "name": "Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Colorectal Research Chair",
+        "name": "Colorectal Research Chair",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Obesity Center",
+        "name": "Obesity Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthopedics Surgery Department",
+        "name": "Orthopedics Surgery Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sultan Institute Environm Water & Desert Research",
+        "name": "Prince Sultan Institute Environm Water & Desert Research",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Caries Research Chair",
+        "name": "Dental Caries Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmaceutical Science Department",
+        "name": "Pharmaceutical Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Chemistry Department",
+        "name": "Medical Chemistry Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "King Abdlullah Nanotechnology Institute",
+        "name": "King Abdlullah Nanotechnology Institute",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Sabic Psychological Health Research & Applications Chair",
+        "name": "Sabic Psychological Health Research & Applications Chair",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Management Information Systems Department",
+        "name": "Management Information Systems Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Food Science & Human Nutrition Department",
+        "name": "Food Science & Human Nutrition Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Bin Khaled Coeliac Disease Research Chair",
+        "name": "Prince Abdullah Bin Khaled Coeliac Disease Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthodontics Department",
+        "name": "Orthodontics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plants Research Center Maprc",
+        "name": "Medical Aromat & Poisonous Plants Research Center Maprc",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "University Center Women Students",
+        "name": "University Center Women Students",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Surgery Division",
+        "name": "Surgery Division",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Division",
+        "name": "Medical Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Abdullah Bugshan Research Chair Growth Factor",
+        "name": "Abdullah Bugshan Research Chair Growth Factor",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Princess Fatima Alnijriss Research Chair Advanced Manufacturing Techn",
+        "name": "Princess Fatima Alnijriss Research Chair Advanced Manufacturing Techn",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Food Science Department",
+        "name": "Food Science Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Drug & Poison Information Center",
+        "name": "Drug & Poison Information Center",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Drug Information Center",
+        "name": "Drug Information Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Administration Department",
+        "name": "Health Administration Department",
+        "collaborations": 21,
+        "color": "#969696"
+    },
+    {
+        "id": "Sabic Polymer Research Center",
+        "name": "Sabic Polymer Research Center",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "English Language & Literature Department",
+        "name": "English Language & Literature Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Research & Studies Strengthening & Rehabilitation",
+        "name": "Chair Research & Studies Strengthening & Rehabilitation",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Seismic Studies Center",
+        "name": "Seismic Studies Center",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Neurosurgery Division",
+        "name": "Neurosurgery Division",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Community & Psychiatry Nursing Department",
+        "name": "Community & Psychiatry Nursing Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Maternal & Child Health Department",
+        "name": "Maternal & Child Health Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "General Dental Department",
+        "name": "General Dental Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Food Production Department",
+        "name": "Food Production Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Hematology Oncology Department",
+        "name": "Hematology Oncology Department",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiology Unit",
+        "name": "Radiology Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Disease Division",
+        "name": "Infectious Disease Division",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Neuroradiol Division",
+        "name": "Neuroradiol Division",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Genetics Division",
+        "name": "Medical Genetics Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Gastroenterology Unit",
+        "name": "Gastroenterology Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Department",
+        "name": "Research Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Deanship Science Research Dsr",
+        "name": "Deanship Science Research Dsr",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Princess Nora Bent Abdullah Chair Womens Health Research",
+        "name": "Princess Nora Bent Abdullah Chair Womens Health Research",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Glaucoma Research Chair Ophthalmology",
+        "name": "Glaucoma Research Chair Ophthalmology",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomedical Engineering Department",
+        "name": "Biomedical Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Neuroophthalmology Department",
+        "name": "Neuroophthalmology Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Accid & Trauma Department",
+        "name": "Accid & Trauma Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Nutrition & Food Science Department",
+        "name": "Nutrition & Food Science Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Physics Education Department",
+        "name": "Physics Education Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthopaedics Surgery Department",
+        "name": "Orthopaedics Surgery Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiology Department",
+        "name": "Radiology Department",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Adult Critical Care Department",
+        "name": "Adult Critical Care Department",
+        "collaborations": 18,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthodontics Division",
+        "name": "Orthodontics Division",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Public Health Division",
+        "name": "Dental Public Health Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology & Immunology Department",
+        "name": "Microbiology & Immunology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Morbid & Mortal Review Unit",
+        "name": "Morbid & Mortal Review Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Evidence Based Healthcare & Knowledge Research Chair",
+        "name": "Evidence Based Healthcare & Knowledge Research Chair",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Bioavailabil Ctr",
+        "name": "Bioavailabil Ctr",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Endocrinology & Diabetes Unit",
+        "name": "Endocrinology & Diabetes Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Agricultural Extension & Rural Soc Department",
+        "name": "Agricultural Extension & Rural Soc Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Operations Division",
+        "name": "Operations Division",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Science & Medical Studies Girls Center",
+        "name": "Science & Medical Studies Girls Center",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Quality Assurance Unit",
+        "name": "Quality Assurance Unit",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Asthma Research Chair",
+        "name": "Asthma Research Chair",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Food & Nutrition Science Department",
+        "name": "Food & Nutrition Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Dept Pharmaceutcs",
+        "name": "Dept Pharmaceutcs",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainable Energies Technololgy Center",
+        "name": "Sustainable Energies Technololgy Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Surfactant Research Chair",
+        "name": "Surfactant Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Research Engineering Center",
+        "name": "Excellence Research Engineering Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Department",
+        "name": "Dental Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Researchtorat Department",
+        "name": "Researchtorat Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Corp Department Pharmacology Service",
+        "name": "Corp Department Pharmacology Service",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Material Research Cerem Center",
+        "name": "Excellence Material Research Cerem Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Stem Cell Unit",
+        "name": "Stem Cell Unit",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Quality Management Department",
+        "name": "Quality Management Department",
+        "collaborations": 41,
+        "color": "#969696"
+    },
+    {
+        "id": "Bioproducts Research Chair",
+        "name": "Bioproducts Research Chair",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plants Research Center Mapprc",
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Biochemistry Unit",
+        "name": "Clinical Biochemistry Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Biochemistry Department",
+        "name": "Medical Biochemistry Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "General Surgery Department",
+        "name": "General Surgery Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanobiotechnology Unit",
+        "name": "Nanobiotechnology Unit",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacognosy Mapprc Department",
+        "name": "Pharmacognosy Mapprc Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Ctr Excellence Concrete Res & Testing Coe Crt",
+        "name": "Ctr Excellence Concrete Res & Testing Coe Crt",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Registry Department",
+        "name": "Registry Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Oral Pathology Department",
+        "name": "Oral Pathology Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Hematology Department",
+        "name": "Hematology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology Education Unit",
+        "name": "Pharmacology Education Unit",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmaceutical Care Department",
+        "name": "Pharmaceutical Care Department",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Protein Research Chair",
+        "name": "Protein Research Chair",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plant Research Center Maprc",
+        "name": "Medical Aromat & Poisonous Plant Research Center Maprc",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "King Abdullah Int Med Res Ctr",
+        "name": "King Abdullah Int Med Res Ctr",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Plastic & Reconstruct Surgery Department",
+        "name": "Plastic & Reconstruct Surgery Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomech & Motor Behav Department",
+        "name": "Biomech & Motor Behav Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Dna Research Chair",
+        "name": "Dna Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Immunology Research Center",
+        "name": "Immunology Research Center",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Otolaryngol Neurotol & Skull Base Surgery Department",
+        "name": "Otolaryngol Neurotol & Skull Base Surgery Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Biology Research Dental Health",
+        "name": "Research Chair Biology Research Dental Health",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmaceutical Chemistry Drug Explorat & Development Chair De Department",
+        "name": "Pharmaceutical Chemistry Drug Explorat & Development Chair De Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Critical Care Medical Department",
+        "name": "Critical Care Medical Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Education Policies Department",
+        "name": "Education Policies Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Decmship Science Research",
+        "name": "Decmship Science Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bioavailability Unit",
+        "name": "Bioavailability Unit",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plants Center",
+        "name": "Medical Aromat & Poisonous Plants Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Botany Microbiology Department",
+        "name": "Botany Microbiology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Community & Mental Health Nursing Department",
+        "name": "Community & Mental Health Nursing Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Grad Studies & Science Research",
+        "name": "Grad Studies & Science Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bughshan Research Chair Expans Soils",
+        "name": "Bughshan Research Chair Expans Soils",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Self Development Skills Department",
+        "name": "Self Development Skills Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "College Pharmacology Department",
+        "name": "College Pharmacology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bstrateg Center Diabetes Research",
+        "name": "Bstrateg Center Diabetes Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "College Medical & Research Center",
+        "name": "College Medical & Research Center",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Otolaryngol Department",
+        "name": "Otolaryngol Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Drug Bioavailability Unit",
+        "name": "Drug Bioavailability Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Education Technololgy Department",
+        "name": "Education Technololgy Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Deanship Scientific Research",
+        "name": "Deanship Scientific Research",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Appl Med Sci Dept Cc",
+        "name": "Appl Med Sci Dept Cc",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Liver Research Center",
+        "name": "Liver Research Center",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "University Sleep Disonlers Center",
+        "name": "University Sleep Disonlers Center",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Al Amodi Autism Research Chair",
+        "name": "Al Amodi Autism Research Chair",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiology & Diagnostic Imaging Department",
+        "name": "Radiology & Diagnostic Imaging Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Disease Department",
+        "name": "Infectious Disease Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Kacst Technololgy Innovat Center Radiofrequency & Photonics",
+        "name": "Kacst Technololgy Innovat Center Radiofrequency & Photonics",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Al Jeraisy Chair Dna Research",
+        "name": "Al Jeraisy Chair Dna Research",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Education Administration Department",
+        "name": "Education Administration Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Shiek Al Amodi Autism Research Chair",
+        "name": "Shiek Al Amodi Autism Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Female Center Science & Medical Studies",
+        "name": "Female Center Science & Medical Studies",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Tribol Surface & Interface Science",
+        "name": "Research Chair Tribol Surface & Interface Science",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Biomedical Applicat Nanomat Biochemistry Department",
+        "name": "Research Chair Biomedical Applicat Nanomat Biochemistry Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sattam Chair Epidemiology & Public Health Research",
+        "name": "Prince Sattam Chair Epidemiology & Public Health Research",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergency Medical & Critical Care Department",
+        "name": "Emergency Medical & Critical Care Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "E-Learning & Information Technology Unit",
+        "name": "E-Learning & Information Technology Unit",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergency Department",
+        "name": "Emergency Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Trauma & Accid Department",
+        "name": "Trauma & Accid Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Imaging Department",
+        "name": "Medical Imaging Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Physiology Department",
+        "name": "Clinical Physiology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Food & Agricultural Science Department",
+        "name": "Food & Agricultural Science Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Ben Khaled Celiac Disease Research Chair",
+        "name": "Prince Abdullah Ben Khaled Celiac Disease Research Chair",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Evidencebased Based Health Care & Knowledge Tr",
+        "name": "Research Chair Evidencebased Based Health Care & Knowledge Tr",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainable Chemistry Center",
+        "name": "Sustainable Chemistry Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sattam Bin Abdulaziz Abdulaziz Research Chair Epidemiology",
+        "name": "Prince Sattam Bin Abdulaziz Abdulaziz Research Chair Epidemiology",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Vaccines Research Infectious Disease",
+        "name": "Chair Vaccines Research Infectious Disease",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanomedicine Unit",
+        "name": "Nanomedicine Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Prosthodontics Department",
+        "name": "Prosthodontics Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Smart Technololgy",
+        "name": "Research Chair Smart Technololgy",
+        "collaborations": 19,
+        "color": "#969696"
+    },
+    {
+        "id": "Set Ctr",
+        "name": "Set Ctr",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Community & Family Medical Department",
+        "name": "Community & Family Medical Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Optometry & Visual Science Department",
+        "name": "Optometry & Visual Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics Department",
+        "name": "Statistics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Phamacognosy Department",
+        "name": "Phamacognosy Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Endocrinology Division",
+        "name": "Endocrinology Division",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanomedicine Research Unit",
+        "name": "Nanomedicine Research Unit",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Physics & Astrophys Department",
+        "name": "Physics & Astrophys Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Oncology Department",
+        "name": "Oncology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology Toxicology Department",
+        "name": "Pharmacology Toxicology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Plastic Surgery Department",
+        "name": "Plastic Surgery Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiology Division",
+        "name": "Cardiology Division",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Aromat & Poisonous Plants Research Center Mapprc Department",
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdulla Bin Khaled Coeliac Disease Research Chair",
+        "name": "Prince Abdulla Bin Khaled Coeliac Disease Research Chair",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "King Abdullah Institute Nanotechnology Kain",
+        "name": "King Abdullah Institute Nanotechnology Kain",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Psychiatry Unit",
+        "name": "Psychiatry Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanomedicine & Biotechnology Research Unit",
+        "name": "Nanomedicine & Biotechnology Research Unit",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Nayef Health Science Research Center",
+        "name": "Prince Nayef Health Science Research Center",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Bin Khaled Celiac Disease Research Chair",
+        "name": "Prince Abdullah Bin Khaled Celiac Disease Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Epidemiology & Public Health Research",
+        "name": "Epidemiology & Public Health Research",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Pharmacology Service Department",
+        "name": "Clinical Pharmacology Service Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Naif Healthcare Res Ctr",
+        "name": "Prince Naif Healthcare Res Ctr",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "National Irradiated Technololgy Center",
+        "name": "National Irradiated Technololgy Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Otorhinolaryngology Department",
+        "name": "Otorhinolaryngology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Nutrition & Agricultural Department",
+        "name": "Nutrition & Agricultural Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Civil Engineering & Managing Director Department",
+        "name": "Civil Engineering & Managing Director Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Diabetes Center Department",
+        "name": "Diabetes Center Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomarkers Research Program",
+        "name": "Biomarkers Research Program",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Maxillofacial Surgery Department",
+        "name": "Maxillofacial Surgery Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Oral Surgery Department",
+        "name": "Oral Surgery Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Naif Bin Abdulaziz Abdulaziz Health Research Center",
+        "name": "Prince Naif Bin Abdulaziz Abdulaziz Health Research Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Abdullah Ben Khalid Celiac Disease Research Chair",
+        "name": "Prince Abdullah Ben Khalid Celiac Disease Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Neuroradiol Department",
+        "name": "Neuroradiol Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Neorol Division",
+        "name": "Neorol Division",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Biology Research Dental Health",
+        "name": "Biology Research Dental Health",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Prosthetic Denial Science Department",
+        "name": "Prosthetic Denial Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Astronomy & Physics Department",
+        "name": "Astronomy & Physics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Evidencebased Based Health Care & Knowledge Translation Research",
+        "name": "Evidencebased Based Health Care & Knowledge Translation Research",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Postgrad & Research Center",
+        "name": "Postgrad & Research Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Community & Psychiatry Department",
+        "name": "Community & Psychiatry Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Therapeut Nutrition Department",
+        "name": "Therapeut Nutrition Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Hygiene Department",
+        "name": "Dental Hygiene Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Rehabilitation Medical Department",
+        "name": "Rehabilitation Medical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Skills & Simulat Center",
+        "name": "Clinical Skills & Simulat Center",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacognosy Medical Aromat Department",
+        "name": "Pharmacognosy Medical Aromat Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical King Fahad Cardiac Center",
+        "name": "Medical King Fahad Cardiac Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Oral & Maxillofacial Department",
+        "name": "Oral & Maxillofacial Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Periodontol Department",
+        "name": "Periodontol Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Industrial Ingn Department",
+        "name": "Industrial Ingn Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Equipment Department",
+        "name": "Medical Equipment Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Periodontics & Public Health Department",
+        "name": "Periodontics & Public Health Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Audiol Unit",
+        "name": "Audiol Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Forensic Medical & Toxicology Unit",
+        "name": "Forensic Medical & Toxicology Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "King Faisal Specialist Hosp & Res Ctr",
+        "name": "King Faisal Specialist Hosp & Res Ctr",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Quality Unit Department",
+        "name": "Quality Unit Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Lab Medical Department",
+        "name": "Clinical Lab Medical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemistry College Science Department",
+        "name": "Chemistry College Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "English Language & Literature Faculty English Department",
+        "name": "English Language & Literature Faculty English Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "English Language Skills Department",
+        "name": "English Language Skills Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Princess Fatima Alnijiriss Research Chair Advanced Manufacturing Tech",
+        "name": "Princess Fatima Alnijiriss Research Chair Advanced Manufacturing Tech",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellence Engineering Material Center",
+        "name": "Excellence Engineering Material Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Department",
+        "name": "Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Smart Technololgy & Information Systems Department",
+        "name": "Chair Smart Technololgy & Information Systems Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Smart Technololgy & Software Engineering Department",
+        "name": "Chair Smart Technololgy & Software Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Princess Nora Bent Abdallah Research Chair Women Health",
+        "name": "Princess Nora Bent Abdallah Research Chair Women Health",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Tribol Surface & Interface Science Tsis",
+        "name": "Research Chair Tribol Surface & Interface Science Tsis",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Dermatology 82 Department",
+        "name": "Dermatology 82 Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergency Care Department",
+        "name": "Emergency Care Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Intensive Care Department",
+        "name": "Intensive Care Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Biomaterials Research & Prosthetic Dental Science Department",
+        "name": "Dental Biomaterials Research & Prosthetic Dental Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Excellent Research Center Science & Mathematics Education",
+        "name": "Excellent Research Center Science & Mathematics Education",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Veterinary Laboratories Department",
+        "name": "Veterinary Laboratories Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Safety Research Chair",
+        "name": "Medical Safety Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacology Service Department",
+        "name": "Pharmacology Service Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chair Vaccines Infectious Disease",
+        "name": "Research Chair Vaccines Infectious Disease",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Endocrinology Diabetes & Metab Division",
+        "name": "Endocrinology Diabetes & Metab Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiation Oncology Unit",
+        "name": "Radiation Oncology Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Saudi Soc Camel Research",
+        "name": "Saudi Soc Camel Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "University Oncology Center",
+        "name": "University Oncology Center",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Morbid & Mortal Unit",
+        "name": "Morbid & Mortal Unit",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Urology Department",
+        "name": "Urology Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Blood Bank Department",
+        "name": "Blood Bank Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Technol Innovat Ctr Tic",
+        "name": "Technol Innovat Ctr Tic",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Abdullah Bugshan Dental & Oral Rehab Research Chair",
+        "name": "Abdullah Bugshan Dental & Oral Rehab Research Chair",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Information & Health Promotion Research Chair",
+        "name": "Health Information & Health Promotion Research Chair",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Protein Research",
+        "name": "Chair Protein Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering Chemistry Engineering Department",
+        "name": "Engineering Chemistry Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Basic Science Mathematics Department",
+        "name": "Basic Science Mathematics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Endocrinology Division",
+        "name": "Pediatric Endocrinology Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Genetics Department",
+        "name": "Genetics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Imaging & Radiology Department",
+        "name": "Medical Imaging & Radiology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Education Center",
+        "name": "Medical Education Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Naiffor Health Research Center",
+        "name": "Prince Naiffor Health Research Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Anaesthesia Department",
+        "name": "Anaesthesia Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Industrial Ingeneering Department",
+        "name": "Industrial Ingeneering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacgnosy Department",
+        "name": "Pharmacgnosy Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "College Applied Medical Science & Rehabilitation Research Chair",
+        "name": "College Applied Medical Science & Rehabilitation Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Control Department",
+        "name": "Infectious Control Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Oral Medical Department",
+        "name": "Oral Medical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Diagnostic Science Department",
+        "name": "Diagnostic Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Kacst Technololgy Innovat Center",
+        "name": "Kacst Technololgy Innovat Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmacogonosy Department",
+        "name": "Pharmacogonosy Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Lab Center",
+        "name": "Research Lab Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Sports Medical & Arthroscopy Division",
+        "name": "Sports Medical & Arthroscopy Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Chairs Program",
+        "name": "Research Chairs Program",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Digital Speech Proc Department",
+        "name": "Digital Speech Proc Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Glaucoma Research Chair",
+        "name": "Glaucoma Research Chair",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Urooncol Research Chair",
+        "name": "Urooncol Research Chair",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Pharmocognosy Department",
+        "name": "Pharmocognosy Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Education Research & Development Department",
+        "name": "Medical Education Research & Development Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Orl Department",
+        "name": "Orl Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pathology Microbiology Department",
+        "name": "Pathology Microbiology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Female Center",
+        "name": "Female Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Orthodontics Researchidency Program",
+        "name": "Orthodontics Researchidency Program",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medical Hematology Oncology Department",
+        "name": "Medical Hematology Oncology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Alamoudi Chair Water Research",
+        "name": "Alamoudi Chair Water Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Dental Implant & Osseointegrat Research Chair",
+        "name": "Dental Implant & Osseointegrat Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Infectious Disease Department",
+        "name": "Pediatric Infectious Disease Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainle Energy Technololgy Center",
+        "name": "Sustainle Energy Technololgy Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical Department",
+        "name": "Mechanical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Abdullah Bugshan Research Chair Dental & Oral Rehabilitation",
+        "name": "Abdullah Bugshan Research Chair Dental & Oral Rehabilitation",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Agricultural & Food Chemistry Department",
+        "name": "Agricultural & Food Chemistry Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Quality Research Unit",
+        "name": "Quality Research Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Hematology Oncology Department",
+        "name": "Pediatric Hematology Oncology Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Hematology Oncology Center",
+        "name": "Hematology Oncology Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Aging Research Chair",
+        "name": "Aging Research Chair",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Research",
+        "name": "Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Chair Engineer Abdullah Baqshan Bee Research",
+        "name": "Chair Engineer Abdullah Baqshan Bee Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Disaster Management Unit",
+        "name": "Disaster Management Unit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Eecenter Engineering Department",
+        "name": "Eecenter Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Internal Medical 2 Department",
+        "name": "Internal Medical 2 Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergency Unit",
+        "name": "Emergency Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Sleep Disorders Center",
+        "name": "Sleep Disorders Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Agricultural Extension & Rural Sociol Department",
+        "name": "Agricultural Extension & Rural Sociol Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiac Surgery Department",
+        "name": "Cardiac Surgery Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiac Anesthesia Department",
+        "name": "Cardiac Anesthesia Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Camel Biomedical Research Unit",
+        "name": "Camel Biomedical Research Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "University Sleep Disorder Center",
+        "name": "University Sleep Disorder Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Plant Physiology Plant Production Department",
+        "name": "Plant Physiology Plant Production Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Community Medical Unit",
+        "name": "Community Medical Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Modern Languages & Translation Department",
+        "name": "Modern Languages & Translation Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Precision Agricultural Research",
+        "name": "Precision Agricultural Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Transfus Medical Department",
+        "name": "Transfus Medical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Radiation Oncology Department",
+        "name": "Radiation Oncology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Fcm Cpg Department Comm",
+        "name": "Fcm Cpg Department Comm",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Experiential Training Unit",
+        "name": "Experiential Training Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Hematopathol Researchident",
+        "name": "Hematopathol Researchident",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Naif Bin Abdulaziz Health Research Center Pnhrc",
+        "name": "Prince Naif Bin Abdulaziz Health Research Center Pnhrc",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Community Health Sciences Department",
+        "name": "Community Health Sciences Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Endodontics Department",
+        "name": "Endodontics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "King Saud University Department",
+        "name": "King Saud University Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pediatric Infectious Disease Division",
+        "name": "Pediatric Infectious Disease Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Public Health Epidemiology & Health Economics Department",
+        "name": "Public Health Epidemiology & Health Economics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Applied Electrical Engineering Department",
+        "name": "Applied Electrical Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Plant Production Department Plant Ecol",
+        "name": "Plant Production Department Plant Ecol",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Surgery General Surgery Department",
+        "name": "Surgery General Surgery Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Internal Medical Gastroenterology Department",
+        "name": "Internal Medical Gastroenterology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Plastic & Reconstruct Surgery Division",
+        "name": "Plastic & Reconstruct Surgery Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainable Energy Center Technololgy",
+        "name": "Sustainable Energy Center Technololgy",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Rheumatology Unit",
+        "name": "Rheumatology Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Unit",
+        "name": "Infectious Unit",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Prince Sattam Research Chair Epidemiology & Public Health",
+        "name": "Prince Sattam Research Chair Epidemiology & Public Health",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Nursing Department",
+        "name": "Nursing Department",
+        "collaborations": 3,
+        "color": "#969696"
+    }
+]

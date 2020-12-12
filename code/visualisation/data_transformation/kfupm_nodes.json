@@ -1,0 +1,278 @@
+[
+    {
+        "id": "Accounting and Management Information Systems Department",
+        "name": "Accounting and Management Information Systems Department",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Aerospace Engineering Department",
+        "name": "Aerospace Engineering Department",
+        "collaborations": 20,
+        "color": "#969696"
+    },
+    {
+        "id": "Architectural Engineering Department",
+        "name": "Architectural Engineering Department",
+        "collaborations": 44,
+        "color": "#969696"
+    },
+    {
+        "id": "Architecture Department",
+        "name": "Architecture Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Carbon Capture and Sequestration Research Center",
+        "name": "Carbon Capture and Sequestration Research Center",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemical Engineering Department",
+        "name": "Chemical Engineering Department",
+        "collaborations": 249,
+        "color": "#31a354"
+    },
+    {
+        "id": "Chemistry Department",
+        "name": "Chemistry Department",
+        "collaborations": 362,
+        "color": "#e6550d"
+    },
+    {
+        "id": "City and Regional Planning Department",
+        "name": "City and Regional Planning Department",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Civil and Environmental Engineering Department",
+        "name": "Civil and Environmental Engineering Department",
+        "collaborations": 112,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Civil Engineering Department",
+        "name": "Civil Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Engineering Department",
+        "name": "Computer Engineering Department",
+        "collaborations": 48,
+        "color": "#969696"
+    },
+    {
+        "id": "Construction Engineering and Management Department",
+        "name": "Construction Engineering and Management Department",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "Corrosion Research Excellence Center",
+        "name": "Corrosion Research Excellence Center",
+        "collaborations": 129,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Dammam Community College",
+        "name": "Dammam Community College",
+        "collaborations": 21,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering Department",
+        "name": "Electrical Engineering Department",
+        "collaborations": 103,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Energy Efficiency Research Excellence Center",
+        "name": "Energy Efficiency Research Excellence Center",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "Energy Research and Innovation Center",
+        "name": "Energy Research and Innovation Center",
+        "collaborations": 49,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering Research Center",
+        "name": "Engineering Research Center",
+        "collaborations": 124,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Engn Technol Program",
+        "name": "Engn Technol Program",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Environment & Water Research Center",
+        "name": "Environment & Water Research Center",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Environment and Water Research Center",
+        "name": "Environment and Water Research Center",
+        "collaborations": 186,
+        "color": "#74c476"
+    },
+    {
+        "id": "General Studies Department",
+        "name": "General Studies Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Geosciences Department",
+        "name": "Geosciences Department",
+        "collaborations": 103,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Global and Social Studies Department",
+        "name": "Global and Social Studies Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Graduate Studies",
+        "name": "Graduate Studies",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Hafr Al-Batin Community College",
+        "name": "Hafr Al-Batin Community College",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Information and Communication Technology Center",
+        "name": "Information and Communication Technology Center",
+        "collaborations": 34,
+        "color": "#969696"
+    },
+    {
+        "id": "Information and Computer Science Department",
+        "name": "Information and Computer Science Department",
+        "collaborations": 32,
+        "color": "#969696"
+    },
+    {
+        "id": "Information System & Operations Management Department",
+        "name": "Information System & Operations Management Department",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Integrative Petroleum Research Center",
+        "name": "Integrative Petroleum Research Center",
+        "collaborations": 148,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Life Sciences Department",
+        "name": "Life Sciences Department",
+        "collaborations": 39,
+        "color": "#969696"
+    },
+    {
+        "id": "Management and Marketing Department",
+        "name": "Management and Marketing Department",
+        "collaborations": 31,
+        "color": "#969696"
+    },
+    {
+        "id": "Mathematics and Statistics Department",
+        "name": "Mathematics and Statistics Department",
+        "collaborations": 38,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical Engineering Department",
+        "name": "Mechanical Engineering Department",
+        "collaborations": 350,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Modeling and Computer Simulation Research Center",
+        "name": "Modeling and Computer Simulation Research Center",
+        "collaborations": 15,
+        "color": "#969696"
+    },
+    {
+        "id": "Nanotechnology Research Excellence Center",
+        "name": "Nanotechnology Research Excellence Center",
+        "collaborations": 437,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Petroleum Engineering Department",
+        "name": "Petroleum Engineering Department",
+        "collaborations": 128,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Physical Education Department",
+        "name": "Physical Education Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Physics Department",
+        "name": "Physics Department",
+        "collaborations": 183,
+        "color": "#74c476"
+    },
+    {
+        "id": "Preparatory Year Program",
+        "name": "Preparatory Year Program",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Projects Department",
+        "name": "Projects Department",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Refining & Petrochemicals Research Excellence Center",
+        "name": "Refining & Petrochemicals Research Excellence Center",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Refining and Petrochemicals Research Excellence Center",
+        "name": "Refining and Petrochemicals Research Excellence Center",
+        "collaborations": 52,
+        "color": "#636363"
+    },
+    {
+        "id": "Renewable Energy Research Excellence Center",
+        "name": "Renewable Energy Research Excellence Center",
+        "collaborations": 226,
+        "color": "#31a354"
+    },
+    {
+        "id": "Science Research Excellence Center MIT Collaboration",
+        "name": "Science Research Excellence Center MIT Collaboration",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Systems Engineering Department",
+        "name": "Systems Engineering Department",
+        "collaborations": 27,
+        "color": "#969696"
+    }
+]

@@ -1,0 +1,1704 @@
+{
+    "series": [
+        {
+            "name": "Nanotechnology Research Excellence Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 94
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 36
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 107
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 16
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 27
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 68
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 12
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 18
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 2
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 3
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 11
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 4
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Chemistry Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 94
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 22
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 33
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 28
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 30
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 20
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 15
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 32
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 9
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 17
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 13
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 9
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 5
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Mechanical Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 36
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 22
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 73
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 20
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 14
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 6
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 50
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 14
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 10
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 17
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 10
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 9
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 3
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 8
+                }
+            ]
+        },
+        {
+            "name": "Chemical Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 107
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 33
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 7
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 4
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 8
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 2
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 9
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 6
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 26
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 2
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Renewable Energy Research Excellence Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 16
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 28
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 73
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 20
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 13
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 5
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 5
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 4
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 5
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Environment and Water Research Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 27
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 30
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 20
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 20
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 19
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 8
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 3
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 22
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 2
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 2
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 6
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Physics Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 68
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 20
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 14
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 13
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 19
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 4
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 13
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 2
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Integrative Petroleum Research Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 12
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 15
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 8
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 4
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 65
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 13
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 1
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Corrosion Research Excellence Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 32
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 50
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 11
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Petroleum Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 14
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 9
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 6
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 3
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 1
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 65
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 3
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 8
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 1
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 2
+                }
+            ]
+        },
+        {
+            "name": "Engineering Research Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 18
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 9
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 3
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 2
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 11
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 32
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 15
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Civil and Environmental Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 13
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 17
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 8
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 3
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 5
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 32
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 2
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Electrical Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 4
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 8
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 17
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 10
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 15
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 4
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 2
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 4
+                }
+            ]
+        },
+        {
+            "name": "Geosciences Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 2
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 13
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 22
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 5
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 13
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Refining and Petrochemicals Research Excellence Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 3
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 9
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 26
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 4
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Energy Research and Innovation Center",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 11
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 9
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 13
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Computer Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 3
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 2
+                }
+            ]
+        },
+        {
+            "name": "Architectural Engineering Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 0
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Life Sciences Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 4
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 1
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 6
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 2
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 5
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 5
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 2
+                }
+            ]
+        },
+        {
+            "name": "Mathematics and Statistics Department",
+            "data": [
+                {
+                    "x": "Nanotechnology Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Renewable Energy Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Environment and Water Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Physics Department",
+                    "y": 1
+                },
+                {
+                    "x": "Integrative Petroleum Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Corrosion Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Petroleum Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Engineering Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Civil and Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Geosciences Department",
+                    "y": 1
+                },
+                {
+                    "x": "Refining and Petrochemicals Research Excellence Center",
+                    "y": 0
+                },
+                {
+                    "x": "Energy Research and Innovation Center",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Architectural Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Life Sciences Department",
+                    "y": 2
+                },
+                {
+                    "x": "Mathematics and Statistics Department",
+                    "y": 0
+                }
+            ]
+        }
+    ]
+}

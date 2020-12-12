@@ -1,0 +1,2687 @@
+[
+    {
+        "id": 0,
+        "name": "Optometry Department",
+        "type": "department"
+    },
+    {
+        "id": 1,
+        "name": "Pharmaceutical Chemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 2,
+        "name": "Research Center",
+        "type": "center"
+    },
+    {
+        "id": 3,
+        "name": "Physics & Astronomy Department",
+        "type": "department"
+    },
+    {
+        "id": 4,
+        "name": "Research Chair Cyber Secur",
+        "type": "center"
+    },
+    {
+        "id": 5,
+        "name": "Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 6,
+        "name": "Soil Science Department",
+        "type": "department"
+    },
+    {
+        "id": 7,
+        "name": "Sustainable Energy Technology Center",
+        "type": "center"
+    },
+    {
+        "id": 8,
+        "name": "Chemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 9,
+        "name": "Kacst Technololgy Innovat Center Radio Frequency & Photonics",
+        "type": "center"
+    },
+    {
+        "id": 10,
+        "name": "Electrical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 11,
+        "name": "Plant Production Department",
+        "type": "department"
+    },
+    {
+        "id": 12,
+        "name": "Zoology Department",
+        "type": "department"
+    },
+    {
+        "id": 13,
+        "name": "Botany & Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 14,
+        "name": "Plant Protection Department",
+        "type": "department"
+    },
+    {
+        "id": 15,
+        "name": "King Abdullah Institute Nanotechnology",
+        "type": "center"
+    },
+    {
+        "id": 16,
+        "name": "Chemical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 17,
+        "name": "Biology Department",
+        "type": "department"
+    },
+    {
+        "id": 18,
+        "name": "Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 19,
+        "name": "Statistics & Operations Research Department",
+        "type": "department"
+    },
+    {
+        "id": 20,
+        "name": "Natural Science Department",
+        "type": "department"
+    },
+    {
+        "id": 21,
+        "name": "Information Systems Department",
+        "type": "department"
+    },
+    {
+        "id": 22,
+        "name": "Research Chair Pervas & Mobile Computer",
+        "type": "center"
+    },
+    {
+        "id": 23,
+        "name": "Dental Health Department",
+        "type": "department"
+    },
+    {
+        "id": 24,
+        "name": "Information Science Department",
+        "type": "department"
+    },
+    {
+        "id": 25,
+        "name": "Industrial Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 26,
+        "name": "Biochemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 27,
+        "name": "Community Health Department",
+        "type": "department"
+    },
+    {
+        "id": 28,
+        "name": "Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 29,
+        "name": "Obstet & Gynaecol Department",
+        "type": "department"
+    },
+    {
+        "id": 30,
+        "name": "Clinical Lab Science Department",
+        "type": "department"
+    },
+    {
+        "id": 31,
+        "name": "Geog Department",
+        "type": "department"
+    },
+    {
+        "id": 32,
+        "name": "Pediatric Neuroophthalmology Division",
+        "type": "center"
+    },
+    {
+        "id": 33,
+        "name": "Pathology Department",
+        "type": "department"
+    },
+    {
+        "id": 34,
+        "name": "Medical Aromat & Poisonous Plants Research Center",
+        "type": "center"
+    },
+    {
+        "id": 35,
+        "name": "Lab Center",
+        "type": "center"
+    },
+    {
+        "id": 36,
+        "name": "Endodontics Division",
+        "type": "center"
+    },
+    {
+        "id": 37,
+        "name": "Researchtorat Dental Science Department",
+        "type": "department"
+    },
+    {
+        "id": 38,
+        "name": "Ophthalmology Department",
+        "type": "department"
+    },
+    {
+        "id": 39,
+        "name": "Community Health Science Department",
+        "type": "department"
+    },
+    {
+        "id": 40,
+        "name": "Civil Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 41,
+        "name": "Pharmacology Department",
+        "type": "department"
+    },
+    {
+        "id": 42,
+        "name": "Pharmacology & Toxicology Department",
+        "type": "department"
+    },
+    {
+        "id": 43,
+        "name": "University Sleep Disorders Center",
+        "type": "center"
+    },
+    {
+        "id": 44,
+        "name": "Family Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 45,
+        "name": "Cardiac Science Department",
+        "type": "department"
+    },
+    {
+        "id": 46,
+        "name": "Prosthetic Dental Science Department",
+        "type": "department"
+    },
+    {
+        "id": 47,
+        "name": "Prince Naif Center Immunology Research",
+        "type": "center"
+    },
+    {
+        "id": 48,
+        "name": "Food Science & Nutrition Department",
+        "type": "department"
+    },
+    {
+        "id": 49,
+        "name": "Pharmaceutical Department",
+        "type": "department"
+    },
+    {
+        "id": 50,
+        "name": "Physiology & Pharmacology Department",
+        "type": "department"
+    },
+    {
+        "id": 51,
+        "name": "Medical Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 52,
+        "name": "Excellence Information Assurance Coeia Center",
+        "type": "center"
+    },
+    {
+        "id": 53,
+        "name": "Rehabilitation Science Department",
+        "type": "department"
+    },
+    {
+        "id": 54,
+        "name": "Pediatric Department",
+        "type": "department"
+    },
+    {
+        "id": 55,
+        "name": "Physics Department",
+        "type": "department"
+    },
+    {
+        "id": 56,
+        "name": "Paediatrics Department",
+        "type": "department"
+    },
+    {
+        "id": 57,
+        "name": "Excellence Information Assurance Center",
+        "type": "center"
+    },
+    {
+        "id": 58,
+        "name": "Computer Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 59,
+        "name": "Software Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 60,
+        "name": "Excellence Research Engineering Material Center",
+        "type": "center"
+    },
+    {
+        "id": 61,
+        "name": "Mechanical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 62,
+        "name": "Sustainable Energy Technololgy Center",
+        "type": "center"
+    },
+    {
+        "id": 63,
+        "name": "Microbiology & Botany Department",
+        "type": "department"
+    },
+    {
+        "id": 64,
+        "name": "Pharmacognosy Department",
+        "type": "department"
+    },
+    {
+        "id": 65,
+        "name": "Finance Department",
+        "type": "department"
+    },
+    {
+        "id": 66,
+        "name": "Obstet & Gynecology Department",
+        "type": "department"
+    },
+    {
+        "id": 67,
+        "name": "Oral Medical & Diagnostic Science Department",
+        "type": "department"
+    },
+    {
+        "id": 68,
+        "name": "Animal Production Department",
+        "type": "department"
+    },
+    {
+        "id": 69,
+        "name": "Orthopedic Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 70,
+        "name": "Clinical Pharmacology Department",
+        "type": "department"
+    },
+    {
+        "id": 71,
+        "name": "Special Education Department",
+        "type": "department"
+    },
+    {
+        "id": 72,
+        "name": "Obesity Research Center",
+        "type": "center"
+    },
+    {
+        "id": 73,
+        "name": "Proteomics Researchource Unit Obesity",
+        "type": "center"
+    },
+    {
+        "id": 74,
+        "name": "Advanced Manufacturing Institute",
+        "type": "center"
+    },
+    {
+        "id": 75,
+        "name": "Geology & Geophysics Department",
+        "type": "department"
+    },
+    {
+        "id": 76,
+        "name": "Periodontics & Community Dental Department",
+        "type": "department"
+    },
+    {
+        "id": 77,
+        "name": "Physiology Department",
+        "type": "department"
+    },
+    {
+        "id": 78,
+        "name": "Global Center Mass Gatherings Medical",
+        "type": "center"
+    },
+    {
+        "id": 79,
+        "name": "Gastroenterology Division",
+        "type": "center"
+    },
+    {
+        "id": 80,
+        "name": "Infectious Disease Unit",
+        "type": "center"
+    },
+    {
+        "id": 81,
+        "name": "Microbiology Units",
+        "type": "center"
+    },
+    {
+        "id": 82,
+        "name": "Prince Abdullah Bin Khalid Celiac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 83,
+        "name": "Chemistry Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 84,
+        "name": "King Fahad Cardiac Center",
+        "type": "center"
+    },
+    {
+        "id": 85,
+        "name": "Medical Education Department",
+        "type": "department"
+    },
+    {
+        "id": 86,
+        "name": "Exercise Physiology Department",
+        "type": "department"
+    },
+    {
+        "id": 87,
+        "name": "Nursing Administration & Education Department",
+        "type": "department"
+    },
+    {
+        "id": 88,
+        "name": "Information Technololgy Department",
+        "type": "department"
+    },
+    {
+        "id": 89,
+        "name": "Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 90,
+        "name": "Excellence Research Engineering Material Cerem Center",
+        "type": "center"
+    },
+    {
+        "id": 91,
+        "name": "Chair Dna Research",
+        "type": "center"
+    },
+    {
+        "id": 92,
+        "name": "Science Research",
+        "type": "center"
+    },
+    {
+        "id": 93,
+        "name": "Riyadh Biochemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 94,
+        "name": "Strategic Center Diabetes Research",
+        "type": "center"
+    },
+    {
+        "id": 95,
+        "name": "Thoracic Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 96,
+        "name": "Statistics & Or Department",
+        "type": "department"
+    },
+    {
+        "id": 97,
+        "name": "Oral & Maxillofacial Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 98,
+        "name": "Anat Department",
+        "type": "department"
+    },
+    {
+        "id": 99,
+        "name": "Natural & Engineering Science Department",
+        "type": "department"
+    },
+    {
+        "id": 100,
+        "name": "Applied Medical Science Department",
+        "type": "department"
+    },
+    {
+        "id": 101,
+        "name": "Petroleum & Natural Gas Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 102,
+        "name": "College Medical Research Center",
+        "type": "center"
+    },
+    {
+        "id": 103,
+        "name": "Cardiology Department",
+        "type": "department"
+    },
+    {
+        "id": 104,
+        "name": "Rehabilitation Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 105,
+        "name": "Prince Sattam Bin Abdulaziz Research Chair Epidemiology &",
+        "type": "center"
+    },
+    {
+        "id": 106,
+        "name": "Abdullah Bugshan Research Chair Dental & Oral Rehab",
+        "type": "center"
+    },
+    {
+        "id": 107,
+        "name": "Endocrinology Department",
+        "type": "department"
+    },
+    {
+        "id": 108,
+        "name": "Medical Surgery Nursing Department",
+        "type": "department"
+    },
+    {
+        "id": 109,
+        "name": "Dental Biomaterials Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 110,
+        "name": "Clincal Pharmacology Department",
+        "type": "department"
+    },
+    {
+        "id": 111,
+        "name": "Medical Aromat & Poisonous Plant Research Center",
+        "type": "center"
+    },
+    {
+        "id": 112,
+        "name": "Clinical Pharmacokinet & Pharmacodynam Unit",
+        "type": "center"
+    },
+    {
+        "id": 113,
+        "name": "Psychiatry Department",
+        "type": "department"
+    },
+    {
+        "id": 114,
+        "name": "Emergency Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 115,
+        "name": "Critical Care Department",
+        "type": "department"
+    },
+    {
+        "id": 116,
+        "name": "Pediatric Intensive Care Unit",
+        "type": "center"
+    },
+    {
+        "id": 117,
+        "name": "Petroleum & Gas Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 118,
+        "name": "Geology Department",
+        "type": "department"
+    },
+    {
+        "id": 119,
+        "name": "Psychol Department",
+        "type": "department"
+    },
+    {
+        "id": 120,
+        "name": "Urban Planning Department",
+        "type": "department"
+    },
+    {
+        "id": 121,
+        "name": "Otolaryngol Head & Neck Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 122,
+        "name": "English Language & Translation Department",
+        "type": "department"
+    },
+    {
+        "id": 123,
+        "name": "Paediatrics Dental & Orthodontics Department",
+        "type": "department"
+    },
+    {
+        "id": 124,
+        "name": "Precision Agricultural Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 125,
+        "name": "Health Science Department",
+        "type": "department"
+    },
+    {
+        "id": 126,
+        "name": "Prince Sultan Research Chair Environm & Wildlife",
+        "type": "center"
+    },
+    {
+        "id": 127,
+        "name": "Neuroophthalmology Division",
+        "type": "center"
+    },
+    {
+        "id": 128,
+        "name": "Orthopedic Department",
+        "type": "department"
+    },
+    {
+        "id": 129,
+        "name": "Li Ka Shing Collaborative Research Program",
+        "type": "center"
+    },
+    {
+        "id": 130,
+        "name": "Pathology & Lab Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 131,
+        "name": "Pediatric Infectious Disease Unit",
+        "type": "center"
+    },
+    {
+        "id": 132,
+        "name": "Urology Division",
+        "type": "center"
+    },
+    {
+        "id": 133,
+        "name": "Dept Family & Community Med",
+        "type": "department"
+    },
+    {
+        "id": 134,
+        "name": "Chair Medical Education Research & Development",
+        "type": "center"
+    },
+    {
+        "id": 135,
+        "name": "Plastic & Hand Surgery Division",
+        "type": "center"
+    },
+    {
+        "id": 136,
+        "name": "Basic Science Department",
+        "type": "department"
+    },
+    {
+        "id": 137,
+        "name": "Electrical Department",
+        "type": "department"
+    },
+    {
+        "id": 138,
+        "name": "Arabic Linguistics Institute",
+        "type": "center"
+    },
+    {
+        "id": 139,
+        "name": "King Saud University Li Ka Shing Collaborative Research Program",
+        "type": "center"
+    },
+    {
+        "id": 140,
+        "name": "Optometry & Vis Science Department",
+        "type": "department"
+    },
+    {
+        "id": 141,
+        "name": "Anesthesiol Department",
+        "type": "department"
+    },
+    {
+        "id": 142,
+        "name": "Pharmaceutical & Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 143,
+        "name": "Botany Department",
+        "type": "department"
+    },
+    {
+        "id": 144,
+        "name": "Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 145,
+        "name": "Vitiligo Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 146,
+        "name": "College Engineering Center",
+        "type": "center"
+    },
+    {
+        "id": 147,
+        "name": "Internal Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 148,
+        "name": "King Abdullah Ear Specialist Center",
+        "type": "center"
+    },
+    {
+        "id": 149,
+        "name": "Curriculum Development & Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 150,
+        "name": "Biomedical Technololgy Department",
+        "type": "department"
+    },
+    {
+        "id": 151,
+        "name": "Shaik Al Amodi Autism Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 152,
+        "name": "Cardiovasc Science Department",
+        "type": "department"
+    },
+    {
+        "id": 153,
+        "name": "Medication Safety Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 154,
+        "name": "Prince Naif Health Research Center",
+        "type": "center"
+    },
+    {
+        "id": 155,
+        "name": "Vaccines & Biology Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 156,
+        "name": "Economics Department",
+        "type": "department"
+    },
+    {
+        "id": 157,
+        "name": "Molecular Genetics Pathology Unit",
+        "type": "center"
+    },
+    {
+        "id": 158,
+        "name": "Pediatric Dental & Orthodontics Department",
+        "type": "department"
+    },
+    {
+        "id": 159,
+        "name": "Liver Disease Research Center",
+        "type": "center"
+    },
+    {
+        "id": 160,
+        "name": "King Saud University Li Ka Shing Knowledge Institute Collaboration",
+        "type": "center"
+    },
+    {
+        "id": 161,
+        "name": "Enthns Department",
+        "type": "department"
+    },
+    {
+        "id": 162,
+        "name": "Orthopaedics Department",
+        "type": "department"
+    },
+    {
+        "id": 163,
+        "name": "Female Science & Medical College Center",
+        "type": "center"
+    },
+    {
+        "id": 164,
+        "name": "Dental Biomaterials Research & Development Chair",
+        "type": "center"
+    },
+    {
+        "id": 165,
+        "name": "Alamoudi Water Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 166,
+        "name": "Agricultural Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 167,
+        "name": "Structure Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 168,
+        "name": "Excellence Concrete Research & Testing Center",
+        "type": "center"
+    },
+    {
+        "id": 169,
+        "name": "Archaeology Department",
+        "type": "department"
+    },
+    {
+        "id": 170,
+        "name": "Pathology & Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 171,
+        "name": "University Diabetes Center",
+        "type": "center"
+    },
+    {
+        "id": 172,
+        "name": "Autism Research & Treatment Center",
+        "type": "center"
+    },
+    {
+        "id": 173,
+        "name": "Pharmacology & Physiology Department",
+        "type": "department"
+    },
+    {
+        "id": 174,
+        "name": "Research Support Department",
+        "type": "department"
+    },
+    {
+        "id": 175,
+        "name": "Research Chair Health Information & Promot",
+        "type": "center"
+    },
+    {
+        "id": 176,
+        "name": "Science Technololgy & Innovation Unit",
+        "type": "center"
+    },
+    {
+        "id": 177,
+        "name": "Anesthesia Department",
+        "type": "department"
+    },
+    {
+        "id": 178,
+        "name": "Vasc Surgery Division",
+        "type": "center"
+    },
+    {
+        "id": 179,
+        "name": "Curriculum Instruction Department",
+        "type": "department"
+    },
+    {
+        "id": 180,
+        "name": "Excellent Center Science & Mathematics Education",
+        "type": "center"
+    },
+    {
+        "id": 181,
+        "name": "Pharmacoecon Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 182,
+        "name": "Researchtorat Science Department",
+        "type": "department"
+    },
+    {
+        "id": 183,
+        "name": "Nanomedicine Unit Nmu",
+        "type": "center"
+    },
+    {
+        "id": 184,
+        "name": "Dermatology Department",
+        "type": "department"
+    },
+    {
+        "id": 185,
+        "name": "Research Chair Laser Diagnosis Cancer",
+        "type": "center"
+    },
+    {
+        "id": 186,
+        "name": "Deanship Science Research",
+        "type": "center"
+    },
+    {
+        "id": 187,
+        "name": "Excellence Thrombosis & Haemostasis Center",
+        "type": "center"
+    },
+    {
+        "id": 188,
+        "name": "Head & Neck Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 189,
+        "name": "King Abdullah Ear Specialist Center Kaesc",
+        "type": "center"
+    },
+    {
+        "id": 190,
+        "name": "Nasser Al Rashid Ophthalmology Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 191,
+        "name": "Nephrology Division",
+        "type": "center"
+    },
+    {
+        "id": 192,
+        "name": "Rheumatology Division",
+        "type": "center"
+    },
+    {
+        "id": 193,
+        "name": "Applied Science Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 194,
+        "name": "Research Chair Exploitat Renewable Energy Applicat Sau",
+        "type": "center"
+    },
+    {
+        "id": 195,
+        "name": "Pharmacognosy & Medical Aromat Department",
+        "type": "department"
+    },
+    {
+        "id": 196,
+        "name": "Poisonous Plants Research Center",
+        "type": "center"
+    },
+    {
+        "id": 197,
+        "name": "Lab Research Center",
+        "type": "center"
+    },
+    {
+        "id": 198,
+        "name": "Prince Sultan Advanced Technololgy Research Institute",
+        "type": "center"
+    },
+    {
+        "id": 199,
+        "name": "Physics Therapy Department",
+        "type": "department"
+    },
+    {
+        "id": 200,
+        "name": "It Department",
+        "type": "department"
+    },
+    {
+        "id": 201,
+        "name": "Excellence Biotechnology Research Center",
+        "type": "center"
+    },
+    {
+        "id": 202,
+        "name": "Islamic Banking Center",
+        "type": "center"
+    },
+    {
+        "id": 203,
+        "name": "Microbiology Unit",
+        "type": "center"
+    },
+    {
+        "id": 204,
+        "name": "Obstetric Gynecology Department",
+        "type": "department"
+    },
+    {
+        "id": 205,
+        "name": "Family & Community Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 206,
+        "name": "Administration Science Department",
+        "type": "department"
+    },
+    {
+        "id": 207,
+        "name": "Smart Robootics Research Center",
+        "type": "center"
+    },
+    {
+        "id": 208,
+        "name": "Plastic Surgery Division",
+        "type": "center"
+    },
+    {
+        "id": 209,
+        "name": "Oncology Division",
+        "type": "center"
+    },
+    {
+        "id": 210,
+        "name": "Microbiology Division",
+        "type": "center"
+    },
+    {
+        "id": 211,
+        "name": "Research Chair Biomedical Applicat Nanomat",
+        "type": "center"
+    },
+    {
+        "id": 212,
+        "name": "Medical Information & E Learning Unit",
+        "type": "center"
+    },
+    {
+        "id": 213,
+        "name": "Histopathol Department",
+        "type": "department"
+    },
+    {
+        "id": 214,
+        "name": "Elecenteron Microscope Unit",
+        "type": "center"
+    },
+    {
+        "id": 215,
+        "name": "Medical & Nephrology Department",
+        "type": "department"
+    },
+    {
+        "id": 216,
+        "name": "Family Medical & Polyclin Department",
+        "type": "department"
+    },
+    {
+        "id": 217,
+        "name": "Rehabilitation Health Science Department",
+        "type": "department"
+    },
+    {
+        "id": 218,
+        "name": "Bioproducts Research Department",
+        "type": "department"
+    },
+    {
+        "id": 219,
+        "name": "Cancer Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 220,
+        "name": "Female Medical Studies Center",
+        "type": "center"
+    },
+    {
+        "id": 221,
+        "name": "Oncology Center",
+        "type": "center"
+    },
+    {
+        "id": 222,
+        "name": "Intensive Care Unit",
+        "type": "center"
+    },
+    {
+        "id": 223,
+        "name": "Bugshan Research Chair Expans Soils",
+        "type": "center"
+    },
+    {
+        "id": 224,
+        "name": "Neurosurgery Department",
+        "type": "department"
+    },
+    {
+        "id": 225,
+        "name": "Radiology & Medical Imaging Department",
+        "type": "department"
+    },
+    {
+        "id": 226,
+        "name": "Nursing Education & Administration Department",
+        "type": "department"
+    },
+    {
+        "id": 227,
+        "name": "Ems Department",
+        "type": "department"
+    },
+    {
+        "id": 228,
+        "name": "Prince Abdullah Bin Khalid Coeliac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 229,
+        "name": "Pharmacology Unit",
+        "type": "center"
+    },
+    {
+        "id": 230,
+        "name": "Researchtorat Dental Department",
+        "type": "department"
+    },
+    {
+        "id": 231,
+        "name": "Science Department",
+        "type": "department"
+    },
+    {
+        "id": 232,
+        "name": "Colorectal Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 233,
+        "name": "Obesity Center",
+        "type": "center"
+    },
+    {
+        "id": 234,
+        "name": "Orthopedics Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 235,
+        "name": "Prince Sultan Institute Environm Water & Desert Research",
+        "type": "center"
+    },
+    {
+        "id": 236,
+        "name": "Dental Caries Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 237,
+        "name": "Pharmaceutical Science Department",
+        "type": "department"
+    },
+    {
+        "id": 238,
+        "name": "Medical Chemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 239,
+        "name": "King Abdlullah Nanotechnology Institute",
+        "type": "center"
+    },
+    {
+        "id": 240,
+        "name": "Sabic Psychological Health Research & Applications Chair",
+        "type": "center"
+    },
+    {
+        "id": 241,
+        "name": "Management Information Systems Department",
+        "type": "department"
+    },
+    {
+        "id": 242,
+        "name": "Food Science & Human Nutrition Department",
+        "type": "department"
+    },
+    {
+        "id": 243,
+        "name": "Prince Abdullah Bin Khaled Coeliac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 244,
+        "name": "Orthodontics Department",
+        "type": "department"
+    },
+    {
+        "id": 245,
+        "name": "Medical Aromat & Poisonous Plants Research Center Maprc",
+        "type": "center"
+    },
+    {
+        "id": 246,
+        "name": "University Center Women Students",
+        "type": "center"
+    },
+    {
+        "id": 247,
+        "name": "Surgery Division",
+        "type": "center"
+    },
+    {
+        "id": 248,
+        "name": "Medical Division",
+        "type": "center"
+    },
+    {
+        "id": 249,
+        "name": "Abdullah Bugshan Research Chair Growth Factor",
+        "type": "center"
+    },
+    {
+        "id": 250,
+        "name": "Princess Fatima Alnijriss Research Chair Advanced Manufacturing Techn",
+        "type": "center"
+    },
+    {
+        "id": 251,
+        "name": "Food Science Department",
+        "type": "department"
+    },
+    {
+        "id": 252,
+        "name": "Drug & Poison Information Center",
+        "type": "center"
+    },
+    {
+        "id": 253,
+        "name": "Drug Information Center",
+        "type": "center"
+    },
+    {
+        "id": 254,
+        "name": "Health Administration Department",
+        "type": "department"
+    },
+    {
+        "id": 255,
+        "name": "Sabic Polymer Research Center",
+        "type": "center"
+    },
+    {
+        "id": 256,
+        "name": "English Language & Literature Department",
+        "type": "department"
+    },
+    {
+        "id": 257,
+        "name": "Chair Research & Studies Strengthening & Rehabilitation",
+        "type": "center"
+    },
+    {
+        "id": 258,
+        "name": "Seismic Studies Center",
+        "type": "center"
+    },
+    {
+        "id": 259,
+        "name": "Neurosurgery Division",
+        "type": "center"
+    },
+    {
+        "id": 260,
+        "name": "Community & Psychiatry Nursing Department",
+        "type": "department"
+    },
+    {
+        "id": 261,
+        "name": "Maternal & Child Health Department",
+        "type": "department"
+    },
+    {
+        "id": 262,
+        "name": "General Dental Department",
+        "type": "department"
+    },
+    {
+        "id": 263,
+        "name": "Food Production Department",
+        "type": "department"
+    },
+    {
+        "id": 264,
+        "name": "Hematology Oncology Department",
+        "type": "department"
+    },
+    {
+        "id": 265,
+        "name": "Radiology Unit",
+        "type": "center"
+    },
+    {
+        "id": 266,
+        "name": "Infectious Disease Division",
+        "type": "center"
+    },
+    {
+        "id": 267,
+        "name": "Neuroradiol Division",
+        "type": "center"
+    },
+    {
+        "id": 268,
+        "name": "Medical Genetics Division",
+        "type": "center"
+    },
+    {
+        "id": 269,
+        "name": "Gastroenterology Unit",
+        "type": "center"
+    },
+    {
+        "id": 270,
+        "name": "Research Department",
+        "type": "department"
+    },
+    {
+        "id": 271,
+        "name": "Deanship Science Research Dsr",
+        "type": "center"
+    },
+    {
+        "id": 272,
+        "name": "Princess Nora Bent Abdullah Chair Womens Health Research",
+        "type": "center"
+    },
+    {
+        "id": 273,
+        "name": "Glaucoma Research Chair Ophthalmology",
+        "type": "center"
+    },
+    {
+        "id": 274,
+        "name": "Biomedical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 275,
+        "name": "Neuroophthalmology Department",
+        "type": "department"
+    },
+    {
+        "id": 276,
+        "name": "Accid & Trauma Department",
+        "type": "department"
+    },
+    {
+        "id": 277,
+        "name": "Nutrition & Food Science Department",
+        "type": "department"
+    },
+    {
+        "id": 278,
+        "name": "Physics Education Department",
+        "type": "department"
+    },
+    {
+        "id": 279,
+        "name": "Orthopaedics Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 280,
+        "name": "Radiology Department",
+        "type": "department"
+    },
+    {
+        "id": 281,
+        "name": "Adult Critical Care Department",
+        "type": "department"
+    },
+    {
+        "id": 282,
+        "name": "Orthodontics Division",
+        "type": "center"
+    },
+    {
+        "id": 283,
+        "name": "Dental Public Health Division",
+        "type": "center"
+    },
+    {
+        "id": 284,
+        "name": "Microbiology & Immunology Department",
+        "type": "department"
+    },
+    {
+        "id": 285,
+        "name": "Morbid & Mortal Review Unit",
+        "type": "center"
+    },
+    {
+        "id": 286,
+        "name": "Evidence Based Healthcare & Knowledge Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 287,
+        "name": "Bioavailabil Ctr",
+        "type": "center"
+    },
+    {
+        "id": 288,
+        "name": "Endocrinology & Diabetes Unit",
+        "type": "center"
+    },
+    {
+        "id": 289,
+        "name": "Agricultural Extension & Rural Soc Department",
+        "type": "department"
+    },
+    {
+        "id": 290,
+        "name": "Operations Division",
+        "type": "center"
+    },
+    {
+        "id": 291,
+        "name": "Science & Medical Studies Girls Center",
+        "type": "center"
+    },
+    {
+        "id": 292,
+        "name": "Quality Assurance Unit",
+        "type": "center"
+    },
+    {
+        "id": 293,
+        "name": "Asthma Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 294,
+        "name": "Food & Nutrition Science Department",
+        "type": "department"
+    },
+    {
+        "id": 295,
+        "name": "Dept Pharmaceutcs",
+        "type": "department"
+    },
+    {
+        "id": 296,
+        "name": "Sustainable Energies Technololgy Center",
+        "type": "center"
+    },
+    {
+        "id": 297,
+        "name": "Surfactant Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 298,
+        "name": "Excellence Research Engineering Center",
+        "type": "center"
+    },
+    {
+        "id": 299,
+        "name": "Dental Department",
+        "type": "department"
+    },
+    {
+        "id": 300,
+        "name": "Researchtorat Department",
+        "type": "department"
+    },
+    {
+        "id": 301,
+        "name": "Corp Department Pharmacology Service",
+        "type": "department"
+    },
+    {
+        "id": 302,
+        "name": "Excellence Material Research Cerem Center",
+        "type": "center"
+    },
+    {
+        "id": 303,
+        "name": "Stem Cell Unit",
+        "type": "center"
+    },
+    {
+        "id": 304,
+        "name": "Quality Management Department",
+        "type": "department"
+    },
+    {
+        "id": 305,
+        "name": "Bioproducts Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 306,
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc",
+        "type": "center"
+    },
+    {
+        "id": 307,
+        "name": "Clinical Biochemistry Unit",
+        "type": "center"
+    },
+    {
+        "id": 308,
+        "name": "Medical Biochemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 309,
+        "name": "General Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 310,
+        "name": "Nanobiotechnology Unit",
+        "type": "center"
+    },
+    {
+        "id": 311,
+        "name": "Pharmacognosy Mapprc Department",
+        "type": "department"
+    },
+    {
+        "id": 312,
+        "name": "Ctr Excellence Concrete Res & Testing Coe Crt",
+        "type": "center"
+    },
+    {
+        "id": 313,
+        "name": "Registry Department",
+        "type": "department"
+    },
+    {
+        "id": 314,
+        "name": "Oral Pathology Department",
+        "type": "department"
+    },
+    {
+        "id": 315,
+        "name": "Hematology Department",
+        "type": "department"
+    },
+    {
+        "id": 316,
+        "name": "Pharmacology Education Unit",
+        "type": "center"
+    },
+    {
+        "id": 317,
+        "name": "Pharmaceutical Care Department",
+        "type": "department"
+    },
+    {
+        "id": 318,
+        "name": "Protein Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 319,
+        "name": "Medical Aromat & Poisonous Plant Research Center Maprc",
+        "type": "center"
+    },
+    {
+        "id": 320,
+        "name": "King Abdullah Int Med Res Ctr",
+        "type": "center"
+    },
+    {
+        "id": 321,
+        "name": "Plastic & Reconstruct Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 322,
+        "name": "Biomech & Motor Behav Department",
+        "type": "department"
+    },
+    {
+        "id": 323,
+        "name": "Dna Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 324,
+        "name": "Immunology Research Center",
+        "type": "center"
+    },
+    {
+        "id": 325,
+        "name": "Otolaryngol Neurotol & Skull Base Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 326,
+        "name": "Research Chair Biology Research Dental Health",
+        "type": "center"
+    },
+    {
+        "id": 327,
+        "name": "Pharmaceutical Chemistry Drug Explorat & Development Chair De Department",
+        "type": "department"
+    },
+    {
+        "id": 328,
+        "name": "Critical Care Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 329,
+        "name": "Education Policies Department",
+        "type": "department"
+    },
+    {
+        "id": 330,
+        "name": "Decmship Science Research",
+        "type": "center"
+    },
+    {
+        "id": 331,
+        "name": "Bioavailability Unit",
+        "type": "center"
+    },
+    {
+        "id": 332,
+        "name": "Medical Aromat & Poisonous Plants Center",
+        "type": "center"
+    },
+    {
+        "id": 333,
+        "name": "Botany Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 334,
+        "name": "Community & Mental Health Nursing Department",
+        "type": "department"
+    },
+    {
+        "id": 335,
+        "name": "Grad Studies & Science Research",
+        "type": "center"
+    },
+    {
+        "id": 336,
+        "name": "Bughshan Research Chair Expans Soils",
+        "type": "center"
+    },
+    {
+        "id": 337,
+        "name": "Self Development Skills Department",
+        "type": "department"
+    },
+    {
+        "id": 338,
+        "name": "College Pharmacology Department",
+        "type": "department"
+    },
+    {
+        "id": 339,
+        "name": "Bstrateg Center Diabetes Research",
+        "type": "center"
+    },
+    {
+        "id": 340,
+        "name": "College Medical & Research Center",
+        "type": "center"
+    },
+    {
+        "id": 341,
+        "name": "Otolaryngol Department",
+        "type": "department"
+    },
+    {
+        "id": 342,
+        "name": "Drug Bioavailability Unit",
+        "type": "center"
+    },
+    {
+        "id": 343,
+        "name": "Education Technololgy Department",
+        "type": "department"
+    },
+    {
+        "id": 344,
+        "name": "Deanship Scientific Research",
+        "type": "center"
+    },
+    {
+        "id": 345,
+        "name": "Appl Med Sci Dept Cc",
+        "type": "department"
+    },
+    {
+        "id": 346,
+        "name": "Liver Research Center",
+        "type": "center"
+    },
+    {
+        "id": 347,
+        "name": "University Sleep Disonlers Center",
+        "type": "center"
+    },
+    {
+        "id": 348,
+        "name": "Al Amodi Autism Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 349,
+        "name": "Radiology & Diagnostic Imaging Department",
+        "type": "department"
+    },
+    {
+        "id": 350,
+        "name": "Infectious Disease Department",
+        "type": "department"
+    },
+    {
+        "id": 351,
+        "name": "Kacst Technololgy Innovat Center Radiofrequency & Photonics",
+        "type": "center"
+    },
+    {
+        "id": 352,
+        "name": "Al Jeraisy Chair Dna Research",
+        "type": "center"
+    },
+    {
+        "id": 353,
+        "name": "Education Administration Department",
+        "type": "department"
+    },
+    {
+        "id": 354,
+        "name": "Shiek Al Amodi Autism Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 355,
+        "name": "Female Center Science & Medical Studies",
+        "type": "center"
+    },
+    {
+        "id": 356,
+        "name": "Research Chair Tribol Surface & Interface Science",
+        "type": "center"
+    },
+    {
+        "id": 357,
+        "name": "Research Chair Biomedical Applicat Nanomat Biochemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 358,
+        "name": "Prince Sattam Chair Epidemiology & Public Health Research",
+        "type": "center"
+    },
+    {
+        "id": 359,
+        "name": "Emergency Medical & Critical Care Department",
+        "type": "department"
+    },
+    {
+        "id": 360,
+        "name": "E-Learning & Information Technology Unit",
+        "type": "center"
+    },
+    {
+        "id": 361,
+        "name": "Emergency Department",
+        "type": "department"
+    },
+    {
+        "id": 362,
+        "name": "Trauma & Accid Department",
+        "type": "department"
+    },
+    {
+        "id": 363,
+        "name": "Medical Imaging Department",
+        "type": "department"
+    },
+    {
+        "id": 364,
+        "name": "Clinical Physiology Department",
+        "type": "department"
+    },
+    {
+        "id": 365,
+        "name": "Food & Agricultural Science Department",
+        "type": "department"
+    },
+    {
+        "id": 366,
+        "name": "Prince Abdullah Ben Khaled Celiac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 367,
+        "name": "Research Chair Evidencebased Based Health Care & Knowledge Tr",
+        "type": "center"
+    },
+    {
+        "id": 368,
+        "name": "Sustainable Chemistry Center",
+        "type": "center"
+    },
+    {
+        "id": 369,
+        "name": "Prince Sattam Bin Abdulaziz Abdulaziz Research Chair Epidemiology",
+        "type": "center"
+    },
+    {
+        "id": 370,
+        "name": "Chair Vaccines Research Infectious Disease",
+        "type": "center"
+    },
+    {
+        "id": 371,
+        "name": "Nanomedicine Unit",
+        "type": "center"
+    },
+    {
+        "id": 372,
+        "name": "Prosthodontics Department",
+        "type": "department"
+    },
+    {
+        "id": 373,
+        "name": "Research Chair Smart Technololgy",
+        "type": "center"
+    },
+    {
+        "id": 374,
+        "name": "Set Ctr",
+        "type": "center"
+    },
+    {
+        "id": 375,
+        "name": "Community & Family Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 376,
+        "name": "Optometry & Visual Science Department",
+        "type": "department"
+    },
+    {
+        "id": 377,
+        "name": "Statistics Department",
+        "type": "department"
+    },
+    {
+        "id": 378,
+        "name": "Phamacognosy Department",
+        "type": "department"
+    },
+    {
+        "id": 379,
+        "name": "Endocrinology Division",
+        "type": "center"
+    },
+    {
+        "id": 380,
+        "name": "Nanomedicine Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 381,
+        "name": "Physics & Astrophys Department",
+        "type": "department"
+    },
+    {
+        "id": 382,
+        "name": "Oncology Department",
+        "type": "department"
+    },
+    {
+        "id": 383,
+        "name": "Pharmacology Toxicology Department",
+        "type": "department"
+    },
+    {
+        "id": 384,
+        "name": "Plastic Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 385,
+        "name": "Cardiology Division",
+        "type": "center"
+    },
+    {
+        "id": 386,
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc Department",
+        "type": "department"
+    },
+    {
+        "id": 387,
+        "name": "Prince Abdulla Bin Khaled Coeliac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 388,
+        "name": "King Abdullah Institute Nanotechnology Kain",
+        "type": "center"
+    },
+    {
+        "id": 389,
+        "name": "Psychiatry Unit",
+        "type": "center"
+    },
+    {
+        "id": 390,
+        "name": "Nanomedicine & Biotechnology Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 391,
+        "name": "Prince Nayef Health Science Research Center",
+        "type": "center"
+    },
+    {
+        "id": 392,
+        "name": "Prince Abdullah Bin Khaled Celiac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 393,
+        "name": "Epidemiology & Public Health Research",
+        "type": "center"
+    },
+    {
+        "id": 394,
+        "name": "Clinical Pharmacology Service Department",
+        "type": "department"
+    },
+    {
+        "id": 395,
+        "name": "Prince Naif Healthcare Res Ctr",
+        "type": "center"
+    },
+    {
+        "id": 396,
+        "name": "National Irradiated Technololgy Center",
+        "type": "center"
+    },
+    {
+        "id": 397,
+        "name": "Otorhinolaryngology Department",
+        "type": "department"
+    },
+    {
+        "id": 398,
+        "name": "Nutrition & Agricultural Department",
+        "type": "department"
+    },
+    {
+        "id": 399,
+        "name": "Civil Engineering & Managing Director Department",
+        "type": "department"
+    },
+    {
+        "id": 400,
+        "name": "Diabetes Center Department",
+        "type": "department"
+    },
+    {
+        "id": 401,
+        "name": "Biomarkers Research Program",
+        "type": "center"
+    },
+    {
+        "id": 402,
+        "name": "Maxillofacial Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 403,
+        "name": "Oral Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 404,
+        "name": "Prince Naif Bin Abdulaziz Abdulaziz Health Research Center",
+        "type": "center"
+    },
+    {
+        "id": 405,
+        "name": "Prince Abdullah Ben Khalid Celiac Disease Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 406,
+        "name": "Neuroradiol Department",
+        "type": "department"
+    },
+    {
+        "id": 407,
+        "name": "Neorol Division",
+        "type": "center"
+    },
+    {
+        "id": 408,
+        "name": "Biology Research Dental Health",
+        "type": "center"
+    },
+    {
+        "id": 409,
+        "name": "Prosthetic Denial Science Department",
+        "type": "department"
+    },
+    {
+        "id": 410,
+        "name": "Astronomy & Physics Department",
+        "type": "department"
+    },
+    {
+        "id": 411,
+        "name": "Evidencebased Based Health Care & Knowledge Translation Research",
+        "type": "center"
+    },
+    {
+        "id": 412,
+        "name": "Postgrad & Research Center",
+        "type": "center"
+    },
+    {
+        "id": 413,
+        "name": "Community & Psychiatry Department",
+        "type": "department"
+    },
+    {
+        "id": 414,
+        "name": "Therapeut Nutrition Department",
+        "type": "department"
+    },
+    {
+        "id": 415,
+        "name": "Dental Hygiene Department",
+        "type": "department"
+    },
+    {
+        "id": 416,
+        "name": "Rehabilitation Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 417,
+        "name": "Clinical Skills & Simulat Center",
+        "type": "center"
+    },
+    {
+        "id": 418,
+        "name": "Pharmacognosy Medical Aromat Department",
+        "type": "department"
+    },
+    {
+        "id": 419,
+        "name": "Medical King Fahad Cardiac Center",
+        "type": "center"
+    },
+    {
+        "id": 420,
+        "name": "Oral & Maxillofacial Department",
+        "type": "department"
+    },
+    {
+        "id": 421,
+        "name": "Periodontol Department",
+        "type": "department"
+    },
+    {
+        "id": 422,
+        "name": "Industrial Ingn Department",
+        "type": "department"
+    },
+    {
+        "id": 423,
+        "name": "Medical Equipment Department",
+        "type": "department"
+    },
+    {
+        "id": 424,
+        "name": "Periodontics & Public Health Department",
+        "type": "department"
+    },
+    {
+        "id": 425,
+        "name": "Audiol Unit",
+        "type": "center"
+    },
+    {
+        "id": 426,
+        "name": "Forensic Medical & Toxicology Unit",
+        "type": "center"
+    },
+    {
+        "id": 427,
+        "name": "King Faisal Specialist Hosp & Res Ctr",
+        "type": "center"
+    },
+    {
+        "id": 428,
+        "name": "Quality Unit Department",
+        "type": "department"
+    },
+    {
+        "id": 429,
+        "name": "Clinical Lab Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 430,
+        "name": "Chemistry College Science Department",
+        "type": "department"
+    },
+    {
+        "id": 431,
+        "name": "English Language & Literature Faculty English Department",
+        "type": "department"
+    },
+    {
+        "id": 432,
+        "name": "English Language Skills Department",
+        "type": "department"
+    },
+    {
+        "id": 433,
+        "name": "Princess Fatima Alnijiriss Research Chair Advanced Manufacturing Tech",
+        "type": "center"
+    },
+    {
+        "id": 434,
+        "name": "Excellence Engineering Material Center",
+        "type": "center"
+    },
+    {
+        "id": 435,
+        "name": "Department",
+        "type": "department"
+    },
+    {
+        "id": 436,
+        "name": "Chair Smart Technololgy & Information Systems Department",
+        "type": "department"
+    },
+    {
+        "id": 437,
+        "name": "Chair Smart Technololgy & Software Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 438,
+        "name": "Princess Nora Bent Abdallah Research Chair Women Health",
+        "type": "center"
+    },
+    {
+        "id": 439,
+        "name": "Research Chair Tribol Surface & Interface Science Tsis",
+        "type": "center"
+    },
+    {
+        "id": 440,
+        "name": "Dermatology 82 Department",
+        "type": "department"
+    },
+    {
+        "id": 441,
+        "name": "Emergency Care Department",
+        "type": "department"
+    },
+    {
+        "id": 442,
+        "name": "Intensive Care Department",
+        "type": "department"
+    },
+    {
+        "id": 443,
+        "name": "Dental Biomaterials Research & Prosthetic Dental Science Department",
+        "type": "department"
+    },
+    {
+        "id": 444,
+        "name": "Excellent Research Center Science & Mathematics Education",
+        "type": "center"
+    },
+    {
+        "id": 445,
+        "name": "Veterinary Laboratories Department",
+        "type": "department"
+    },
+    {
+        "id": 446,
+        "name": "Medical Safety Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 447,
+        "name": "Pharmacology Service Department",
+        "type": "department"
+    },
+    {
+        "id": 448,
+        "name": "Research Chair Vaccines Infectious Disease",
+        "type": "center"
+    },
+    {
+        "id": 449,
+        "name": "Endocrinology Diabetes & Metab Division",
+        "type": "center"
+    },
+    {
+        "id": 450,
+        "name": "Radiation Oncology Unit",
+        "type": "center"
+    },
+    {
+        "id": 451,
+        "name": "Saudi Soc Camel Research",
+        "type": "center"
+    },
+    {
+        "id": 452,
+        "name": "University Oncology Center",
+        "type": "center"
+    },
+    {
+        "id": 453,
+        "name": "Morbid & Mortal Unit",
+        "type": "center"
+    },
+    {
+        "id": 454,
+        "name": "Urology Department",
+        "type": "department"
+    },
+    {
+        "id": 455,
+        "name": "Blood Bank Department",
+        "type": "department"
+    },
+    {
+        "id": 456,
+        "name": "Technol Innovat Ctr Tic",
+        "type": "center"
+    },
+    {
+        "id": 457,
+        "name": "Abdullah Bugshan Dental & Oral Rehab Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 458,
+        "name": "Health Information & Health Promotion Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 459,
+        "name": "Chair Protein Research",
+        "type": "center"
+    },
+    {
+        "id": 460,
+        "name": "Engineering Chemistry Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 461,
+        "name": "Basic Science Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 462,
+        "name": "Pediatric Endocrinology Division",
+        "type": "center"
+    },
+    {
+        "id": 463,
+        "name": "Genetics Department",
+        "type": "department"
+    },
+    {
+        "id": 464,
+        "name": "Medical Imaging & Radiology Department",
+        "type": "department"
+    },
+    {
+        "id": 465,
+        "name": "Medical Education Center",
+        "type": "center"
+    },
+    {
+        "id": 466,
+        "name": "Prince Naiffor Health Research Center",
+        "type": "center"
+    },
+    {
+        "id": 467,
+        "name": "Anaesthesia Department",
+        "type": "department"
+    },
+    {
+        "id": 468,
+        "name": "Industrial Ingeneering Department",
+        "type": "department"
+    },
+    {
+        "id": 469,
+        "name": "Pharmacgnosy Department",
+        "type": "department"
+    },
+    {
+        "id": 470,
+        "name": "College Applied Medical Science & Rehabilitation Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 471,
+        "name": "Infectious Control Department",
+        "type": "department"
+    },
+    {
+        "id": 472,
+        "name": "Oral Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 473,
+        "name": "Diagnostic Science Department",
+        "type": "department"
+    },
+    {
+        "id": 474,
+        "name": "Kacst Technololgy Innovat Center",
+        "type": "center"
+    },
+    {
+        "id": 475,
+        "name": "Pharmacogonosy Department",
+        "type": "department"
+    },
+    {
+        "id": 476,
+        "name": "Research Lab Center",
+        "type": "center"
+    },
+    {
+        "id": 477,
+        "name": "Sports Medical & Arthroscopy Division",
+        "type": "center"
+    },
+    {
+        "id": 478,
+        "name": "Research Chairs Program",
+        "type": "center"
+    },
+    {
+        "id": 479,
+        "name": "Digital Speech Proc Department",
+        "type": "department"
+    },
+    {
+        "id": 480,
+        "name": "Glaucoma Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 481,
+        "name": "Urooncol Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 482,
+        "name": "Pharmocognosy Department",
+        "type": "department"
+    },
+    {
+        "id": 483,
+        "name": "Medical Education Research & Development Department",
+        "type": "department"
+    },
+    {
+        "id": 484,
+        "name": "Orl Department",
+        "type": "department"
+    },
+    {
+        "id": 485,
+        "name": "Pathology Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 486,
+        "name": "Female Center",
+        "type": "center"
+    },
+    {
+        "id": 487,
+        "name": "Orthodontics Researchidency Program",
+        "type": "center"
+    },
+    {
+        "id": 488,
+        "name": "Medical Hematology Oncology Department",
+        "type": "department"
+    },
+    {
+        "id": 489,
+        "name": "Alamoudi Chair Water Research",
+        "type": "center"
+    },
+    {
+        "id": 490,
+        "name": "Dental Implant & Osseointegrat Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 491,
+        "name": "Pediatric Infectious Disease Department",
+        "type": "department"
+    },
+    {
+        "id": 492,
+        "name": "Sustainle Energy Technololgy Center",
+        "type": "center"
+    },
+    {
+        "id": 493,
+        "name": "Mechanical Department",
+        "type": "department"
+    },
+    {
+        "id": 494,
+        "name": "Abdullah Bugshan Research Chair Dental & Oral Rehabilitation",
+        "type": "center"
+    },
+    {
+        "id": 495,
+        "name": "Agricultural & Food Chemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 496,
+        "name": "Quality Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 497,
+        "name": "Pediatric Hematology Oncology Department",
+        "type": "department"
+    },
+    {
+        "id": 498,
+        "name": "Hematology Oncology Center",
+        "type": "center"
+    },
+    {
+        "id": 499,
+        "name": "Aging Research Chair",
+        "type": "center"
+    },
+    {
+        "id": 500,
+        "name": "Research",
+        "type": "center"
+    },
+    {
+        "id": 501,
+        "name": "Chair Engineer Abdullah Baqshan Bee Research",
+        "type": "center"
+    },
+    {
+        "id": 502,
+        "name": "Disaster Management Unit",
+        "type": "center"
+    },
+    {
+        "id": 503,
+        "name": "Eecenter Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 504,
+        "name": "Internal Medical 2 Department",
+        "type": "department"
+    },
+    {
+        "id": 505,
+        "name": "Emergency Unit",
+        "type": "center"
+    },
+    {
+        "id": 506,
+        "name": "Sleep Disorders Center",
+        "type": "center"
+    },
+    {
+        "id": 507,
+        "name": "Agricultural Extension & Rural Sociol Department",
+        "type": "department"
+    },
+    {
+        "id": 508,
+        "name": "Cardiac Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 509,
+        "name": "Cardiac Anesthesia Department",
+        "type": "department"
+    },
+    {
+        "id": 510,
+        "name": "Camel Biomedical Research Unit",
+        "type": "center"
+    },
+    {
+        "id": 511,
+        "name": "University Sleep Disorder Center",
+        "type": "center"
+    },
+    {
+        "id": 512,
+        "name": "Plant Physiology Plant Production Department",
+        "type": "department"
+    },
+    {
+        "id": 513,
+        "name": "Community Medical Unit",
+        "type": "center"
+    },
+    {
+        "id": 514,
+        "name": "Modern Languages & Translation Department",
+        "type": "department"
+    },
+    {
+        "id": 515,
+        "name": "Precision Agricultural Research",
+        "type": "center"
+    },
+    {
+        "id": 516,
+        "name": "Transfus Medical Department",
+        "type": "department"
+    },
+    {
+        "id": 517,
+        "name": "Radiation Oncology Department",
+        "type": "department"
+    },
+    {
+        "id": 518,
+        "name": "Fcm Cpg Department Comm",
+        "type": "department"
+    },
+    {
+        "id": 519,
+        "name": "Experiential Training Unit",
+        "type": "center"
+    },
+    {
+        "id": 520,
+        "name": "Hematopathol Researchident",
+        "type": "center"
+    },
+    {
+        "id": 521,
+        "name": "Prince Naif Bin Abdulaziz Health Research Center Pnhrc",
+        "type": "center"
+    },
+    {
+        "id": 522,
+        "name": "Community Health Sciences Department",
+        "type": "department"
+    },
+    {
+        "id": 523,
+        "name": "Endodontics Department",
+        "type": "department"
+    },
+    {
+        "id": 524,
+        "name": "King Saud University Department",
+        "type": "department"
+    },
+    {
+        "id": 525,
+        "name": "Pediatric Infectious Disease Division",
+        "type": "center"
+    },
+    {
+        "id": 526,
+        "name": "Public Health Epidemiology & Health Economics Department",
+        "type": "department"
+    },
+    {
+        "id": 527,
+        "name": "Applied Electrical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 528,
+        "name": "Plant Production Department Plant Ecol",
+        "type": "department"
+    },
+    {
+        "id": 529,
+        "name": "Surgery General Surgery Department",
+        "type": "department"
+    },
+    {
+        "id": 530,
+        "name": "Internal Medical Gastroenterology Department",
+        "type": "department"
+    },
+    {
+        "id": 531,
+        "name": "Plastic & Reconstruct Surgery Division",
+        "type": "center"
+    },
+    {
+        "id": 532,
+        "name": "Sustainable Energy Center Technololgy",
+        "type": "center"
+    },
+    {
+        "id": 533,
+        "name": "Rheumatology Unit",
+        "type": "center"
+    },
+    {
+        "id": 534,
+        "name": "Infectious Unit",
+        "type": "center"
+    },
+    {
+        "id": 535,
+        "name": "Prince Sattam Research Chair Epidemiology & Public Health",
+        "type": "center"
+    },
+    {
+        "id": 536,
+        "name": "Nursing Department",
+        "type": "department"
+    }
+]

@@ -1,0 +1,2767 @@
+[
+    {
+        "id": 1,
+        "name": "Natural Science Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 17
+    },
+    {
+        "id": 2,
+        "name": "Obstet & Gynaecol Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 22
+    },
+    {
+        "id": 3,
+        "name": "Cardiology Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 8
+    },
+    {
+        "id": 4,
+        "name": "Medical Aromat & Poisonous Plant Research Center",
+        "type": "Center",
+        "num_collaborations": 10,
+        "num_papers": 7
+    },
+    {
+        "id": 5,
+        "name": "Health Science Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 12
+    },
+    {
+        "id": 6,
+        "name": "King Abdullah Ear Specialist Center",
+        "type": "Center",
+        "num_collaborations": 10,
+        "num_papers": 17
+    },
+    {
+        "id": 7,
+        "name": "Excellence Concrete Research & Testing Center",
+        "type": "Center",
+        "num_collaborations": 10,
+        "num_papers": 8
+    },
+    {
+        "id": 8,
+        "name": "Rheumatology Division",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 8
+    },
+    {
+        "id": 9,
+        "name": "Sabic Psychological Health Research & Applications Chair",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 16
+    },
+    {
+        "id": 10,
+        "name": "Drug & Poison Information Center",
+        "type": "Center",
+        "num_collaborations": 10,
+        "num_papers": 5
+    },
+    {
+        "id": 11,
+        "name": "General Dental Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 7
+    },
+    {
+        "id": 12,
+        "name": "Stem Cell Unit",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 9
+    },
+    {
+        "id": 13,
+        "name": "Pharmaceutical Care Department",
+        "type": "Department",
+        "num_collaborations": 10,
+        "num_papers": 4
+    },
+    {
+        "id": 14,
+        "name": "Research Chair Evidencebased Based Health Care & Knowledge Tr",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 3
+    },
+    {
+        "id": 15,
+        "name": "Prince Sattam Bin Abdulaziz Abdulaziz Research Chair Epidemiology",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 2
+    },
+    {
+        "id": 16,
+        "name": "Critical Care Department",
+        "type": "Department",
+        "num_collaborations": 9,
+        "num_papers": 5
+    },
+    {
+        "id": 17,
+        "name": "Precision Agricultural Research Chair",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 12
+    },
+    {
+        "id": 18,
+        "name": "Pediatric Infectious Disease Unit",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 4
+    },
+    {
+        "id": 19,
+        "name": "Botany Department",
+        "type": "Department",
+        "num_collaborations": 9,
+        "num_papers": 9
+    },
+    {
+        "id": 20,
+        "name": "Dental Biomaterials Research & Development Chair",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 8
+    },
+    {
+        "id": 21,
+        "name": "Pharmacology Education Unit",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 2
+    },
+    {
+        "id": 22,
+        "name": "Research Chair Biology Research Dental Health",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 5
+    },
+    {
+        "id": 23,
+        "name": "Information Science Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 14
+    },
+    {
+        "id": 24,
+        "name": "Prince Naif Center Immunology Research",
+        "type": "Center",
+        "num_collaborations": 8,
+        "num_papers": 8
+    },
+    {
+        "id": 25,
+        "name": "Paediatrics Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 9
+    },
+    {
+        "id": 26,
+        "name": "Orthopedic Surgery Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 13
+    },
+    {
+        "id": 27,
+        "name": "Special Education Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 30
+    },
+    {
+        "id": 28,
+        "name": "Petroleum & Gas Engineering Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 5
+    },
+    {
+        "id": 29,
+        "name": "Li Ka Shing Collaborative Research Program",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 8
+    },
+    {
+        "id": 30,
+        "name": "Female Science & Medical College Center",
+        "type": "Center",
+        "num_collaborations": 8,
+        "num_papers": 3
+    },
+    {
+        "id": 31,
+        "name": "Obstetric Gynecology Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 3
+    },
+    {
+        "id": 32,
+        "name": "Ems Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 3
+    },
+    {
+        "id": 33,
+        "name": "Food Science & Human Nutrition Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 4
+    },
+    {
+        "id": 34,
+        "name": "Seismic Studies Center",
+        "type": "Center",
+        "num_collaborations": 8,
+        "num_papers": 14
+    },
+    {
+        "id": 35,
+        "name": "Infectious Disease Division",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 11
+    },
+    {
+        "id": 36,
+        "name": "Protein Research Chair",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 4
+    },
+    {
+        "id": 37,
+        "name": "Prince Abdullah Ben Khaled Celiac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 3
+    },
+    {
+        "id": 38,
+        "name": "Prince Nayef Health Science Research Center",
+        "type": "Center",
+        "num_collaborations": 8,
+        "num_papers": 1
+    },
+    {
+        "id": 39,
+        "name": "University Oncology Center",
+        "type": "Center",
+        "num_collaborations": 8,
+        "num_papers": 1
+    },
+    {
+        "id": 40,
+        "name": "Morbid & Mortal Unit",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 1
+    },
+    {
+        "id": 41,
+        "name": "Nursing Administration & Education Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 13
+    },
+    {
+        "id": 42,
+        "name": "Riyadh Biochemistry Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 6
+    },
+    {
+        "id": 43,
+        "name": "Vaccines & Biology Research Unit",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 4
+    },
+    {
+        "id": 44,
+        "name": "Accid & Trauma Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 5
+    },
+    {
+        "id": 45,
+        "name": "Science & Medical Studies Girls Center",
+        "type": "Center",
+        "num_collaborations": 7,
+        "num_papers": 4
+    },
+    {
+        "id": 46,
+        "name": "General Surgery Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 4
+    },
+    {
+        "id": 47,
+        "name": "Pharmacognosy Mapprc Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 11
+    },
+    {
+        "id": 48,
+        "name": "Bioavailability Unit",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 49,
+        "name": "Otolaryngol Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 13
+    },
+    {
+        "id": 50,
+        "name": "Radiology & Diagnostic Imaging Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 51,
+        "name": "Al Jeraisy Chair Dna Research",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 52,
+        "name": "Trauma & Accid Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 2
+    },
+    {
+        "id": 53,
+        "name": "Maxillofacial Surgery Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 54,
+        "name": "Pharmacology Service Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 55,
+        "name": "Microbiology & Botany Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 3
+    },
+    {
+        "id": 56,
+        "name": "Thoracic Surgery Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 5
+    },
+    {
+        "id": 57,
+        "name": "Urban Planning Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 11
+    },
+    {
+        "id": 58,
+        "name": "University Center Women Students",
+        "type": "Center",
+        "num_collaborations": 6,
+        "num_papers": 5
+    },
+    {
+        "id": 59,
+        "name": "Neuroradiol Division",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 60,
+        "name": "Research Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 3
+    },
+    {
+        "id": 61,
+        "name": "Princess Nora Bent Abdullah Chair Womens Health Research",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 62,
+        "name": "Neuroophthalmology Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 8
+    },
+    {
+        "id": 63,
+        "name": "Nutrition & Food Science Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 64,
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc",
+        "type": "Center",
+        "num_collaborations": 6,
+        "num_papers": 3
+    },
+    {
+        "id": 65,
+        "name": "Liver Research Center",
+        "type": "Center",
+        "num_collaborations": 6,
+        "num_papers": 3
+    },
+    {
+        "id": 66,
+        "name": "Chair Vaccines Research Infectious Disease",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 67,
+        "name": "Nanomedicine & Biotechnology Research Unit",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 68,
+        "name": "Biology Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 8
+    },
+    {
+        "id": 69,
+        "name": "Proteomics Researchource Unit Obesity",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 70,
+        "name": "Paediatrics Dental & Orthodontics Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 7
+    },
+    {
+        "id": 71,
+        "name": "Excellent Center Science & Mathematics Education",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 6
+    },
+    {
+        "id": 72,
+        "name": "King Abdullah Ear Specialist Center Kaesc",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 10
+    },
+    {
+        "id": 73,
+        "name": "Poisonous Plants Research Center",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 4
+    },
+    {
+        "id": 74,
+        "name": "Lab Research Center",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 75,
+        "name": "Surgery Division",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 6
+    },
+    {
+        "id": 76,
+        "name": "Food Science Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 9
+    },
+    {
+        "id": 77,
+        "name": "Orthodontics Division",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 78,
+        "name": "Dental Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 4
+    },
+    {
+        "id": 79,
+        "name": "Researchtorat Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 80,
+        "name": "Corp Department Pharmacology Service",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 81,
+        "name": "Medical Biochemistry Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 82,
+        "name": "Otolaryngol Neurotol & Skull Base Surgery Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 83,
+        "name": "College Medical & Research Center",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 5
+    },
+    {
+        "id": 84,
+        "name": "Education Technololgy Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 11
+    },
+    {
+        "id": 85,
+        "name": "Deanship Scientific Research",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 86,
+        "name": "University Sleep Disonlers Center",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 87,
+        "name": "E-Learning & Information Technology Unit",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 88,
+        "name": "Emergency Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 89,
+        "name": "Prosthodontics Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 6
+    },
+    {
+        "id": 90,
+        "name": "Prince Abdulla Bin Khaled Coeliac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 91,
+        "name": "Neorol Division",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 92,
+        "name": "Princess Fatima Alnijiriss Research Chair Advanced Manufacturing Tech",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 4
+    },
+    {
+        "id": 93,
+        "name": "Abdullah Bugshan Dental & Oral Rehab Research Chair",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 94,
+        "name": "Physiology & Pharmacology Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 95,
+        "name": "Global Center Mass Gatherings Medical",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 96,
+        "name": "Statistics & Or Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 8
+    },
+    {
+        "id": 97,
+        "name": "English Language & Translation Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 15
+    },
+    {
+        "id": 98,
+        "name": "College Engineering Center",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 6
+    },
+    {
+        "id": 99,
+        "name": "Enthns Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 10
+    },
+    {
+        "id": 100,
+        "name": "Prince Sultan Advanced Technololgy Research Institute",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 101,
+        "name": "Physics Therapy Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 7
+    },
+    {
+        "id": 102,
+        "name": "Research Chair Biomedical Applicat Nanomat",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 6
+    },
+    {
+        "id": 103,
+        "name": "Histopathol Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 104,
+        "name": "Medical & Nephrology Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 5
+    },
+    {
+        "id": 105,
+        "name": "Pharmacology Unit",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 4
+    },
+    {
+        "id": 106,
+        "name": "Colorectal Research Chair",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 107,
+        "name": "Glaucoma Research Chair Ophthalmology",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 4
+    },
+    {
+        "id": 108,
+        "name": "Operations Division",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 109,
+        "name": "Bioproducts Research Chair",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 12
+    },
+    {
+        "id": 110,
+        "name": "Ctr Excellence Concrete Res & Testing Coe Crt",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 111,
+        "name": "Food & Agricultural Science Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 112,
+        "name": "Phamacognosy Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 113,
+        "name": "Endocrinology Division",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 7
+    },
+    {
+        "id": 114,
+        "name": "Nanomedicine Research Unit",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 115,
+        "name": "Clinical Pharmacology Service Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 116,
+        "name": "Diabetes Center Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 117,
+        "name": "Biology Research Dental Health",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 118,
+        "name": "Evidencebased Based Health Care & Knowledge Translation Research",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 119,
+        "name": "Clinical Skills & Simulat Center",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 120,
+        "name": "Oral & Maxillofacial Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 121,
+        "name": "King Faisal Specialist Hosp & Res Ctr",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 122,
+        "name": "Agricultural Extension & Rural Sociol Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 123,
+        "name": "Kacst Technololgy Innovat Center Radio Frequency & Photonics",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 6
+    },
+    {
+        "id": 124,
+        "name": "Infectious Disease Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 125,
+        "name": "Prince Abdullah Bin Khalid Celiac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 126,
+        "name": "Urology Division",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 12
+    },
+    {
+        "id": 127,
+        "name": "Chair Medical Education Research & Development",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 128,
+        "name": "King Saud University Li Ka Shing Collaborative Research Program",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 129,
+        "name": "Cardiovasc Science Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 130,
+        "name": "Orthopaedics Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 131,
+        "name": "Research Chair Health Information & Promot",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 132,
+        "name": "Curriculum Instruction Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 7
+    },
+    {
+        "id": 133,
+        "name": "Nanomedicine Unit Nmu",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 134,
+        "name": "Head & Neck Surgery Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 135,
+        "name": "Pharmacognosy & Medical Aromat Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 136,
+        "name": "Microbiology Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 137,
+        "name": "Plastic Surgery Division",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 20
+    },
+    {
+        "id": 138,
+        "name": "Medical Information & E Learning Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 139,
+        "name": "Bugshan Research Chair Expans Soils",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 7
+    },
+    {
+        "id": 140,
+        "name": "Prince Abdullah Bin Khalid Coeliac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 141,
+        "name": "Medical Chemistry Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 142,
+        "name": "Abdullah Bugshan Research Chair Growth Factor",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 143,
+        "name": "Drug Information Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 144,
+        "name": "Community & Psychiatry Nursing Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 145,
+        "name": "Maternal & Child Health Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 146,
+        "name": "Deanship Science Research Dsr",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 147,
+        "name": "Morbid & Mortal Review Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 148,
+        "name": "Endocrinology & Diabetes Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 149,
+        "name": "Agricultural Extension & Rural Soc Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 24
+    },
+    {
+        "id": 150,
+        "name": "Sustainable Energies Technololgy Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 151,
+        "name": "Registry Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 152,
+        "name": "Oral Pathology Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 6
+    },
+    {
+        "id": 153,
+        "name": "Biomech & Motor Behav Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 154,
+        "name": "Pharmaceutical Chemistry Drug Explorat & Development Chair De Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 155,
+        "name": "Self Development Skills Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 8
+    },
+    {
+        "id": 156,
+        "name": "Al Amodi Autism Research Chair",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 157,
+        "name": "Infectious Disease Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 158,
+        "name": "Physics & Astrophys Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 159,
+        "name": "Plastic Surgery Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 160,
+        "name": "Cardiology Division",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 161,
+        "name": "Psychiatry Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 162,
+        "name": "Epidemiology & Public Health Research",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 163,
+        "name": "Oral Surgery Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 164,
+        "name": "Prince Naif Bin Abdulaziz Abdulaziz Health Research Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 165,
+        "name": "Neuroradiol Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 166,
+        "name": "Therapeut Nutrition Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 167,
+        "name": "Medical Equipment Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 168,
+        "name": "Quality Unit Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 169,
+        "name": "Research Chair Tribol Surface & Interface Science Tsis",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 170,
+        "name": "Excellent Research Center Science & Mathematics Education",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 171,
+        "name": "Urology Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 172,
+        "name": "Health Information & Health Promotion Research Chair",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 173,
+        "name": "Prince Naiffor Health Research Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 174,
+        "name": "Infectious Control Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 175,
+        "name": "Kacst Technololgy Innovat Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 176,
+        "name": "Pharmacogonosy Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 177,
+        "name": "Research Lab Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 178,
+        "name": "Urooncol Research Chair",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 179,
+        "name": "Female Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 180,
+        "name": "Abdullah Bugshan Research Chair Dental & Oral Rehabilitation",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 181,
+        "name": "Agricultural & Food Chemistry Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 182,
+        "name": "Quality Research Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 183,
+        "name": "Cardiac Surgery Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 184,
+        "name": "Cardiac Anesthesia Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 185,
+        "name": "Community Medical Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 186,
+        "name": "Hematopathol Researchident",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 187,
+        "name": "Rheumatology Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 188,
+        "name": "Infectious Unit",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 189,
+        "name": "Prince Sattam Research Chair Epidemiology & Public Health",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 190,
+        "name": "Nursing Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 191,
+        "name": "Endodontics Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 6
+    },
+    {
+        "id": 192,
+        "name": "Finance Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 18
+    },
+    {
+        "id": 193,
+        "name": "Chair Dna Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 194,
+        "name": "Endocrinology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 195,
+        "name": "Plastic & Hand Surgery Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 8
+    },
+    {
+        "id": 196,
+        "name": "Electrical Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 197,
+        "name": "Arabic Linguistics Institute",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 198,
+        "name": "Optometry & Vis Science Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 20
+    },
+    {
+        "id": 199,
+        "name": "Pharmaceutical & Microbiology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 200,
+        "name": "Economics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 9
+    },
+    {
+        "id": 201,
+        "name": "Molecular Genetics Pathology Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 202,
+        "name": "Pathology & Microbiology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 203,
+        "name": "Nephrology Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 204,
+        "name": "Research Chair Exploitat Renewable Energy Applicat Sau",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 9
+    },
+    {
+        "id": 205,
+        "name": "Islamic Banking Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 206,
+        "name": "Administration Science Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 16
+    },
+    {
+        "id": 207,
+        "name": "Microbiology Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 208,
+        "name": "Researchtorat Dental Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 9
+    },
+    {
+        "id": 209,
+        "name": "Orthopedics Surgery Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 4
+    },
+    {
+        "id": 210,
+        "name": "Orthodontics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 211,
+        "name": "Medical Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 212,
+        "name": "English Language & Literature Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 26
+    },
+    {
+        "id": 213,
+        "name": "Medical Genetics Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 214,
+        "name": "Biomedical Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 215,
+        "name": "Surfactant Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 216,
+        "name": "Excellence Research Engineering Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 217,
+        "name": "Excellence Material Research Cerem Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 218,
+        "name": "Hematology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 219,
+        "name": "Dna Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 220,
+        "name": "Critical Care Medical Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 11
+    },
+    {
+        "id": 221,
+        "name": "Botany Microbiology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 222,
+        "name": "Bstrateg Center Diabetes Research",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 223,
+        "name": "Drug Bioavailability Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 224,
+        "name": "Appl Med Sci Dept Cc",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 225,
+        "name": "Kacst Technololgy Innovat Center Radiofrequency & Photonics",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 226,
+        "name": "Shiek Al Amodi Autism Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 227,
+        "name": "Emergency Medical & Critical Care Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 228,
+        "name": "Medical Imaging Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 229,
+        "name": "Community & Family Medical Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 230,
+        "name": "Statistics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 231,
+        "name": "Oncology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 232,
+        "name": "Pharmacology Toxicology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 233,
+        "name": "King Abdullah Institute Nanotechnology Kain",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 234,
+        "name": "Prince Naif Healthcare Res Ctr",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 235,
+        "name": "National Irradiated Technololgy Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 236,
+        "name": "Otorhinolaryngology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 237,
+        "name": "Biomarkers Research Program",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 238,
+        "name": "Prince Abdullah Ben Khalid Celiac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 239,
+        "name": "Dental Hygiene Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 240,
+        "name": "Pharmacognosy Medical Aromat Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 241,
+        "name": "Medical King Fahad Cardiac Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 242,
+        "name": "Periodontol Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 243,
+        "name": "Audiol Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 244,
+        "name": "Forensic Medical & Toxicology Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 245,
+        "name": "Excellence Engineering Material Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 246,
+        "name": "Veterinary Laboratories Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 247,
+        "name": "Radiation Oncology Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 248,
+        "name": "Saudi Soc Camel Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 249,
+        "name": "Blood Bank Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 250,
+        "name": "Chair Protein Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 251,
+        "name": "Pediatric Endocrinology Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 252,
+        "name": "Genetics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 253,
+        "name": "Medical Education Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 254,
+        "name": "Sports Medical & Arthroscopy Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 255,
+        "name": "Research Chairs Program",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 256,
+        "name": "Medical Education Research & Development Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 257,
+        "name": "Pathology Microbiology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 258,
+        "name": "Medical Hematology Oncology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 259,
+        "name": "Dental Implant & Osseointegrat Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 260,
+        "name": "Pediatric Hematology Oncology Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 261,
+        "name": "Hematology Oncology Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 262,
+        "name": "Aging Research Chair",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 263,
+        "name": "Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 264,
+        "name": "Disaster Management Unit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 265,
+        "name": "Plant Physiology Plant Production Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 266,
+        "name": "Fcm Cpg Department Comm",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 267,
+        "name": "Prince Naif Bin Abdulaziz Health Research Center Pnhrc",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 268,
+        "name": "Endodontics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 269,
+        "name": "Pediatric Infectious Disease Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 270,
+        "name": "Sustainable Energy Center Technololgy",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 271,
+        "name": "Research Chair Cyber Secur",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 272,
+        "name": "Geog Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 14
+    },
+    {
+        "id": 273,
+        "name": "Medical Surgery Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 6
+    },
+    {
+        "id": 274,
+        "name": "Microbiology Units",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 275,
+        "name": "Clincal Pharmacology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 276,
+        "name": "Prince Sultan Research Chair Environm & Wildlife",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 277,
+        "name": "Anesthesiol Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 278,
+        "name": "Curriculum Development & Research Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 279,
+        "name": "King Saud University Li Ka Shing Knowledge Institute Collaboration",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 280,
+        "name": "Structure Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 281,
+        "name": "Archaeology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 18
+    },
+    {
+        "id": 282,
+        "name": "Pharmacology & Physiology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 283,
+        "name": "Research Support Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 284,
+        "name": "Science Technololgy & Innovation Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 285,
+        "name": "Vasc Surgery Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 4
+    },
+    {
+        "id": 286,
+        "name": "Researchtorat Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 287,
+        "name": "Excellence Thrombosis & Haemostasis Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 5
+    },
+    {
+        "id": 288,
+        "name": "It Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 5
+    },
+    {
+        "id": 289,
+        "name": "Oncology Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 290,
+        "name": "Family Medical & Polyclin Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 291,
+        "name": "Rehabilitation Health Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 11
+    },
+    {
+        "id": 292,
+        "name": "Bioproducts Research Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 293,
+        "name": "Intensive Care Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 294,
+        "name": "Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 295,
+        "name": "Obesity Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 296,
+        "name": "Dental Caries Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 297,
+        "name": "Pharmaceutical Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 298,
+        "name": "King Abdlullah Nanotechnology Institute",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 299,
+        "name": "Management Information Systems Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 6
+    },
+    {
+        "id": 300,
+        "name": "Prince Abdullah Bin Khaled Coeliac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 301,
+        "name": "Princess Fatima Alnijriss Research Chair Advanced Manufacturing Techn",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 302,
+        "name": "Chair Research & Studies Strengthening & Rehabilitation",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 303,
+        "name": "Food Production Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 304,
+        "name": "Radiology Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 305,
+        "name": "Gastroenterology Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 306,
+        "name": "Orthopaedics Surgery Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 307,
+        "name": "Dental Public Health Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 308,
+        "name": "Microbiology & Immunology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 309,
+        "name": "Bioavailabil Ctr",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 310,
+        "name": "Food & Nutrition Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 311,
+        "name": "Dept Pharmaceutcs",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 312,
+        "name": "Clinical Biochemistry Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 313,
+        "name": "Medical Aromat & Poisonous Plant Research Center Maprc",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 314,
+        "name": "King Abdullah Int Med Res Ctr",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 315,
+        "name": "Plastic & Reconstruct Surgery Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 316,
+        "name": "Education Policies Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 317,
+        "name": "Decmship Science Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 318,
+        "name": "Medical Aromat & Poisonous Plants Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 319,
+        "name": "Community & Mental Health Nursing Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 320,
+        "name": "Grad Studies & Science Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 321,
+        "name": "Bughshan Research Chair Expans Soils",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 322,
+        "name": "College Pharmacology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 323,
+        "name": "Education Administration Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 324,
+        "name": "Research Chair Tribol Surface & Interface Science",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 325,
+        "name": "Research Chair Biomedical Applicat Nanomat Biochemistry Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 326,
+        "name": "Clinical Physiology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 327,
+        "name": "Sustainable Chemistry Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 328,
+        "name": "Nanomedicine Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 329,
+        "name": "Set Ctr",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 330,
+        "name": "Optometry & Visual Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 331,
+        "name": "Medical Aromat & Poisonous Plants Research Center Mapprc Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 332,
+        "name": "Prince Abdullah Bin Khaled Celiac Disease Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 333,
+        "name": "Nutrition & Agricultural Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 334,
+        "name": "Civil Engineering & Managing Director Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 335,
+        "name": "Prosthetic Denial Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 336,
+        "name": "Astronomy & Physics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 4
+    },
+    {
+        "id": 337,
+        "name": "Postgrad & Research Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 338,
+        "name": "Community & Psychiatry Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 339,
+        "name": "Rehabilitation Medical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 340,
+        "name": "Industrial Ingn Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 341,
+        "name": "Periodontics & Public Health Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 342,
+        "name": "Clinical Lab Medical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 343,
+        "name": "Chemistry College Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 344,
+        "name": "English Language & Literature Faculty English Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 345,
+        "name": "English Language Skills Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 346,
+        "name": "Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 347,
+        "name": "Chair Smart Technololgy & Information Systems Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 348,
+        "name": "Chair Smart Technololgy & Software Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 349,
+        "name": "Princess Nora Bent Abdallah Research Chair Women Health",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 350,
+        "name": "Dermatology 82 Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 351,
+        "name": "Emergency Care Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 352,
+        "name": "Intensive Care Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 353,
+        "name": "Dental Biomaterials Research & Prosthetic Dental Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 354,
+        "name": "Medical Safety Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 355,
+        "name": "Research Chair Vaccines Infectious Disease",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 356,
+        "name": "Endocrinology Diabetes & Metab Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 357,
+        "name": "Technol Innovat Ctr Tic",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 358,
+        "name": "Engineering Chemistry Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 359,
+        "name": "Basic Science Mathematics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 360,
+        "name": "Medical Imaging & Radiology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 361,
+        "name": "Anaesthesia Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 362,
+        "name": "Industrial Ingeneering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 363,
+        "name": "Pharmacgnosy Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 364,
+        "name": "College Applied Medical Science & Rehabilitation Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 365,
+        "name": "Oral Medical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 366,
+        "name": "Diagnostic Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 367,
+        "name": "Digital Speech Proc Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 368,
+        "name": "Glaucoma Research Chair",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 369,
+        "name": "Pharmocognosy Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 370,
+        "name": "Orl Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 371,
+        "name": "Orthodontics Researchidency Program",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 372,
+        "name": "Alamoudi Chair Water Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 373,
+        "name": "Pediatric Infectious Disease Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 374,
+        "name": "Sustainle Energy Technololgy Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 375,
+        "name": "Mechanical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 376,
+        "name": "Chair Engineer Abdullah Baqshan Bee Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 377,
+        "name": "Eecenter Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 378,
+        "name": "Internal Medical 2 Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 379,
+        "name": "Emergency Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 380,
+        "name": "Sleep Disorders Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 381,
+        "name": "Camel Biomedical Research Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 382,
+        "name": "University Sleep Disorder Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 383,
+        "name": "Modern Languages & Translation Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 384,
+        "name": "Precision Agricultural Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 385,
+        "name": "Transfus Medical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 386,
+        "name": "Radiation Oncology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 387,
+        "name": "Experiential Training Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 388,
+        "name": "Community Health Sciences Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 389,
+        "name": "King Saud University Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 390,
+        "name": "Public Health Epidemiology & Health Economics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 391,
+        "name": "Applied Electrical Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 392,
+        "name": "Plant Production Department Plant Ecol",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 393,
+        "name": "Surgery General Surgery Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 394,
+        "name": "Internal Medical Gastroenterology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 395,
+        "name": "Plastic & Reconstruct Surgery Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    }
+]

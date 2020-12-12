@@ -1,0 +1,1675 @@
+[
+    {
+        "source": "Accounting and Management Information Systems Department",
+        "target": "Chemistry Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Accounting and Management Information Systems Department",
+        "target": "Dammam Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Accounting and Management Information Systems Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Accounting and Management Information Systems Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Accounting and Management Information Systems Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Carbon Capture and Sequestration Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Chemistry Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Civil Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Aerospace Engineering Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Architecture Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Chemistry Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "City and Regional Planning Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Construction Engineering and Management Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Dammam Community College",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architectural Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Architecture Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Chemical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Chemistry Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Energy Efficiency Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Carbon Capture and Sequestration Research Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Chemistry Department",
+        "opacity": 0.7,
+        "color": "#756bb1",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Corrosion Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Hafr Al-Batin Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#3182bd",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Refining & Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#9e9ac8",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemical Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Corrosion Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#756bb1",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Dammam Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Energy Efficiency Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Energy Research and Innovation Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Environment & Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#9e9ac8",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Hafr Al-Batin Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Information System & Operations Management Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#bcbddc",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#9ecae1",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#bcbddc",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Chemistry Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#9e9ac8",
+        "strokeWidth": 6
+    },
+    {
+        "source": "City and Regional Planning Department",
+        "target": "Civil and Environmental Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "City and Regional Planning Department",
+        "target": "Construction Engineering and Management Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "City and Regional Planning Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Computer Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Corrosion Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#756bb1",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Civil and Environmental Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Information and Communication Technology Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Modeling and Computer Simulation Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Computer Engineering Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Construction Engineering and Management Department",
+        "target": "Dammam Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Construction Engineering and Management Department",
+        "target": "Electrical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Construction Engineering and Management Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Construction Engineering and Management Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#74c476",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Corrosion Research Excellence Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Dammam Community College",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Dammam Community College",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Energy Efficiency Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Energy Research and Innovation Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Engineering Research Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Information and Communication Technology Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Management and Marketing Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Electrical Engineering Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Efficiency Research Excellence Center",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Efficiency Research Excellence Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Efficiency Research Excellence Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Efficiency Research Excellence Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Efficiency Research Excellence Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Energy Research and Innovation Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engineering Research Center",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Engn Technol Program",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment & Water Research Center",
+        "target": "Environment and Water Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment & Water Research Center",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment & Water Research Center",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment & Water Research Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Geosciences Department",
+        "opacity": 0.7,
+        "color": "#bcbddc",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Hafr Al-Batin Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#bcbddc",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#9e9ac8",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#bcbddc",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Environment and Water Research Center",
+        "target": "Science Research Excellence Center MIT Collaboration",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "General Studies Department",
+        "target": "Global and Social Studies Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Hafr Al-Batin Community College",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Information System & Operations Management Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Integrative Petroleum Research Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Life Sciences Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Geosciences Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Graduate Studies",
+        "target": "Information and Computer Science Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Graduate Studies",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Hafr Al-Batin Community College",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Communication Technology Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Communication Technology Center",
+        "target": "Modeling and Computer Simulation Research Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Information System & Operations Management Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information and Computer Science Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information System & Operations Management Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Information System & Operations Management Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#fdd0a2",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Projects Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Integrative Petroleum Research Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Life Sciences Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Management and Marketing Department",
+        "target": "Mathematics and Statistics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Management and Marketing Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mathematics and Statistics Department",
+        "target": "Mechanical Engineering Department",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mathematics and Statistics Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mathematics and Statistics Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mathematics and Statistics Department",
+        "target": "Preparatory Year Program",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mathematics and Statistics Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Nanotechnology Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#756bb1",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#fdae6b",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Science Research Excellence Center MIT Collaboration",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Mechanical Engineering Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Nanotechnology Research Excellence Center",
+        "target": "Petroleum Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Nanotechnology Research Excellence Center",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#fdae6b",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Nanotechnology Research Excellence Center",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Nanotechnology Research Excellence Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#dadaeb",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Nanotechnology Research Excellence Center",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Petroleum Engineering Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Petroleum Engineering Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Petroleum Engineering Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Physical Education Department",
+        "target": "Physics Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Physics Department",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#636363",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Physics Department",
+        "target": "Science Research Excellence Center MIT Collaboration",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Physics Department",
+        "target": "Systems Engineering Department",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Refining & Petrochemicals Research Excellence Center",
+        "target": "Refining and Petrochemicals Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    },
+    {
+        "source": "Refining and Petrochemicals Research Excellence Center",
+        "target": "Renewable Energy Research Excellence Center",
+        "opacity": 0.7,
+        "color": "#969696",
+        "strokeWidth": 6
+    }
+]

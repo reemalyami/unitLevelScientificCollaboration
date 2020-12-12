@@ -1,0 +1,5865 @@
+[
+    {
+        "id": 1,
+        "name": "Accounting and Finance Department",
+        "num_papers": 10,
+        "num_collabs": 0,
+        "num_citations": 3,
+        "num_grants": 4,
+        "authors": [
+            {
+                "author": "Omar Al-Titi",
+                "papers": 4,
+                "citations": 2,
+                "contributions": 2.83,
+                "faculty": 1,
+                "students": 1
+            },
+            {
+                "author": "Miah, Fazlul",
+                "papers": 3,
+                "citations": 1,
+                "contributions": 1.83,
+                "faculty": 2,
+                "students": 0
+            },
+            {
+                "author": "Al-Ubaydli, Omar",
+                "papers": 2,
+                "citations": 1,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Mohammed A. Al-Sahlawi",
+                "papers": 1,
+                "citations": 1,
+                "contributions": 0.33,
+                "faculty": 1,
+                "students": 1
+            },
+            {
+                "author": "Ulussever, Talat",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Gasoline consumption in Saudi Arabia: an analysis of consumer attitudes and perceptions using microsurvey data",
+                "citations": "1",
+                "authors": 3
+            },
+            {
+                "title": "Organizational policies and diversity management in Saudi Arabia",
+                "citations": "1",
+                "authors": 1
+            },
+            {
+                "title": "How natural field experiments have enhanced our understanding of unemployment",
+                "citations": "1",
+                "authors": 1
+            },
+            {
+                "title": "Accuracy, unbiasedness, and efficiency of current account growth forecast: Evidence from a large cross section of developed and developing economies",
+                "citations": "0",
+                "authors": 1
+            },
+            {
+                "title": "How does fundraising affect volunteering? Evidence from a natural field experiment",
+                "citations": "0",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Business & Economics",
+                "number": 8
+            },
+            {
+                "area": "Psychology",
+                "number": 2
+            },
+            {
+                "area": "Engineering",
+                "number": 1
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Neurosciences & Neurology",
+                "number": 1
+            }
+        ],
+        "collabs": []
+    },
+    {
+        "id": 2,
+        "name": "Accounting and Management Information Systems Department",
+        "num_papers": 16,
+        "num_collabs": 9,
+        "num_citations": 12,
+        "num_grants": 6,
+        "authors": [
+            {
+                "author": "Al-Jabri, Ibrahim M.",
+                "papers": 6,
+                "citations": 8,
+                "contributions": 3.5,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Alojairi, Ahmad",
+                "papers": 4,
+                "citations": 1,
+                "contributions": 4.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Hossain, Mahmud",
+                "papers": 2,
+                "citations": 3,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Amine Nehari Talet",
+                "papers": 2,
+                "citations": 0,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Alwahaishi, Saleh",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 1
+            }
+        ],
+        "papers": [
+            {
+                "title": "A Group Decision-Making Method for Selecting Cloud Computing Service Model",
+                "citations": "5",
+                "authors": 3
+            },
+            {
+                "title": "Different time, different tone: Company life cycle",
+                "citations": "2",
+                "authors": 1
+            },
+            {
+                "title": "Constraining Opportunism in Information Systems Consulting: A Three Nation Examination",
+                "citations": "2",
+                "authors": 1
+            },
+            {
+                "title": "Narrative disclosures, firm life cycle, and audit fees",
+                "citations": "1",
+                "authors": 1
+            },
+            {
+                "title": "A socio-technical perception on the impact of project management software in logistics and distribution center: A case study in Saudi Arabia telecommunication company",
+                "citations": "1",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Business & Economics",
+                "number": 7
+            },
+            {
+                "area": "Computer Science",
+                "number": 5
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 2
+            },
+            {
+                "area": "Engineering",
+                "number": 2
+            },
+            {
+                "area": "Communication",
+                "number": 1
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 1
+            },
+            {
+                "area": "Information Science & Library Science",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Dammam Community College",
+                "number": 3
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 2
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 1
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Aerospace Engineering Department",
+        "num_papers": 28,
+        "num_collabs": 20,
+        "num_citations": 39,
+        "num_grants": 16,
+        "authors": [
+            {
+                "author": "Qasem, Naef A. A.",
+                "papers": 10,
+                "citations": 13,
+                "contributions": 2.74,
+                "faculty": 0,
+                "students": 19
+            },
+            {
+                "author": "Abdelrahman, Wael",
+                "papers": 7,
+                "citations": 17,
+                "contributions": 4.25,
+                "faculty": 1,
+                "students": 3
+            },
+            {
+                "author": "Al-Garni, Ahmed",
+                "papers": 6,
+                "citations": 3,
+                "contributions": 1.92,
+                "faculty": 2,
+                "students": 6
+            },
+            {
+                "author": "Abdallah, Ayman",
+                "papers": 5,
+                "citations": 5,
+                "contributions": 2.12,
+                "faculty": 1,
+                "students": 6
+            },
+            {
+                "author": "Ghazy, Mohammed",
+                "papers": 2,
+                "citations": 3,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Humidification-dehumidification desalination systems driven by thermal-based renewable and low-grade energy sources: A critical review",
+                "citations": "4",
+                "authors": 2
+            },
+            {
+                "title": "Novel and efficient integration of a humidification-dehumidification desalination system with an absorption refrigeration system",
+                "citations": "3",
+                "authors": 5
+            },
+            {
+                "title": "A closed-form analytical model for predicting 3D boundary layer displacement thickness for the validation of viscous flow solvers",
+                "citations": "3",
+                "authors": 1
+            },
+            {
+                "title": "The impact of thermodynamic potentials on the design of electrodialysis desalination plants",
+                "citations": "2",
+                "authors": 4
+            },
+            {
+                "title": "Analytical and numerical investigations of the collapse of blood vessels with nonlinear wall material embedded in nonlinear soft tissues",
+                "citations": "2",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 10
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 9
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 7
+            },
+            {
+                "area": "Mechanics",
+                "number": 6
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 5
+            },
+            {
+                "area": "Materials Science",
+                "number": 3
+            },
+            {
+                "area": "Water Resources",
+                "number": 3
+            },
+            {
+                "area": "Chemistry",
+                "number": 2
+            },
+            {
+                "area": "Business & Economics",
+                "number": 2
+            },
+            {
+                "area": "Geology",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 9
+            },
+            {
+                "collab": "Carbon Capture and Sequestration Research Center",
+                "number": 3
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 2
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 1
+            },
+            {
+                "collab": "Civil and Environmental Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Architectural Engineering Department",
+        "num_papers": 56,
+        "num_collabs": 44,
+        "num_citations": 135,
+        "num_grants": 38,
+        "authors": [
+            {
+                "author": "Hassanain, Mohammad A.",
+                "papers": 32,
+                "citations": 55,
+                "contributions": 10.27,
+                "faculty": 1,
+                "students": 28
+            },
+            {
+                "author": "Asif, Mohammad",
+                "papers": 9,
+                "citations": 41,
+                "contributions": 3.28,
+                "faculty": 2,
+                "students": 14
+            },
+            {
+                "author": "Kim, Daeung Danny",
+                "papers": 9,
+                "citations": 31,
+                "contributions": 9.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Ahmed, Wahhaj",
+                "papers": 6,
+                "citations": 8,
+                "contributions": 2.5,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Al-Hammad, Abdul-Mohsen",
+                "papers": 6,
+                "citations": 5,
+                "contributions": 1.75,
+                "faculty": 0,
+                "students": 7
+            }
+        ],
+        "papers": [
+            {
+                "title": "Households energy conservation in Saudi Arabia: Lessons learnt from change-agents driven interventions program",
+                "citations": "9",
+                "authors": 5
+            },
+            {
+                "title": "Energy performance assessment towards nearly zero energy community buildings in South Korea",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Adoption and implementation of BIM - case study of a Saudi Arabian AEC firm",
+                "citations": "7",
+                "authors": 3
+            },
+            {
+                "title": "A risk assessment approach for enhancing construction safety performance",
+                "citations": "7",
+                "authors": 4
+            },
+            {
+                "title": "Analytic Hierarchy Process & Multi Attribute Utility Theory Based Approach for the Selection of Lighting Systems in Residential Buildings: A Case Study",
+                "citations": "6",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 26
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 21
+            },
+            {
+                "area": "Business & Economics",
+                "number": 8
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 8
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 6
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 4
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Public Administration",
+                "number": 1
+            },
+            {
+                "area": "Urban Studies",
+                "number": 1
+            },
+            {
+                "area": "Computer Science",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Dammam Community College",
+                "number": 12
+            },
+            {
+                "collab": "Construction Engineering and Management Department",
+                "number": 11
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 11
+            },
+            {
+                "collab": "City and Regional Planning Department",
+                "number": 4
+            },
+            {
+                "collab": "Architecture Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Architecture Department",
+        "num_papers": 13,
+        "num_collabs": 3,
+        "num_citations": 24,
+        "num_grants": 8,
+        "authors": [
+            {
+                "author": "Abd El Fattah, Ahmed",
+                "papers": 5,
+                "citations": 19,
+                "contributions": 3.0,
+                "faculty": 0,
+                "students": 6
+            },
+            {
+                "author": "Asfour, Omar S.",
+                "papers": 3,
+                "citations": 4,
+                "contributions": 3.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Al-Qawasmi, Jamal",
+                "papers": 3,
+                "citations": 1,
+                "contributions": 2.25,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Zami, Mohammad Sharif",
+                "papers": 2,
+                "citations": 0,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Babsail, Mohammad O.",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.25,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "New axial Stress-Strain model of square concrete columns confined with lateral steel and FRP",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Solar and Shading Potential of Different Configurations of Building Integrated Photovoltaics Used as Shading Devices Considering Hot Climatic Conditions",
+                "citations": "3",
+                "authors": 1
+            },
+            {
+                "title": "Field evaluation of corrosion mitigation on reinforced concrete in marine exposure conditions",
+                "citations": "10",
+                "authors": 2
+            },
+            {
+                "title": "Examining indicators coverage in a sample of sustainable building assessment systems",
+                "citations": "1",
+                "authors": 1
+            },
+            {
+                "title": "A comparison between the daylighting and energy performance of courtyard and atrium buildings considering the hot climate of Saudi Arabia",
+                "citations": "1",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Materials Science",
+                "number": 4
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 4
+            },
+            {
+                "area": "Engineering",
+                "number": 4
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 3
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 2
+            },
+            {
+                "area": "Mechanics",
+                "number": 2
+            },
+            {
+                "area": "Urban Studies",
+                "number": 1
+            },
+            {
+                "area": "Geology",
+                "number": 1
+            },
+            {
+                "area": "Meteorology & Atmospheric Sciences",
+                "number": 1
+            },
+            {
+                "area": "Water Resources",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Civil and Environmental Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Architectural Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Carbon Capture and Sequestration Research Center",
+        "num_papers": 19,
+        "num_collabs": 33,
+        "num_citations": 50,
+        "num_grants": 18,
+        "authors": [
+            {
+                "author": "Al-Maythalony, Bassem A.",
+                "papers": 7,
+                "citations": 32,
+                "contributions": 1.9,
+                "faculty": 0,
+                "students": 19
+            },
+            {
+                "author": "Habib, Mohamed A. M.",
+                "papers": 6,
+                "citations": 3,
+                "contributions": 1.03,
+                "faculty": 0,
+                "students": 14
+            },
+            {
+                "author": "Ben-Mansour, R.",
+                "papers": 5,
+                "citations": 13,
+                "contributions": 1.02,
+                "faculty": 0,
+                "students": 6
+            },
+            {
+                "author": "Nemitallah, Medhat",
+                "papers": 4,
+                "citations": 1,
+                "contributions": 0.72,
+                "faculty": 0,
+                "students": 6
+            },
+            {
+                "author": "Abuelyamen, Ahmed",
+                "papers": 3,
+                "citations": 2,
+                "contributions": 0.57,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "A green sorbent for CO2 capture: alpha-cyclodextrin-based carbonate in DMSO solution",
+                "citations": "6",
+                "authors": 1
+            },
+            {
+                "title": "A Microporous Organic Copolymer for Selective CO2 Capture under Humid Conditions",
+                "citations": "5",
+                "authors": 5
+            },
+            {
+                "title": "Integrated liquid fuel based chemical looping combustion - parametric study for efficient power generation and CO2 capture",
+                "citations": "4",
+                "authors": 3
+            },
+            {
+                "title": "Poly aromatic hydrocarbon (naphthalene) conversion into value added chemical (tetralin): Activity and stability of MoP/AC catalyst",
+                "citations": "4",
+                "authors": 4
+            },
+            {
+                "title": "Carbon dioxide capture in the presence of water by an amine-based crosslinked porous polymer",
+                "citations": "14",
+                "authors": 7
+            }
+        ],
+        "areas": [
+            {
+                "area": "Energy & Fuels",
+                "number": 9
+            },
+            {
+                "area": "Chemistry",
+                "number": 8
+            },
+            {
+                "area": "Engineering",
+                "number": 7
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 3
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 3
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 2
+            },
+            {
+                "area": "Mechanics",
+                "number": 2
+            },
+            {
+                "area": "Materials Science",
+                "number": 2
+            },
+            {
+                "area": "Computer Science",
+                "number": 1
+            },
+            {
+                "area": "Polymer Science",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 10
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 7
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 4
+            },
+            {
+                "collab": "Aerospace Engineering Department",
+                "number": 3
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chemical Engineering Department",
+        "num_papers": 290,
+        "num_collabs": 249,
+        "num_citations": 1776,
+        "num_grants": 228,
+        "authors": [
+            {
+                "author": "Muraza, Oki",
+                "papers": 52,
+                "citations": 269,
+                "contributions": 18.61,
+                "faculty": 0,
+                "students": 33
+            },
+            {
+                "author": "Hossain, Mohammad M.",
+                "papers": 43,
+                "citations": 144,
+                "contributions": 14.74,
+                "faculty": 0,
+                "students": 36
+            },
+            {
+                "author": "Al-Harthi, Mamdouh A.",
+                "papers": 35,
+                "citations": 271,
+                "contributions": 15.0,
+                "faculty": 0,
+                "students": 22
+            },
+            {
+                "author": "Razzak, Shaikh A.",
+                "papers": 25,
+                "citations": 53,
+                "contributions": 10.1,
+                "faculty": 0,
+                "students": 19
+            },
+            {
+                "author": "Malaibari, Zuhair",
+                "papers": 14,
+                "citations": 72,
+                "contributions": 3.97,
+                "faculty": 1,
+                "students": 18
+            }
+        ],
+        "papers": [
+            {
+                "title": "Catalytic Enhancement of SAPO-34 for Methanol Conversion to Light Olefins Using in Situ Metal Incorporation",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "ELECTRICAL AND DIELECTRIC PROPERTIES OF POLY(VINYL ALCOHOL)/STARCH/GRAPHENE NANOCOMPOSITES",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Hydrogen Production through Steam Reforming of Diesel over Highly Efficient Promoted Ni/gamma-Al2O3 Catalysts Containing Lanthanide Series (La, Ce, Eu, Pr, and Gd) Promoters",
+                "citations": "8",
+                "authors": 4
+            },
+            {
+                "title": "Gasification of various biomasses including microalgae using CO2 - A thermodynamic study",
+                "citations": "8",
+                "authors": 2
+            },
+            {
+                "title": "Isomerization of n-Butane over Cost-Effective Mordenite Catalysts Fabricated via Recrystallization of Natural Zeolites",
+                "citations": "8",
+                "authors": 5
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 141
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 87
+            },
+            {
+                "area": "Chemistry",
+                "number": 73
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 49
+            },
+            {
+                "area": "Materials Science",
+                "number": 31
+            },
+            {
+                "area": "Polymer Science",
+                "number": 25
+            },
+            {
+                "area": "Physics",
+                "number": 21
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 15
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 12
+            },
+            {
+                "area": "Computer Science",
+                "number": 7
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 107
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 33
+            },
+            {
+                "collab": "Refining and Petrochemicals Research Excellence Center",
+                "number": 26
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 10
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Chemistry Department",
+        "num_papers": 565,
+        "num_collabs": 362,
+        "num_citations": 4263,
+        "num_grants": 447,
+        "authors": [
+            {
+                "author": "Saleh, Tawfik A.",
+                "papers": 128,
+                "citations": 1794,
+                "contributions": 72.82,
+                "faculty": 3,
+                "students": 86
+            },
+            {
+                "author": "Alhooshani, Khalid",
+                "papers": 34,
+                "citations": 207,
+                "contributions": 13.88,
+                "faculty": 1,
+                "students": 36
+            },
+            {
+                "author": "Mazumder, Mohammad A. J.",
+                "papers": 34,
+                "citations": 96,
+                "contributions": 12.68,
+                "faculty": 1,
+                "students": 32
+            },
+            {
+                "author": "Janjua, Muhammad Ramzan Saeed Ashraf",
+                "papers": 33,
+                "citations": 203,
+                "contributions": 26.75,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Isab, Anvarhusein A.",
+                "papers": 33,
+                "citations": 74,
+                "contributions": 20.09,
+                "faculty": 0,
+                "students": 26
+            }
+        ],
+        "papers": [
+            {
+                "title": "Removal of heavy metals and organic pollutants from water using dendritic polymers based adsorbents: A critical review",
+                "citations": "95",
+                "authors": 5
+            },
+            {
+                "title": "Polyamide magnetic palygorskite for the simultaneous removal of Hg(II) and methyl mercury; with factorial design analysis",
+                "citations": "91",
+                "authors": 3
+            },
+            {
+                "title": "Initiator-Free Natural Light-Driven Vapor Phase Synthesis of a Porous Network of 3D Polystyrene Branched Carbon Nanofiber Grafted Polyurethane for Hexane/Water Separation",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Modulating Reactivity and Selectivity of 2-Pyrone-Derived Bicyclic Lactones through Choice of Catalyst and Solvent",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Adsorption of Bovine Serum Albumin on Poly(vinylidene fluoride) Surfaces in the Presence of Ions: A Molecular Dynamics Simulation",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Chemistry",
+                "number": 328
+            },
+            {
+                "area": "Engineering",
+                "number": 94
+            },
+            {
+                "area": "Materials Science",
+                "number": 86
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 70
+            },
+            {
+                "area": "Physics",
+                "number": 63
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 48
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 31
+            },
+            {
+                "area": "Polymer Science",
+                "number": 25
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 22
+            },
+            {
+                "area": "Biochemistry & Molecular Biology",
+                "number": 20
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 94
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 33
+            },
+            {
+                "collab": "Corrosion Research Excellence Center",
+                "number": 32
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 30
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 28
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "City and Regional Planning Department",
+        "num_papers": 17,
+        "num_collabs": 12,
+        "num_citations": 92,
+        "num_grants": 13,
+        "authors": [
+            {
+                "author": "Nahiduzzaman, Kh Md",
+                "papers": 6,
+                "citations": 44,
+                "contributions": 2.62,
+                "faculty": 1,
+                "students": 7
+            },
+            {
+                "author": "Muhammad Tauhidur Rahman",
+                "papers": 6,
+                "citations": 31,
+                "contributions": 3.25,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Aldosary, Adel S.",
+                "papers": 5,
+                "citations": 30,
+                "contributions": 1.48,
+                "faculty": 2,
+                "students": 8
+            },
+            {
+                "author": "Alshuwaikhat, Habib M.",
+                "papers": 3,
+                "citations": 15,
+                "contributions": 3.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Abdulaziz Majed Alqadhib",
+                "papers": 1,
+                "citations": 9,
+                "contributions": 0.2,
+                "faculty": 0,
+                "students": 4
+            }
+        ],
+        "papers": [
+            {
+                "title": "Dhaka, Bangladesh: unpacking challenges and reflecting on unjust transitions",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Households energy conservation in Saudi Arabia: Lessons learnt from change-agents driven interventions program",
+                "citations": "9",
+                "authors": 5
+            },
+            {
+                "title": "Top-down sustainable urban development? Urban governance transformation in Saudi Arabia",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Mode choice behavior of high school goers: Evaluating logistic regression and MLP neural networks",
+                "citations": "8",
+                "authors": 4
+            },
+            {
+                "title": "The Dilemma of Road Safety in the Eastern Province of Saudi Arabia: Consequences and Prevention Strategies",
+                "citations": "5",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 5
+            },
+            {
+                "area": "Engineering",
+                "number": 5
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 4
+            },
+            {
+                "area": "Urban Studies",
+                "number": 3
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Remote Sensing",
+                "number": 2
+            },
+            {
+                "area": "Geography",
+                "number": 1
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 1
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 1
+            },
+            {
+                "area": "Transportation",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Civil and Environmental Engineering Department",
+                "number": 5
+            },
+            {
+                "collab": "Architectural Engineering Department",
+                "number": 4
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 2
+            },
+            {
+                "collab": "Construction Engineering and Management Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Civil and Environmental Engineering Department",
+        "num_papers": 285,
+        "num_collabs": 112,
+        "num_citations": 4509,
+        "num_grants": 158,
+        "authors": [
+            {
+                "author": "Tounsi, Abdelouahed",
+                "papers": 110,
+                "citations": 3949,
+                "contributions": 96.38,
+                "faculty": 0,
+                "students": 11
+            },
+            {
+                "author": "Al-Osta, Mohammed A.",
+                "papers": 24,
+                "citations": 292,
+                "contributions": 8.19,
+                "faculty": 1,
+                "students": 33
+            },
+            {
+                "author": "Ahmad, Shamsad",
+                "papers": 20,
+                "citations": 60,
+                "contributions": 5.1,
+                "faculty": 2,
+                "students": 31
+            },
+            {
+                "author": "Al-Amoudi, Omar S. Baghabra",
+                "papers": 18,
+                "citations": 127,
+                "contributions": 4.7,
+                "faculty": 0,
+                "students": 26
+            },
+            {
+                "author": "Bedia, E. A. Adda",
+                "papers": 16,
+                "citations": 278,
+                "contributions": 6.18,
+                "faculty": 0,
+                "students": 7
+            }
+        ],
+        "papers": [
+            {
+                "title": "A new nonlocal HSDT for analysis of stability of single layer graphene sheet",
+                "citations": "98",
+                "authors": 1
+            },
+            {
+                "title": "A review on the angle of repose of granular materials",
+                "citations": "96",
+                "authors": 2
+            },
+            {
+                "title": "Nonlinear analysis of viscoelastic micro-composite beam with geometrical imperfection using FEM: MSGT electro-magneto-elastic bending, buckling and vibration solutions",
+                "citations": "96",
+                "authors": 1
+            },
+            {
+                "title": "A simple quasi-3D HSDT for the dynamics analysis of FG thick plate on elastic foundation",
+                "citations": "96",
+                "authors": 2
+            },
+            {
+                "title": "Thermomechanical bending study for functionally graded sandwich plates using a simple quasi-3D shear deformation theory",
+                "citations": "94",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 170
+            },
+            {
+                "area": "Materials Science",
+                "number": 102
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 79
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 47
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 31
+            },
+            {
+                "area": "Computer Science",
+                "number": 24
+            },
+            {
+                "area": "Chemistry",
+                "number": 15
+            },
+            {
+                "area": "Mechanics",
+                "number": 12
+            },
+            {
+                "area": "Instruments & Instrumentation",
+                "number": 11
+            },
+            {
+                "area": "Water Resources",
+                "number": 11
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Engineering Research Center",
+                "number": 32
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 17
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 13
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 8
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Civil Engineering Department",
+        "num_papers": 1,
+        "num_collabs": 1,
+        "num_citations": 1,
+        "num_grants": 0,
+        "authors": [
+            {
+                "author": "Ahmed Abdelrahman Abdelmaksoud Ibrahim",
+                "papers": 1,
+                "citations": 1,
+                "contributions": 0.25,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "Effect of Piezoelectric Patch Size and Material on Active Vibration Control of Wind Turbine Blades",
+                "citations": "1",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 1
+            },
+            {
+                "area": "Mechanics",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Aerospace Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Computer Engineering Department",
+        "num_papers": 123,
+        "num_collabs": 48,
+        "num_citations": 420,
+        "num_grants": 93,
+        "authors": [
+            {
+                "author": "Sait, Sadiq M.",
+                "papers": 34,
+                "citations": 252,
+                "contributions": 21.17,
+                "faculty": 0,
+                "students": 9
+            },
+            {
+                "author": "Baroudi, Uthman",
+                "papers": 21,
+                "citations": 41,
+                "contributions": 10.58,
+                "faculty": 1,
+                "students": 19
+            },
+            {
+                "author": "Tarek Sheltami",
+                "papers": 19,
+                "citations": 46,
+                "contributions": 6.87,
+                "faculty": 1,
+                "students": 24
+            },
+            {
+                "author": "Gondal, M. A.",
+                "papers": 8,
+                "citations": 17,
+                "contributions": 2.28,
+                "faculty": 2,
+                "students": 9
+            },
+            {
+                "author": "Al-Roubaiey, Anas A.",
+                "papers": 7,
+                "citations": 28,
+                "contributions": 3.5,
+                "faculty": 1,
+                "students": 4
+            }
+        ],
+        "papers": [
+            {
+                "title": "Digital image encryption techniques for wireless sensor networks using image transformation methods: DCT and DWT",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Integrating sustainability analysis with sectoral exergy analysis: A case study of rural residential sector of Bangladesh",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Embedded System for Motion Control of an Omnidirectional Mobile Robot",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "A Survey on Autonomic Provisioning and Management of QoS in SDN Networks",
+                "citations": "7",
+                "authors": 2
+            },
+            {
+                "title": "Reliable Middleware for Wireless Sensor-Actuator Networks",
+                "citations": "7",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Computer Science",
+                "number": 74
+            },
+            {
+                "area": "Engineering",
+                "number": 65
+            },
+            {
+                "area": "Telecommunications",
+                "number": 50
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 9
+            },
+            {
+                "area": "Materials Science",
+                "number": 9
+            },
+            {
+                "area": "Transportation",
+                "number": 8
+            },
+            {
+                "area": "Chemistry",
+                "number": 4
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 4
+            },
+            {
+                "area": "Operations Research & Management Science",
+                "number": 3
+            },
+            {
+                "area": "Physics",
+                "number": 3
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Information and Communication Technology Center",
+                "number": 18
+            },
+            {
+                "collab": "Systems Engineering Department",
+                "number": 8
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 6
+            },
+            {
+                "collab": "Information and Computer Science Department",
+                "number": 4
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Construction Engineering and Management Department",
+        "num_papers": 30,
+        "num_collabs": 26,
+        "num_citations": 49,
+        "num_grants": 17,
+        "authors": [
+            {
+                "author": "Assaf, Sadi",
+                "papers": 8,
+                "citations": 19,
+                "contributions": 1.97,
+                "faculty": 1,
+                "students": 11
+            },
+            {
+                "author": "Umer, Waleed",
+                "papers": 5,
+                "citations": 3,
+                "contributions": 5.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Ghaithan, Ahmed M.",
+                "papers": 4,
+                "citations": 8,
+                "contributions": 1.42,
+                "faculty": 1,
+                "students": 5
+            },
+            {
+                "author": "Mohammad Sayed Hasan",
+                "papers": 4,
+                "citations": 3,
+                "contributions": 0.85,
+                "faculty": 0,
+                "students": 7
+            },
+            {
+                "author": "Alshibani, Adel",
+                "papers": 4,
+                "citations": 2,
+                "contributions": 3.5,
+                "faculty": 0,
+                "students": 1
+            }
+        ],
+        "papers": [
+            {
+                "title": "A risk assessment approach for enhancing construction safety performance",
+                "citations": "7",
+                "authors": 4
+            },
+            {
+                "title": "Time and Cost Overrun in the Saudi Arabian Oil and Gas Construction Industry",
+                "citations": "6",
+                "authors": 4
+            },
+            {
+                "title": "Cash Flow Management of Construction Projects in Saudi Arabia",
+                "citations": "4",
+                "authors": 1
+            },
+            {
+                "title": "Review and assessment of the causes of deficiencies in design documents for large construction projects",
+                "citations": "4",
+                "authors": 3
+            },
+            {
+                "title": "A multi-objective optimization model for tactical planning of upstream oil & gas supply chains",
+                "citations": "4",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 17
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 11
+            },
+            {
+                "area": "Business & Economics",
+                "number": 5
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 3
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 3
+            },
+            {
+                "area": "Computer Science",
+                "number": 2
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 1
+            },
+            {
+                "area": "Operations Research & Management Science",
+                "number": 1
+            },
+            {
+                "area": "Chemistry",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Architectural Engineering Department",
+                "number": 11
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 8
+            },
+            {
+                "collab": "Systems Engineering Department",
+                "number": 4
+            },
+            {
+                "collab": "City and Regional Planning Department",
+                "number": 1
+            },
+            {
+                "collab": "Dammam Community College",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Corrosion Research Excellence Center",
+        "num_papers": 279,
+        "num_collabs": 129,
+        "num_citations": 2810,
+        "num_grants": 198,
+        "authors": [
+            {
+                "author": "Quraishi, M. A.",
+                "papers": 73,
+                "citations": 1174,
+                "contributions": 43.42,
+                "faculty": 0,
+                "students": 23
+            },
+            {
+                "author": "Obot, Ime B.",
+                "papers": 52,
+                "citations": 636,
+                "contributions": 31.19,
+                "faculty": 0,
+                "students": 32
+            },
+            {
+                "author": "Kumar, A. Madhan",
+                "papers": 41,
+                "citations": 272,
+                "contributions": 13.96,
+                "faculty": 1,
+                "students": 43
+            },
+            {
+                "author": "Suleiman, Rami K.",
+                "papers": 31,
+                "citations": 141,
+                "contributions": 12.84,
+                "faculty": 1,
+                "students": 36
+            },
+            {
+                "author": "Umoren, Saviour A.",
+                "papers": 29,
+                "citations": 399,
+                "contributions": 11.15,
+                "faculty": 0,
+                "students": 26
+            }
+        ],
+        "papers": [
+            {
+                "title": "Thiosemicarbazide and thiocarbohydrazide functionalized chitosan as ecofriendly corrosion inhibitors for carbon steel in hydrochloric acid solution",
+                "citations": "90",
+                "authors": 2
+            },
+            {
+                "title": "Olive leaves extract mediated zero-valent iron nanoparticles: synthesis, characterization, and assessment as adsorbent for nickel (II) ions in aqueous medium",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Influence of 1-butyl-1-methylpiperidinium tetrafluoroborate on St37 steel dissolution behavior in HCl environment",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Alternative corrosion inhibitor formulation for carbon steel in CO2-saturated brine solution under high turbulent flow condition for use in oil and gas transportation pipelines",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Review of rare-earth-based conversion coatings for magnesium and its alloys",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Chemistry",
+                "number": 126
+            },
+            {
+                "area": "Materials Science",
+                "number": 120
+            },
+            {
+                "area": "Physics",
+                "number": 63
+            },
+            {
+                "area": "Engineering",
+                "number": 43
+            },
+            {
+                "area": "Metallurgy & Metallurgical Engineering",
+                "number": 25
+            },
+            {
+                "area": "Polymer Science",
+                "number": 23
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 19
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 17
+            },
+            {
+                "area": "Biochemistry & Molecular Biology",
+                "number": 10
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 10
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 50
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 32
+            },
+            {
+                "collab": "Engineering Research Center",
+                "number": 11
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 10
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Dammam Community College",
+        "num_papers": 24,
+        "num_collabs": 21,
+        "num_citations": 40,
+        "num_grants": 18,
+        "authors": [
+            {
+                "author": "Sanni-Anibire, Muizz O.",
+                "papers": 13,
+                "citations": 24,
+                "contributions": 4.33,
+                "faculty": 0,
+                "students": 14
+            },
+            {
+                "author": "Mahmoud, Abubakar Sadiq",
+                "papers": 4,
+                "citations": 11,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 6
+            },
+            {
+                "author": "Al-Ghazali, Basheer M.",
+                "papers": 4,
+                "citations": 10,
+                "contributions": 4.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Eid, Mustafa I.",
+                "papers": 3,
+                "citations": 5,
+                "contributions": 1.17,
+                "faculty": 0,
+                "students": 2
+            },
+            {
+                "author": "Al-Saggaf, Alawi A.",
+                "papers": 2,
+                "citations": 0,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Adoption and implementation of BIM - case study of a Saudi Arabian AEC firm",
+                "citations": "7",
+                "authors": 3
+            },
+            {
+                "title": "A risk assessment approach for enhancing construction safety performance",
+                "citations": "7",
+                "authors": 4
+            },
+            {
+                "title": "How employee's perceived corporate social responsibility affects employee's pro-environmental behaviour? The influence of organizational identification, corporate entrepreneurship, and environmental consciousness",
+                "citations": "6",
+                "authors": 1
+            },
+            {
+                "title": "A Group Decision-Making Method for Selecting Cloud Computing Service Model",
+                "citations": "5",
+                "authors": 3
+            },
+            {
+                "title": "Post occupancy evaluation of a flexible workplace facility in Saudi Arabia",
+                "citations": "3",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Business & Economics",
+                "number": 7
+            },
+            {
+                "area": "Engineering",
+                "number": 6
+            },
+            {
+                "area": "Computer Science",
+                "number": 5
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 4
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 3
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Public Administration",
+                "number": 1
+            },
+            {
+                "area": "Urban Studies",
+                "number": 1
+            },
+            {
+                "area": "Optics",
+                "number": 1
+            },
+            {
+                "area": "Materials Science",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Architectural Engineering Department",
+                "number": 12
+            },
+            {
+                "collab": "Accounting and Management Information Systems Department",
+                "number": 3
+            },
+            {
+                "collab": "Management and Marketing Department",
+                "number": 3
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 1
+            },
+            {
+                "collab": "Construction Engineering and Management Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Electrical Engineering Department",
+        "num_papers": 512,
+        "num_collabs": 103,
+        "num_citations": 1497,
+        "num_grants": 387,
+        "authors": [
+            {
+                "author": "Abido, Mohammad A.",
+                "papers": 51,
+                "citations": 217,
+                "contributions": 24.87,
+                "faculty": 0,
+                "students": 42
+            },
+            {
+                "author": "Khalid, Muhammad",
+                "papers": 39,
+                "citations": 265,
+                "contributions": 18.42,
+                "faculty": 1,
+                "students": 24
+            },
+            {
+                "author": "Sharawi, Mohammad S.",
+                "papers": 39,
+                "citations": 208,
+                "contributions": 26.83,
+                "faculty": 0,
+                "students": 14
+            },
+            {
+                "author": "Elsawy, Hesham",
+                "papers": 26,
+                "citations": 59,
+                "contributions": 25.33,
+                "faculty": 0,
+                "students": 2
+            },
+            {
+                "author": "Muqaibel, Ali H.",
+                "papers": 25,
+                "citations": 34,
+                "contributions": 10.46,
+                "faculty": 0,
+                "students": 23
+            }
+        ],
+        "papers": [
+            {
+                "title": "Optimal Caching in 5G Networks With Opportunistic Spectrum Access",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Wind speed and power characteristics using LiDAR anemometer based measurements",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Highly miniaturised semi-loop meandered dual-band MIMO antenna system",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Multicarrier SAR Image Reconstruction Using Integrated MUSIC-LSE Algorithm",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Artificial Noise-Based Physical-Layer Security in Interference Alignment Multipair Two-Way Relaying Networks",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 369
+            },
+            {
+                "area": "Telecommunications",
+                "number": 183
+            },
+            {
+                "area": "Computer Science",
+                "number": 133
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 54
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 49
+            },
+            {
+                "area": "Optics",
+                "number": 43
+            },
+            {
+                "area": "Physics",
+                "number": 23
+            },
+            {
+                "area": "Materials Science",
+                "number": 13
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 12
+            },
+            {
+                "area": "Instruments & Instrumentation",
+                "number": 12
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 17
+            },
+            {
+                "collab": "Engineering Research Center",
+                "number": 15
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 10
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 8
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 7
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Energy Efficiency Research Excellence Center",
+        "num_papers": 25,
+        "num_collabs": 26,
+        "num_citations": 83,
+        "num_grants": 22,
+        "authors": [
+            {
+                "author": "Mokheimer, Esmail M. A.",
+                "papers": 7,
+                "citations": 34,
+                "contributions": 1.25,
+                "faculty": 2,
+                "students": 15
+            },
+            {
+                "author": "Liu, Bo",
+                "papers": 6,
+                "citations": 23,
+                "contributions": 3.62,
+                "faculty": 0,
+                "students": 8
+            },
+            {
+                "author": "Iqbal, Naveed",
+                "papers": 6,
+                "citations": 14,
+                "contributions": 1.51,
+                "faculty": 0,
+                "students": 10
+            },
+            {
+                "author": "Deriche, Mohamed",
+                "papers": 5,
+                "citations": 9,
+                "contributions": 1.71,
+                "faculty": 0,
+                "students": 16
+            },
+            {
+                "author": "Al-Shuhail, A. A.",
+                "papers": 4,
+                "citations": 13,
+                "contributions": 1.17,
+                "faculty": 0,
+                "students": 5
+            }
+        ],
+        "papers": [
+            {
+                "title": "Comparative Analysis of Different Inlet Air Cooling Technologies Including Solar Energy to Boost Gas Turbine Combined Cycles in Hot Regions",
+                "citations": "8",
+                "authors": 2
+            },
+            {
+                "title": "A Comprehensive Review of Thermal Enhanced Oil Recovery: Techniques Evaluation",
+                "citations": "8",
+                "authors": 6
+            },
+            {
+                "title": "Trajectory Tracking Control of a One Degree of Freedom Manipulator Based on a Switched Sliding Mode Controller With a Novel Extended State Observer Framework",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "A comparative study of texture attributes for characterizing subsurface structures in seismic volumes",
+                "citations": "7",
+                "authors": 9
+            },
+            {
+                "title": "Performance Analysis of a Solar-Powered Multi-Effect Refrigeration System",
+                "citations": "7",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Energy & Fuels",
+                "number": 9
+            },
+            {
+                "area": "Engineering",
+                "number": 9
+            },
+            {
+                "area": "Computer Science",
+                "number": 6
+            },
+            {
+                "area": "Telecommunications",
+                "number": 6
+            },
+            {
+                "area": "Geochemistry & Geophysics",
+                "number": 3
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 2
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 1
+            },
+            {
+                "area": "Geology",
+                "number": 1
+            },
+            {
+                "area": "Mining & Mineral Processing",
+                "number": 1
+            },
+            {
+                "area": "Transportation",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 9
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 7
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 3
+            },
+            {
+                "collab": "Integrative Petroleum Research Center",
+                "number": 2
+            },
+            {
+                "collab": "Petroleum Engineering Department",
+                "number": 2
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Energy Research and Innovation Center",
+        "num_papers": 28,
+        "num_collabs": 49,
+        "num_citations": 55,
+        "num_grants": 25,
+        "authors": [
+            {
+                "author": "Gondal, M. A.",
+                "papers": 13,
+                "citations": 42,
+                "contributions": 1.68,
+                "faculty": 0,
+                "students": 21
+            },
+            {
+                "author": "Mokheimer, Esmail M. A.",
+                "papers": 5,
+                "citations": 5,
+                "contributions": 1.72,
+                "faculty": 0,
+                "students": 12
+            },
+            {
+                "author": "Alismail, Fahad",
+                "papers": 3,
+                "citations": 7,
+                "contributions": 1.2,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Wudil, Y. S.",
+                "papers": 3,
+                "citations": 4,
+                "contributions": 0.28,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Kandiel, Tarek A.",
+                "papers": 3,
+                "citations": 1,
+                "contributions": 0.95,
+                "faculty": 0,
+                "students": 5
+            }
+        ],
+        "papers": [
+            {
+                "title": "Efficient and cost-effective dye-sensitized solar cells using MWCNT-TiO2 nanocomposite as photoanode and MWCNT as Pt-free counter electrode",
+                "citations": "9",
+                "authors": 4
+            },
+            {
+                "title": "Laser-induced anchoring of WO3 nanoparticles on reduced graphene oxide sheets for photocatalytic water decontamination and energy storage",
+                "citations": "9",
+                "authors": 7
+            },
+            {
+                "title": "Grid Integration Challenges of Wind Energy: A Review",
+                "citations": "6",
+                "authors": 5
+            },
+            {
+                "title": "Thermal conductivity of PLD-grown thermoelectric Bi2Te2.7Se0.3 films using temperature-dependent Raman spectroscopy technique",
+                "citations": "3",
+                "authors": 4
+            },
+            {
+                "title": "Solar-Assisted Liquid Desiccant Dehumidification Using Hollow-Fiber and Parallel-Plate Membrane Dehumidifiers: Comparative Analysis",
+                "citations": "2",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Energy & Fuels",
+                "number": 12
+            },
+            {
+                "area": "Materials Science",
+                "number": 9
+            },
+            {
+                "area": "Chemistry",
+                "number": 8
+            },
+            {
+                "area": "Engineering",
+                "number": 7
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 4
+            },
+            {
+                "area": "Computer Science",
+                "number": 3
+            },
+            {
+                "area": "Physics",
+                "number": 2
+            },
+            {
+                "area": "Telecommunications",
+                "number": 2
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Biochemistry & Molecular Biology",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Physics Department",
+                "number": 13
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 11
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 9
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 5
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 5
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Engineering Research Center",
+        "num_papers": 180,
+        "num_collabs": 124,
+        "num_citations": 714,
+        "num_grants": 143,
+        "authors": [
+            {
+                "author": "Maslehuddin, Mohammed",
+                "papers": 31,
+                "citations": 93,
+                "contributions": 10.17,
+                "faculty": 1,
+                "students": 35
+            },
+            {
+                "author": "Alhems, Luai",
+                "papers": 26,
+                "citations": 90,
+                "contributions": 9.1,
+                "faculty": 1,
+                "students": 29
+            },
+            {
+                "author": "Rehman, Shafiqur",
+                "papers": 20,
+                "citations": 100,
+                "contributions": 12.12,
+                "faculty": 0,
+                "students": 8
+            },
+            {
+                "author": "Ul-Hamid, Anwar",
+                "papers": 20,
+                "citations": 67,
+                "contributions": 14.87,
+                "faculty": 1,
+                "students": 13
+            },
+            {
+                "author": "Tawancy, H. M.",
+                "papers": 18,
+                "citations": 19,
+                "contributions": 16.33,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "Wind speed and power characteristics using LiDAR anemometer based measurements",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Precipitation From Persistent Extremes is Increasing in Most Regions and Globally",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Influence of nano-SiO2 on the strength and microstructure of natural pozzolan based alkali activated concrete",
+                "citations": "8",
+                "authors": 3
+            },
+            {
+                "title": "On forces and phase lags between vortex sheddings from three tandem cylinders",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Synthesis, characterization and electrochemical evaluation of anticorrosion property of a tetrapolymer for carbon steel in strong acid media",
+                "citations": "8",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 76
+            },
+            {
+                "area": "Materials Science",
+                "number": 52
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 37
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 33
+            },
+            {
+                "area": "Metallurgy & Metallurgical Engineering",
+                "number": 20
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 19
+            },
+            {
+                "area": "Chemistry",
+                "number": 19
+            },
+            {
+                "area": "Computer Science",
+                "number": 11
+            },
+            {
+                "area": "Physics",
+                "number": 11
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 9
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Civil and Environmental Engineering Department",
+                "number": 32
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 18
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 15
+            },
+            {
+                "collab": "Corrosion Research Excellence Center",
+                "number": 11
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "English Language Department",
+        "num_papers": 1,
+        "num_collabs": 0,
+        "num_citations": 0,
+        "num_grants": 0,
+        "authors": [
+            {
+                "author": "Jenkins, Sulaiman",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Developing Plagiarism Policies in EFL Contexts: A Saudi Arabian Focus",
+                "citations": "0",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Linguistics",
+                "number": 1
+            }
+        ],
+        "collabs": []
+    },
+    {
+        "id": 21,
+        "name": "Engn Technol Program",
+        "num_papers": 3,
+        "num_collabs": 3,
+        "num_citations": 1,
+        "num_grants": 3,
+        "authors": [
+            {
+                "author": "Kamal E. A. Mahgoub",
+                "papers": 3,
+                "citations": 1,
+                "contributions": 0.83,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "Effect of Welding Parameters on the Mechanical and Metallurgical Properties of Friction Stir Spot Welding of Copper Lap Joint",
+                "citations": "1",
+                "authors": 4
+            },
+            {
+                "title": "EFFECT OF WELDING PARAMETERS ON TEMPERATURE DISTRIBUTION DURING FRICTION STIR SPOT WELDING OF COMMERCIAL PURE COPPER LAP JOINT",
+                "citations": "0",
+                "authors": 4
+            },
+            {
+                "title": "EFFECT OF WELDING CONDITIONS ON SHEETS' INTERFACE PROPERTIES IN FRICTION STIR SPOT WELDING OF COPPER",
+                "citations": "0",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 2
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Materials Science",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Environment & Water Research Center",
+        "num_papers": 9,
+        "num_collabs": 12,
+        "num_citations": 34,
+        "num_grants": 9,
+        "authors": [
+            {
+                "author": "Abdulqader, Ebrahim",
+                "papers": 2,
+                "citations": 5,
+                "contributions": 1.25,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Abuzaid, Nabeel",
+                "papers": 2,
+                "citations": 1,
+                "contributions": 0.67,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Bello, Akeem O.",
+                "papers": 1,
+                "citations": 26,
+                "contributions": 0.25,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Panickan, Premlal",
+                "papers": 1,
+                "citations": 2,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Rao, Durga",
+                "papers": 1,
+                "citations": 1,
+                "contributions": 0.33,
+                "faculty": 0,
+                "students": 2
+            }
+        ],
+        "papers": [
+            {
+                "title": "Regional extinction risks for marine bony fishes occurring in the Persian/Arabian Gulf",
+                "citations": "5",
+                "authors": 1
+            },
+            {
+                "title": "Phytoremediation of cadmium-, lead- and nickel-contaminated water by Phragmites australis in hydroponic systems",
+                "citations": "26",
+                "authors": 4
+            },
+            {
+                "title": "Microplastics in fishes of commercial and ecological importance from the Western Arabian Gulf",
+                "citations": "2",
+                "authors": 2
+            },
+            {
+                "title": "The nature and kinetics of 2,4-dimethylphenol adsorption in aqueous solution on biochar derived fromSargassum boveanummacroalgae",
+                "citations": "1",
+                "authors": 3
+            },
+            {
+                "title": "DNA barcoding of marine fishes from Saudi Arabian waters of the Gulf",
+                "citations": "0",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 4
+            },
+            {
+                "area": "Engineering",
+                "number": 3
+            },
+            {
+                "area": "Biodiversity & Conservation",
+                "number": 2
+            },
+            {
+                "area": "Fisheries",
+                "number": 2
+            },
+            {
+                "area": "Marine & Freshwater Biology",
+                "number": 2
+            },
+            {
+                "area": "Chemistry",
+                "number": 2
+            },
+            {
+                "area": "Water Resources",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 7
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 2
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 1
+            },
+            {
+                "collab": "Life Sciences Department",
+                "number": 1
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Environment and Water Research Center",
+        "num_papers": 186,
+        "num_collabs": 186,
+        "num_citations": 1732,
+        "num_grants": 147,
+        "authors": [
+            {
+                "author": "Tuzen, Mustafa",
+                "papers": 30,
+                "citations": 399,
+                "contributions": 22.33,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Baig, Umair",
+                "papers": 28,
+                "citations": 170,
+                "contributions": 6.78,
+                "faculty": 1,
+                "students": 14
+            },
+            {
+                "author": "Ali, Sajid",
+                "papers": 24,
+                "citations": 476,
+                "contributions": 14.32,
+                "faculty": 0,
+                "students": 15
+            },
+            {
+                "author": "Qurban, Mohammad A.",
+                "papers": 22,
+                "citations": 77,
+                "contributions": 5.16,
+                "faculty": 0,
+                "students": 30
+            },
+            {
+                "author": "Rabaoui, Lotfi",
+                "papers": 17,
+                "citations": 82,
+                "contributions": 7.6,
+                "faculty": 0,
+                "students": 16
+            }
+        ],
+        "papers": [
+            {
+                "title": "Removal of heavy metals and organic pollutants from water using dendritic polymers based adsorbents: A critical review",
+                "citations": "95",
+                "authors": 5
+            },
+            {
+                "title": "Polyamide magnetic palygorskite for the simultaneous removal of Hg(II) and methyl mercury; with factorial design analysis",
+                "citations": "91",
+                "authors": 3
+            },
+            {
+                "title": "Facile synthesis, characterization and antibacterial activity of nanostructured palladium loaded silicon carbide",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Green Chemistry in Higher Education: State of the Art, Challenges, and Future Trends",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Ultrasound-assisted solvent extraction of porous membrane packed solid samples: A new approach for extraction of target analytes from solid samples",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Chemistry",
+                "number": 52
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 47
+            },
+            {
+                "area": "Engineering",
+                "number": 37
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 24
+            },
+            {
+                "area": "Marine & Freshwater Biology",
+                "number": 18
+            },
+            {
+                "area": "Materials Science",
+                "number": 17
+            },
+            {
+                "area": "Physics",
+                "number": 13
+            },
+            {
+                "area": "Water Resources",
+                "number": 11
+            },
+            {
+                "area": "Fisheries",
+                "number": 9
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 6
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemistry Department",
+                "number": 30
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 27
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 22
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 20
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 20
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "General Studies Department",
+        "num_papers": 1,
+        "num_collabs": 1,
+        "num_citations": 2,
+        "num_grants": 1,
+        "authors": [
+            {
+                "author": "Guoping Jiang",
+                "papers": 1,
+                "citations": 2,
+                "contributions": 0.5,
+                "faculty": 1,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Individualism Behind Collectivism: A Reflection from Saudi Volunteers",
+                "citations": "2",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Social Issues",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Global and Social Studies Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Geosciences Department",
+        "num_papers": 208,
+        "num_collabs": 103,
+        "num_citations": 573,
+        "num_grants": 159,
+        "authors": [
+            {
+                "author": "Kaminski, Michael A.",
+                "papers": 27,
+                "citations": 38,
+                "contributions": 18.03,
+                "faculty": 1,
+                "students": 18
+            },
+            {
+                "author": "Reijmer, John",
+                "papers": 23,
+                "citations": 109,
+                "contributions": 18.67,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Greenhalgh, Stewart",
+                "papers": 21,
+                "citations": 56,
+                "contributions": 21.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Al-Shuhail, A. A.",
+                "papers": 19,
+                "citations": 25,
+                "contributions": 6.13,
+                "faculty": 4,
+                "students": 21
+            },
+            {
+                "author": "Tawabini, Bassam S.",
+                "papers": 17,
+                "citations": 40,
+                "contributions": 5.37,
+                "faculty": 1,
+                "students": 37
+            }
+        ],
+        "papers": [
+            {
+                "title": "Cyclic steps: Review and aggradation-based classification",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "A two million year record of low-latitude aridity linked to continental weathering from the Maldives",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Evolution of a carbonate delta generated by gateway-funnelling of episodic currents",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Into the deep: A coarse-grained carbonate turbidite valley and canyon in ultra-deep carbonate setting",
+                "citations": "8",
+                "authors": 2
+            },
+            {
+                "title": "Geological record of marine tsunami backwash: The role of the hydraulic jump",
+                "citations": "7",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Geology",
+                "number": 70
+            },
+            {
+                "area": "Geochemistry & Geophysics",
+                "number": 40
+            },
+            {
+                "area": "Engineering",
+                "number": 30
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 27
+            },
+            {
+                "area": "Paleontology",
+                "number": 22
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 20
+            },
+            {
+                "area": "Water Resources",
+                "number": 11
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 9
+            },
+            {
+                "area": "Marine & Freshwater Biology",
+                "number": 8
+            },
+            {
+                "area": "Chemistry",
+                "number": 5
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 22
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 13
+            },
+            {
+                "collab": "Integrative Petroleum Research Center",
+                "number": 13
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 10
+            },
+            {
+                "collab": "Petroleum Engineering Department",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Global and Social Studies Department",
+        "num_papers": 26,
+        "num_collabs": 1,
+        "num_citations": 21,
+        "num_grants": 14,
+        "authors": [
+            {
+                "author": "Bonn, Gregory B.",
+                "papers": 6,
+                "citations": 10,
+                "contributions": 6.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Mughal, Muhammad A. Z.",
+                "papers": 5,
+                "citations": 6,
+                "contributions": 5.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Al Qurtuby, Sumanto",
+                "papers": 5,
+                "citations": 0,
+                "contributions": 4.5,
+                "faculty": 1,
+                "students": 0
+            },
+            {
+                "author": "Shafi Aldamer",
+                "papers": 4,
+                "citations": 3,
+                "contributions": 2.5,
+                "faculty": 2,
+                "students": 1
+            },
+            {
+                "author": "Tarik, Mohamed N.",
+                "papers": 2,
+                "citations": 1,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Preferences for Online and/or Face-to-Face Counseling among University Students in Malaysia",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "EXCHANGE RELATIONS AND SOCIAL CHANGE IN RURAL PAKISTAN: RITUALS AND CEREMONIES OF CHILDBIRTH, MARRIAGE AND DEATH",
+                "citations": "3",
+                "authors": 1
+            },
+            {
+                "title": "Rural urbanization, land, and agriculture in Pakistan",
+                "citations": "2",
+                "authors": 1
+            },
+            {
+                "title": "Individualism Behind Collectivism: A Reflection from Saudi Volunteers",
+                "citations": "2",
+                "authors": 2
+            },
+            {
+                "title": "Smoking behaviour among male students in a Saudi University",
+                "citations": "1",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Psychology",
+                "number": 7
+            },
+            {
+                "area": "International Relations",
+                "number": 4
+            },
+            {
+                "area": "Area Studies",
+                "number": 4
+            },
+            {
+                "area": "Social Sciences - Other Topics",
+                "number": 3
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Government & Law",
+                "number": 2
+            },
+            {
+                "area": "Social Work",
+                "number": 2
+            },
+            {
+                "area": "Asian Studies",
+                "number": 1
+            },
+            {
+                "area": "Health Care Sciences & Services",
+                "number": 1
+            },
+            {
+                "area": "Education & Educational Research",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "General Studies Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Graduate Studies",
+        "num_papers": 3,
+        "num_collabs": 3,
+        "num_citations": 15,
+        "num_grants": 0,
+        "authors": [
+            {
+                "author": "Suleiman, Rami K.",
+                "papers": 3,
+                "citations": 15,
+                "contributions": 1.83,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "Modeling of autoignition temperature of organic energetic compounds using hybrid intelligent method",
+                "citations": "6",
+                "authors": 3
+            },
+            {
+                "title": "Estimation of minimum ignition energy of explosive chemicals using gravitational search algorithm based support vector regression",
+                "citations": "5",
+                "authors": 1
+            },
+            {
+                "title": "Hybrid chemometric approach for estimating the heat of detonation of aromatic energetic compounds",
+                "citations": "4",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 2
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Information and Computer Science Department",
+                "number": 2
+            },
+            {
+                "collab": "Physics Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Hafr Al-Batin Community College",
+        "num_papers": 2,
+        "num_collabs": 5,
+        "num_citations": 0,
+        "num_grants": 1,
+        "authors": [
+            {
+                "author": "Abuilaiwi, Faraj Ahmad",
+                "papers": 2,
+                "citations": 0,
+                "contributions": 0.61,
+                "faculty": 1,
+                "students": 5
+            },
+            {
+                "author": "Afzal, Adeel",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 1
+            }
+        ],
+        "papers": [
+            {
+                "title": "Effect of Carboxylic Functional Group Functionalized on Carbon Nanotubes Surface on the Removal of Lead from Water (vol 2010, 603978, 2010)",
+                "citations": "0",
+                "authors": 6
+            },
+            {
+                "title": "Solid-state synthesis of heterogeneous Ni0.5Cu0.5-xZnxFe2O4 spinel oxides with controlled morphology and tunable dielectric properties",
+                "citations": "0",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Biochemistry & Molecular Biology",
+                "number": 1
+            },
+            {
+                "area": "Chemistry",
+                "number": 1
+            },
+            {
+                "area": "Engineering",
+                "number": 1
+            },
+            {
+                "area": "Materials Science",
+                "number": 1
+            },
+            {
+                "area": "Physics",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 1
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 1
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 1
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 1
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Information and Communication Technology Center",
+        "num_papers": 43,
+        "num_collabs": 34,
+        "num_citations": 432,
+        "num_grants": 31,
+        "authors": [
+            {
+                "author": "Sait, Sadiq M.",
+                "papers": 43,
+                "citations": 438,
+                "contributions": 23.17,
+                "faculty": 0,
+                "students": 10
+            },
+            {
+                "author": "Siddiqi, Umair F.",
+                "papers": 6,
+                "citations": 12,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Sait, Sadiq Q.",
+                "papers": 1,
+                "citations": 1,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Sattar, Karim A.",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.33,
+                "faculty": 0,
+                "students": 1
+            }
+        ],
+        "papers": [
+            {
+                "title": "The equilibrium optimization algorithm and the response surface based metamodel for optimal structural design of vehicle components",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Butterfly optimization algorithm for optimum shape design of automobile suspension components",
+                "citations": "7",
+                "authors": 1
+            },
+            {
+                "title": "Numerical Simulation and Mathematical Modeling of Electro-Osmotic Couette-Poiseuille Flow of MHD Power-Law Nanofluid with Entropy Generation",
+                "citations": "69",
+                "authors": 2
+            },
+            {
+                "title": "An Optimization Heuristic Based on Non-Dominated Sorting and Tabu Search for the Fixed Spectrum Frequency Assignment Problem",
+                "citations": "6",
+                "authors": 2
+            },
+            {
+                "title": "Applications of Metaheuristics in Reservoir Computing Techniques: A Review",
+                "citations": "6",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 12
+            },
+            {
+                "area": "Telecommunications",
+                "number": 11
+            },
+            {
+                "area": "Computer Science",
+                "number": 10
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 10
+            },
+            {
+                "area": "Materials Science",
+                "number": 10
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 7
+            },
+            {
+                "area": "Chemistry",
+                "number": 6
+            },
+            {
+                "area": "Mathematics",
+                "number": 4
+            },
+            {
+                "area": "Mechanics",
+                "number": 4
+            },
+            {
+                "area": "Communication",
+                "number": 2
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Computer Engineering Department",
+                "number": 18
+            },
+            {
+                "collab": "Modeling and Computer Simulation Research Center",
+                "number": 14
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 1
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Information and Computer Science Department",
+        "num_papers": 150,
+        "num_collabs": 32,
+        "num_citations": 299,
+        "num_grants": 99,
+        "authors": [
+            {
+                "author": "Mahmood, Sajjad",
+                "papers": 25,
+                "citations": 35,
+                "contributions": 16.83,
+                "faculty": 2,
+                "students": 9
+            },
+            {
+                "author": "Alshayeb, Mohammad",
+                "papers": 22,
+                "citations": 31,
+                "contributions": 10.17,
+                "faculty": 2,
+                "students": 13
+            },
+            {
+                "author": "El-Alfy, El-Sayed M.",
+                "papers": 22,
+                "citations": 26,
+                "contributions": 13.5,
+                "faculty": 0,
+                "students": 9
+            },
+            {
+                "author": "Niazi, Mahmood",
+                "papers": 17,
+                "citations": 76,
+                "contributions": 9.5,
+                "faculty": 0,
+                "students": 7
+            },
+            {
+                "author": "Ahmed, Moataz",
+                "papers": 12,
+                "citations": 3,
+                "contributions": 7.17,
+                "faculty": 0,
+                "students": 7
+            }
+        ],
+        "papers": [
+            {
+                "title": "An empirical study to improve software security through the application of code refactoring",
+                "citations": "9",
+                "authors": 4
+            },
+            {
+                "title": "Evaluation of Bidirectional LSTM for Short- and Long-Term Stock Market Prediction",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Combining Emojis with Arabic Textual Features for Sentiment Classification",
+                "citations": "8",
+                "authors": 2
+            },
+            {
+                "title": "Transparent predictive modelling of catalytic hydrodesulfurization using an interval type-2 fuzzy logic",
+                "citations": "8",
+                "authors": 2
+            },
+            {
+                "title": "Scaling for agility: A reference model for hybrid traditional-agile software development methodologies",
+                "citations": "8",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Computer Science",
+                "number": 120
+            },
+            {
+                "area": "Engineering",
+                "number": 54
+            },
+            {
+                "area": "Telecommunications",
+                "number": 21
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 11
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 3
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 2
+            },
+            {
+                "area": "Chemistry",
+                "number": 2
+            },
+            {
+                "area": "Medical Informatics",
+                "number": 1
+            },
+            {
+                "area": "Life Sciences & Biomedicine - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Mathematical & Computational Biology",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemistry Department",
+                "number": 6
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 5
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 5
+            },
+            {
+                "collab": "Computer Engineering Department",
+                "number": 4
+            },
+            {
+                "collab": "Physics Department",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Information System & Operations Management Department",
+        "num_papers": 7,
+        "num_collabs": 6,
+        "num_citations": 28,
+        "num_grants": 1,
+        "authors": [
+            {
+                "author": "Alade, Ibrahim Olanrewaju",
+                "papers": 5,
+                "citations": 27,
+                "contributions": 2.08,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Alkhars, Mohammed",
+                "papers": 1,
+                "citations": 1,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Alashoor, Tawfiq",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Lattice constant prediction of A(2)XY(6) cubic crystals (A = K, Cs, Rb, TI; X = tetravalent cation; Y = F, Cl, Br, I) using computational intelligence approach",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Estimating the refractive index of oxygenated and deoxygenated hemoglobin using genetic algorithm - support vector regression model",
+                "citations": "7",
+                "authors": 4
+            },
+            {
+                "title": "Application of support vector regression and artificial neural network for prediction of specific heat capacity of aqueous nanofluids of copper oxide",
+                "citations": "3",
+                "authors": 2
+            },
+            {
+                "title": "Survey and analysis of the quantitative methods used in electricity research on GCC countries: 1983-2018",
+                "citations": "1",
+                "authors": 1
+            },
+            {
+                "title": "A machine learning-based model to estimate the density of nanofluids of nitrides in ethylene glycol",
+                "citations": "1",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Physics",
+                "number": 3
+            },
+            {
+                "area": "Computer Science",
+                "number": 1
+            },
+            {
+                "area": "Engineering",
+                "number": 1
+            },
+            {
+                "area": "Medical Informatics",
+                "number": 1
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 1
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 1
+            },
+            {
+                "area": "Psychology",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemistry Department",
+                "number": 2
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 1
+            },
+            {
+                "collab": "Information and Computer Science Department",
+                "number": 1
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 1
+            },
+            {
+                "collab": "Systems Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Integrative Petroleum Research Center",
+        "num_papers": 176,
+        "num_collabs": 148,
+        "num_citations": 615,
+        "num_grants": 130,
+        "authors": [
+            {
+                "author": "Kamal, Muhammad Shahzad",
+                "papers": 51,
+                "citations": 254,
+                "contributions": 15.82,
+                "faculty": 2,
+                "students": 46
+            },
+            {
+                "author": "Hussain, S. M. Shakil",
+                "papers": 25,
+                "citations": 108,
+                "contributions": 6.77,
+                "faculty": 0,
+                "students": 19
+            },
+            {
+                "author": "Adebayo, Abdulrauf Rasheed",
+                "papers": 14,
+                "citations": 46,
+                "contributions": 5.82,
+                "faculty": 0,
+                "students": 20
+            },
+            {
+                "author": "Fogang, Lionel Talley",
+                "papers": 13,
+                "citations": 71,
+                "contributions": 3.6,
+                "faculty": 0,
+                "students": 14
+            },
+            {
+                "author": "Mahmoud, Mohamed",
+                "papers": 12,
+                "citations": 48,
+                "contributions": 3.29,
+                "faculty": 0,
+                "students": 16
+            }
+        ],
+        "papers": [
+            {
+                "title": "Development of efficient formulation for the removal of iron sulphide scale in sour production wells",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Crosslinked Polyacrylamide Composite Hydrogels Impregnated with Fly Ash: Synthesis, Characterization and Their Application as Fractures Sealant for High Water Producing Zones in Oil and Gas Wells",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Scaling law for slip flow of gases in nanoporous media from nanofluidics, rocks, and pore-scale simulations",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Estimation of Static Young's Modulus for Sandstone Formation Using Artificial Neural Networks",
+                "citations": "9",
+                "authors": 4
+            },
+            {
+                "title": "A Comprehensive Review of Thermal Enhanced Oil Recovery: Techniques Evaluation",
+                "citations": "8",
+                "authors": 6
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 72
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 63
+            },
+            {
+                "area": "Chemistry",
+                "number": 52
+            },
+            {
+                "area": "Physics",
+                "number": 25
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 18
+            },
+            {
+                "area": "Materials Science",
+                "number": 17
+            },
+            {
+                "area": "Geology",
+                "number": 12
+            },
+            {
+                "area": "Mechanics",
+                "number": 9
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 7
+            },
+            {
+                "area": "Polymer Science",
+                "number": 6
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Petroleum Engineering Department",
+                "number": 65
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 15
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 13
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 12
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 8
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Islamic Banking and Finance Research Excellence Center",
+        "num_papers": 5,
+        "num_collabs": 0,
+        "num_citations": 0,
+        "num_grants": 2,
+        "authors": [
+            {
+                "author": "Almansour, Abdullah",
+                "papers": 4,
+                "citations": 0,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Hassan, Abul",
+                "papers": 2,
+                "citations": 0,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Trade versus riba in the Qur'an with a critique of the role of bank-saving",
+                "citations": "0",
+                "authors": 1
+            },
+            {
+                "title": "Bank loan announcements and religious investors: Empirical evidence from Saudi Arabia",
+                "citations": "0",
+                "authors": 1
+            },
+            {
+                "title": "Muslim investors and the capital market: The role of religious scholars",
+                "citations": "0",
+                "authors": 1
+            },
+            {
+                "title": "Performance measurement of Islamic mutual funds using DEA method",
+                "citations": "0",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Business & Economics",
+                "number": 4
+            },
+            {
+                "area": "Government & Law",
+                "number": 1
+            }
+        ],
+        "collabs": []
+    },
+    {
+        "id": 34,
+        "name": "Life Sciences Department",
+        "num_papers": 41,
+        "num_collabs": 39,
+        "num_citations": 377,
+        "num_grants": 29,
+        "authors": [
+            {
+                "author": "Ahmad, Irshad",
+                "papers": 12,
+                "citations": 179,
+                "contributions": 10.03,
+                "faculty": 1,
+                "students": 6
+            },
+            {
+                "author": "Khalil, Amjad B.",
+                "papers": 10,
+                "citations": 44,
+                "contributions": 4.57,
+                "faculty": 0,
+                "students": 19
+            },
+            {
+                "author": "Siddiqui, Khawar Sohail",
+                "papers": 8,
+                "citations": 68,
+                "contributions": 5.33,
+                "faculty": 0,
+                "students": 7
+            },
+            {
+                "author": "Nzila, Alexis",
+                "papers": 7,
+                "citations": 58,
+                "contributions": 3.95,
+                "faculty": 1,
+                "students": 8
+            },
+            {
+                "author": "Saravanan, S.",
+                "papers": 4,
+                "citations": 33,
+                "contributions": 0.68,
+                "faculty": 0,
+                "students": 13
+            }
+        ],
+        "papers": [
+            {
+                "title": "Synthesis, Characterization and Applications of Magnetic Iron Oxide Nanostructures",
+                "citations": "8",
+                "authors": 6
+            },
+            {
+                "title": "Identification of the aquaporin gene family in Cannabis sativa and evidence for the accumulation of silicon in its tissues",
+                "citations": "6",
+                "authors": 1
+            },
+            {
+                "title": "Combining GIS application and climatic factors CrossMark for mosquito control in Eastern Province, Saudi Arabia",
+                "citations": "5",
+                "authors": 2
+            },
+            {
+                "title": "Isolation and characterisation of bacteria degrading polycyclic aromatic hydrocarbons: phenanthrene and anthracene",
+                "citations": "5",
+                "authors": 4
+            },
+            {
+                "title": "Role of plant phytochemicals and microbial enzymes in biosynthesis of metallic nanoparticles",
+                "citations": "42",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 9
+            },
+            {
+                "area": "Biotechnology & Applied Microbiology",
+                "number": 8
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 6
+            },
+            {
+                "area": "Biochemistry & Molecular Biology",
+                "number": 6
+            },
+            {
+                "area": "Chemistry",
+                "number": 5
+            },
+            {
+                "area": "Materials Science",
+                "number": 4
+            },
+            {
+                "area": "Public, Environmental & Occupational Health",
+                "number": 2
+            },
+            {
+                "area": "Pharmacology & Pharmacy",
+                "number": 2
+            },
+            {
+                "area": "Life Sciences & Biomedicine - Other Topics",
+                "number": 2
+            },
+            {
+                "area": "Plant Sciences",
+                "number": 2
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 6
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 5
+            },
+            {
+                "collab": "Corrosion Research Excellence Center",
+                "number": 5
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 5
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 4
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Management and Marketing Department",
+        "num_papers": 42,
+        "num_collabs": 31,
+        "num_citations": 72,
+        "num_grants": 20,
+        "authors": [
+            {
+                "author": "Abdallah, Abdullatif",
+                "papers": 11,
+                "citations": 30,
+                "contributions": 2.8,
+                "faculty": 2,
+                "students": 13
+            },
+            {
+                "author": "Sohail, M. Sadiq",
+                "papers": 10,
+                "citations": 10,
+                "contributions": 7.67,
+                "faculty": 1,
+                "students": 2
+            },
+            {
+                "author": "Frimpong, Kwabena",
+                "papers": 5,
+                "citations": 12,
+                "contributions": 3.83,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Al-Shuridah, Obaid",
+                "papers": 3,
+                "citations": 4,
+                "contributions": 3.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Ndubisi, Nelson Oly",
+                "papers": 2,
+                "citations": 4,
+                "contributions": 2.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Households energy conservation in Saudi Arabia: Lessons learnt from change-agents driven interventions program",
+                "citations": "9",
+                "authors": 5
+            },
+            {
+                "title": "Time and Cost Overrun in the Saudi Arabian Oil and Gas Construction Industry",
+                "citations": "6",
+                "authors": 4
+            },
+            {
+                "title": "A Group Decision-Making Method for Selecting Cloud Computing Service Model",
+                "citations": "5",
+                "authors": 3
+            },
+            {
+                "title": "Epistemic Healing: A Critical Ethical Response to Epistemic Violence in Business Ethics",
+                "citations": "5",
+                "authors": 1
+            },
+            {
+                "title": "Review and assessment of the causes of deficiencies in design documents for large construction projects",
+                "citations": "4",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Business & Economics",
+                "number": 19
+            },
+            {
+                "area": "Engineering",
+                "number": 10
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 6
+            },
+            {
+                "area": "Psychology",
+                "number": 5
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 4
+            },
+            {
+                "area": "Computer Science",
+                "number": 3
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 3
+            },
+            {
+                "area": "Social Sciences - Other Topics",
+                "number": 2
+            },
+            {
+                "area": "Education & Educational Research",
+                "number": 2
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 2
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Architectural Engineering Department",
+                "number": 11
+            },
+            {
+                "collab": "Construction Engineering and Management Department",
+                "number": 8
+            },
+            {
+                "collab": "Dammam Community College",
+                "number": 3
+            },
+            {
+                "collab": "Accounting and Management Information Systems Department",
+                "number": 2
+            },
+            {
+                "collab": "Aerospace Engineering Department",
+                "number": 2
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Mathematics and Statistics Department",
+        "num_papers": 420,
+        "num_collabs": 38,
+        "num_citations": 1083,
+        "num_grants": 284,
+        "authors": [
+            {
+                "author": "Riaz, Muhammad",
+                "papers": 77,
+                "citations": 306,
+                "contributions": 61.75,
+                "faculty": 0,
+                "students": 11
+            },
+            {
+                "author": "Ansari, Qamrul Hasan",
+                "papers": 34,
+                "citations": 161,
+                "contributions": 29.5,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Al-Homidan, S.",
+                "papers": 26,
+                "citations": 32,
+                "contributions": 16.17,
+                "faculty": 0,
+                "students": 7
+            },
+            {
+                "author": "Messaoudi, Salim A.",
+                "papers": 25,
+                "citations": 60,
+                "contributions": 14.33,
+                "faculty": 0,
+                "students": 10
+            },
+            {
+                "author": "Tatar, Nasser-Eddine",
+                "papers": 23,
+                "citations": 28,
+                "contributions": 19.67,
+                "faculty": 0,
+                "students": 3
+            }
+        ],
+        "papers": [
+            {
+                "title": "A modified CUSUM control chart for monitoring industrial processes",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "VARIATIONAL INCLUSION PROBLEMS IN HADAMARD MANIFOLDS",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "FIXED POINT THEOREM FOR MONOTONE ASYMPTOTICALLY NONEXPANSIVE MAPPINGS",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Existence and a general decay result for a plate equation with nonlinear damping and a logarithmic source term",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Bayesian Monitoring of Linear Profiles Using DEWMA Control Structures With Random X",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Mathematics",
+                "number": 284
+            },
+            {
+                "area": "Engineering",
+                "number": 58
+            },
+            {
+                "area": "Operations Research & Management Science",
+                "number": 49
+            },
+            {
+                "area": "Computer Science",
+                "number": 32
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 29
+            },
+            {
+                "area": "Physics",
+                "number": 28
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 23
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 12
+            },
+            {
+                "area": "Telecommunications",
+                "number": 10
+            },
+            {
+                "area": "Mechanics",
+                "number": 9
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Preparatory Year Program",
+                "number": 10
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 8
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 4
+            },
+            {
+                "collab": "Computer Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Life Sciences Department",
+                "number": 2
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Mechanical Engineering Department",
+        "num_papers": 662,
+        "num_collabs": 350,
+        "num_citations": 3161,
+        "num_grants": 514,
+        "authors": [
+            {
+                "author": "Yilbas, Bekir Sami",
+                "papers": 73,
+                "citations": 272,
+                "contributions": 21.72,
+                "faculty": 5,
+                "students": 44
+            },
+            {
+                "author": "Ali, Hafiz Muhammad",
+                "papers": 61,
+                "citations": 383,
+                "contributions": 61.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Al-Sharafi, Abdullah",
+                "papers": 45,
+                "citations": 149,
+                "contributions": 10.88,
+                "faculty": 2,
+                "students": 30
+            },
+            {
+                "author": "Zubair, S. M.",
+                "papers": 42,
+                "citations": 408,
+                "contributions": 15.39,
+                "faculty": 2,
+                "students": 38
+            },
+            {
+                "author": "Al Naser, Ahmed",
+                "papers": 35,
+                "citations": 223,
+                "contributions": 7.48,
+                "faculty": 2,
+                "students": 48
+            }
+        ],
+        "papers": [
+            {
+                "title": "The evolutionary design of cooling a plate with one stream",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Combustion behavior and stability map of hydrogen-enriched oxy-methane premixed flames in a model gas turbine combustor",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "A novel organoclay reinforced UHMWPE nanocomposite coating for tribological applications",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "A novel heat exchanger design procedure for photovoltaic panel cooling application: An analytical and experimental evaluation",
+                "citations": "9",
+                "authors": 5
+            },
+            {
+                "title": "Tribological Performance of Ultra High Molecular Weight Polyethylene Nanocomposites Reinforced with Graphene Nanoplatelets",
+                "citations": "9",
+                "authors": 3
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 226
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 170
+            },
+            {
+                "area": "Materials Science",
+                "number": 158
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 131
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 85
+            },
+            {
+                "area": "Chemistry",
+                "number": 84
+            },
+            {
+                "area": "Mechanics",
+                "number": 80
+            },
+            {
+                "area": "Physics",
+                "number": 61
+            },
+            {
+                "area": "Water Resources",
+                "number": 30
+            },
+            {
+                "area": "Metallurgy & Metallurgical Engineering",
+                "number": 29
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 73
+            },
+            {
+                "collab": "Corrosion Research Excellence Center",
+                "number": 50
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 36
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 22
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 20
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Modeling and Computer Simulation Research Center",
+        "num_papers": 49,
+        "num_collabs": 15,
+        "num_citations": 1273,
+        "num_grants": 12,
+        "authors": [
+            {
+                "author": "Ellahi, R.",
+                "papers": 25,
+                "citations": 686,
+                "contributions": 19.5,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Ellahi, Rahmat",
+                "papers": 23,
+                "citations": 561,
+                "contributions": 21.0,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Ellahi, Rahamt",
+                "papers": 1,
+                "citations": 26,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "Hydromagnetic flow of Jeffrey nanofluid due to a curved stretching surface",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "On the Partition of Energies for the Backward in Time Problem of Thermoelastic Materials with a Dipolar Structure",
+                "citations": "79",
+                "authors": 1
+            },
+            {
+                "title": "NUMERICAL STUDY OF MOMENTUM AND HEAT TRANSFER OF MHD CARREAU NANOFLUID OVER AN EXPONENTIALLY STRETCHED PLATE WITH INTERNAL HEAT SOURCE/SINK AND RADIATION",
+                "citations": "71",
+                "authors": 1
+            },
+            {
+                "title": "Numerical investigation for second law analysis of ferrofluid inside a porous semi annulus An application of entropy generation and exergy loss",
+                "citations": "71",
+                "authors": 1
+            },
+            {
+                "title": "Numerical Simulation and Mathematical Modeling of Electro-Osmotic Couette-Poiseuille Flow of MHD Power-Law Nanofluid with Entropy Generation",
+                "citations": "69",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Thermodynamics",
+                "number": 23
+            },
+            {
+                "area": "Physics",
+                "number": 12
+            },
+            {
+                "area": "Chemistry",
+                "number": 12
+            },
+            {
+                "area": "Mathematics",
+                "number": 10
+            },
+            {
+                "area": "Mechanics",
+                "number": 9
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 8
+            },
+            {
+                "area": "Materials Science",
+                "number": 3
+            },
+            {
+                "area": "Engineering",
+                "number": 2
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 1
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Information and Communication Technology Center",
+                "number": 14
+            },
+            {
+                "collab": "Computer Engineering Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Nanotechnology Research Excellence Center",
+        "num_papers": 383,
+        "num_collabs": 437,
+        "num_citations": 2975,
+        "num_grants": 335,
+        "authors": [
+            {
+                "author": "Muraza, Oki",
+                "papers": 49,
+                "citations": 250,
+                "contributions": 13.08,
+                "faculty": 0,
+                "students": 43
+            },
+            {
+                "author": "Aziz, Md Abdul",
+                "papers": 46,
+                "citations": 179,
+                "contributions": 18.56,
+                "faculty": 1,
+                "students": 45
+            },
+            {
+                "author": "Abbas Hakeem",
+                "papers": 42,
+                "citations": 135,
+                "contributions": 16.66,
+                "faculty": 1,
+                "students": 52
+            },
+            {
+                "author": "Gondal, M. A.",
+                "papers": 40,
+                "citations": 278,
+                "contributions": 10.29,
+                "faculty": 1,
+                "students": 37
+            },
+            {
+                "author": "Yamani, Zain H.",
+                "papers": 40,
+                "citations": 234,
+                "contributions": 8.95,
+                "faculty": 2,
+                "students": 51
+            }
+        ],
+        "papers": [
+            {
+                "title": "Facile synthesis, characterization and antibacterial activity of nanostructured palladium loaded silicon carbide",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "The correlation among morphology, oxygen vacancies and properties of ZnO nanoflowers",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Effects of Oxidizing Media on the Composition, Morphology and Optical Properties of Colloidal Zirconium Oxide Nanoparticles Synthesized via Pulsed Laser Ablation in Liquid Technique",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Catalytic Enhancement of SAPO-34 for Methanol Conversion to Light Olefins Using in Situ Metal Incorporation",
+                "citations": "9",
+                "authors": 3
+            },
+            {
+                "title": "Pulsed laser synthesis in liquid of efficient visible-light-active ZnO/rGO nanocomposites for improved photo-catalytic activity",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Chemistry",
+                "number": 172
+            },
+            {
+                "area": "Materials Science",
+                "number": 113
+            },
+            {
+                "area": "Engineering",
+                "number": 94
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 67
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 65
+            },
+            {
+                "area": "Physics",
+                "number": 57
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 22
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 13
+            },
+            {
+                "area": "Polymer Science",
+                "number": 11
+            },
+            {
+                "area": "Metallurgy & Metallurgical Engineering",
+                "number": 9
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 107
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 94
+            },
+            {
+                "collab": "Physics Department",
+                "number": 68
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 36
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 27
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Petroleum Engineering Department",
+        "num_papers": 301,
+        "num_collabs": 128,
+        "num_citations": 1155,
+        "num_grants": 148,
+        "authors": [
+            {
+                "author": "Mahmoud, Mohamed",
+                "papers": 116,
+                "citations": 424,
+                "contributions": 39.81,
+                "faculty": 1,
+                "students": 67
+            },
+            {
+                "author": "Elkatatny, Salaheldin",
+                "papers": 89,
+                "citations": 344,
+                "contributions": 34.2,
+                "faculty": 0,
+                "students": 44
+            },
+            {
+                "author": "Abdulraheem, Abdulazeez",
+                "papers": 39,
+                "citations": 124,
+                "contributions": 11.68,
+                "faculty": 1,
+                "students": 34
+            },
+            {
+                "author": "Patil, Shirish",
+                "papers": 35,
+                "citations": 334,
+                "contributions": 16.69,
+                "faculty": 0,
+                "students": 30
+            },
+            {
+                "author": "Sultan, A. S.",
+                "papers": 25,
+                "citations": 148,
+                "contributions": 8.68,
+                "faculty": 3,
+                "students": 26
+            }
+        ],
+        "papers": [
+            {
+                "title": "Development of efficient formulation for the removal of iron sulphide scale in sour production wells",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Enhancing the Stability of Invert Emulsion Drilling Fluid for Drilling in High-Pressure High-Temperature Conditions",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Crosslinked Polyacrylamide Composite Hydrogels Impregnated with Fly Ash: Synthesis, Characterization and Their Application as Fractures Sealant for High Water Producing Zones in Oil and Gas Wells",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Integration of field, laboratory, and modeling aspects of acid fracturing: A comprehensive review",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Estimation of Static Young's Modulus for Sandstone Formation Using Artificial Neural Networks",
+                "citations": "9",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 136
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 128
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 52
+            },
+            {
+                "area": "Chemistry",
+                "number": 43
+            },
+            {
+                "area": "Geology",
+                "number": 41
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 25
+            },
+            {
+                "area": "Computer Science",
+                "number": 11
+            },
+            {
+                "area": "Geochemistry & Geophysics",
+                "number": 10
+            },
+            {
+                "area": "Materials Science",
+                "number": 7
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 7
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Integrative Petroleum Research Center",
+                "number": 65
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 14
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 9
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 8
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 6
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Physical Education Department",
+        "num_papers": 31,
+        "num_collabs": 1,
+        "num_citations": 14,
+        "num_grants": 13,
+        "authors": [
+            {
+                "author": "Khan, Ibrahim",
+                "papers": 8,
+                "citations": 2,
+                "contributions": 7.5,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Tomar, Rakesh",
+                "papers": 7,
+                "citations": 1,
+                "contributions": 3.5,
+                "faculty": 0,
+                "students": 2
+            },
+            {
+                "author": "Azeem, Kaukab",
+                "papers": 6,
+                "citations": 8,
+                "contributions": 3.33,
+                "faculty": 0,
+                "students": 3
+            },
+            {
+                "author": "Antony, Varghese C.",
+                "papers": 6,
+                "citations": 4,
+                "contributions": 3.0,
+                "faculty": 0,
+                "students": 2
+            },
+            {
+                "author": "Al Ameer, Abdulhameed",
+                "papers": 6,
+                "citations": 1,
+                "contributions": 4.83,
+                "faculty": 0,
+                "students": 2
+            }
+        ],
+        "papers": [
+            {
+                "title": "Health Related Quality of Life among Saudi Undergraduate Students with Different Categories of Body Mass Index",
+                "citations": "4",
+                "authors": 2
+            },
+            {
+                "title": "The Effect of Resistance Training on the Selected Physical and Physiological Variables of the Male Students",
+                "citations": "3",
+                "authors": 2
+            },
+            {
+                "title": "Effects of Iron Contents on the Vortex State in Fe (x) Se0.5Te0.5",
+                "citations": "2",
+                "authors": 4
+            },
+            {
+                "title": "Performance-Related Fitness Variables, and Metabolic, and Physiological Components among Athletes",
+                "citations": "2",
+                "authors": 1
+            },
+            {
+                "title": "The Relationship of Training Parameters with Incidence of Injury, Sleep and Well Being of Young University Swimmers",
+                "citations": "1",
+                "authors": 2
+            }
+        ],
+        "areas": [
+            {
+                "area": "Pharmacology & Pharmacy",
+                "number": 12
+            },
+            {
+                "area": "Research & Experimental Medicine",
+                "number": 8
+            },
+            {
+                "area": "Sport Sciences",
+                "number": 6
+            },
+            {
+                "area": "Education & Educational Research",
+                "number": 2
+            },
+            {
+                "area": "Physics",
+                "number": 1
+            },
+            {
+                "area": "Social Sciences - Other Topics",
+                "number": 1
+            },
+            {
+                "area": "Rehabilitation",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Physics Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Physics Department",
+        "num_papers": 238,
+        "num_collabs": 183,
+        "num_citations": 953,
+        "num_grants": 203,
+        "authors": [
+            {
+                "author": "Gondal, M. A.",
+                "papers": 61,
+                "citations": 367,
+                "contributions": 22.0,
+                "faculty": 1,
+                "students": 44
+            },
+            {
+                "author": "Bahlouli, H.",
+                "papers": 20,
+                "citations": 52,
+                "contributions": 13.83,
+                "faculty": 1,
+                "students": 3
+            },
+            {
+                "author": "Yamani, Zain H.",
+                "papers": 16,
+                "citations": 76,
+                "contributions": 7.09,
+                "faculty": 2,
+                "students": 23
+            },
+            {
+                "author": "Dastageer, Mohamed A.",
+                "papers": 15,
+                "citations": 59,
+                "contributions": 2.7,
+                "faculty": 0,
+                "students": 21
+            },
+            {
+                "author": "Al-Basheer, Watheq",
+                "papers": 13,
+                "citations": 4,
+                "contributions": 5.77,
+                "faculty": 0,
+                "students": 9
+            }
+        ],
+        "papers": [
+            {
+                "title": "Facile synthesis, characterization and antibacterial activity of nanostructured palladium loaded silicon carbide",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "The correlation among morphology, oxygen vacancies and properties of ZnO nanoflowers",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Graphene quantum blisters: A tunable system to confine charge carriers",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Sulfonated Hollow Silica Spheres as Electrolyte Store/Release Agents: High-Performance Supercapacitor Applications",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Efficient and cost-effective dye-sensitized solar cells using MWCNT-TiO2 nanocomposite as photoanode and MWCNT as Pt-free counter electrode",
+                "citations": "9",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Physics",
+                "number": 99
+            },
+            {
+                "area": "Materials Science",
+                "number": 70
+            },
+            {
+                "area": "Chemistry",
+                "number": 60
+            },
+            {
+                "area": "Engineering",
+                "number": 25
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 25
+            },
+            {
+                "area": "Optics",
+                "number": 22
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 18
+            },
+            {
+                "area": "Nuclear Science & Technology",
+                "number": 9
+            },
+            {
+                "area": "Instruments & Instrumentation",
+                "number": 7
+            },
+            {
+                "area": "Electrochemistry",
+                "number": 7
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 68
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 20
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 19
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 14
+            },
+            {
+                "collab": "Energy Research and Innovation Center",
+                "number": 13
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Preparatory Year Program",
+        "num_papers": 18,
+        "num_collabs": 10,
+        "num_citations": 27,
+        "num_grants": 16,
+        "authors": [
+            {
+                "author": "Al-Mahdi, Adel M.",
+                "papers": 6,
+                "citations": 3,
+                "contributions": 4.17,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Abujiya, Mu'Azu Ramat",
+                "papers": 5,
+                "citations": 14,
+                "contributions": 2.17,
+                "faculty": 0,
+                "students": 2
+            },
+            {
+                "author": "Marsli, Rachid",
+                "papers": 5,
+                "citations": 7,
+                "contributions": 5.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Al-Mandi, Adel M.",
+                "papers": 1,
+                "citations": 3,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 1
+            },
+            {
+                "author": "Qureshi, Muhammad Amer",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.5,
+                "faculty": 0,
+                "students": 1
+            }
+        ],
+        "papers": [
+            {
+                "title": "An adaptive EWMA chart with CUSUM accumulate error-based shift estimator for efficient process dispersion monitoring",
+                "citations": "4",
+                "authors": 2
+            },
+            {
+                "title": "Equivalence classes of e-matrices and associated eigenvalue localization regions",
+                "citations": "3",
+                "authors": 1
+            },
+            {
+                "title": "An adaptive approach to EWMA dispersion chart using Huber and Tukey functions",
+                "citations": "3",
+                "authors": 2
+            },
+            {
+                "title": "New general decay results in an infinite memory viscoelastic problem with nonlinear damping",
+                "citations": "3",
+                "authors": 2
+            },
+            {
+                "title": "On bounding the eigenvalues of matrices with constant row-sums",
+                "citations": "3",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Mathematics",
+                "number": 14
+            },
+            {
+                "area": "Engineering",
+                "number": 3
+            },
+            {
+                "area": "Physics",
+                "number": 2
+            },
+            {
+                "area": "Computer Science",
+                "number": 2
+            },
+            {
+                "area": "Astronomy & Astrophysics",
+                "number": 1
+            },
+            {
+                "area": "Operations Research & Management Science",
+                "number": 1
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mathematics and Statistics Department",
+                "number": 10
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Projects Department",
+        "num_papers": 3,
+        "num_collabs": 7,
+        "num_citations": 10,
+        "num_grants": 2,
+        "authors": [
+            {
+                "author": "Salami, Babatunde Abiodun",
+                "papers": 3,
+                "citations": 10,
+                "contributions": 0.65,
+                "faculty": 0,
+                "students": 10
+            }
+        ],
+        "papers": [
+            {
+                "title": "Influence of composition and concentration of alkaline activator on the properties of natural-pozzolan based green concrete",
+                "citations": "8",
+                "authors": 5
+            },
+            {
+                "title": "Palm oil fuel ash (POFA) as a demulsifier for crude oil emulsions: Performance and mechanism",
+                "citations": "2",
+                "authors": 4
+            },
+            {
+                "title": "Ensemble machine learning model for corrosion initiation time estimation of embedded steel reinforced self-compacting concrete",
+                "citations": "0",
+                "authors": 5
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 3
+            },
+            {
+                "area": "Construction & Building Technology",
+                "number": 1
+            },
+            {
+                "area": "Materials Science",
+                "number": 1
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 1
+            },
+            {
+                "area": "Instruments & Instrumentation",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Engineering Research Center",
+                "number": 2
+            },
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 1
+            },
+            {
+                "collab": "Civil and Environmental Engineering Department",
+                "number": 1
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 1
+            },
+            {
+                "collab": "Geosciences Department",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Refining & Petrochemicals Research Excellence Center",
+        "num_papers": 2,
+        "num_collabs": 4,
+        "num_citations": 0,
+        "num_grants": 1,
+        "authors": [
+            {
+                "author": "Majeed, Uwais B.",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.17,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Hattori, Hideshi",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.17,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Arudra, Palani",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 0.17,
+                "faculty": 0,
+                "students": 4
+            }
+        ],
+        "papers": [
+            {
+                "title": "Synthesis, characterization, and evaluation of high selectivity mixed molybdenum and vanadium oxide catalysts for oxidative dehydrogenation of propane",
+                "citations": "0",
+                "authors": 5
+            },
+            {
+                "title": "Infrared Study of Silanol Groups on Dealuminated High Silica MFI Zeolite to Correlate Different Types of Silanol Groups with Activity for Conversion of 1-Butene to Propene",
+                "citations": "0",
+                "authors": 5
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 1
+            },
+            {
+                "area": "Chemistry",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Refining and Petrochemicals Research Excellence Center",
+                "number": 2
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Refining and Petrochemicals Research Excellence Center",
+        "num_papers": 65,
+        "num_collabs": 52,
+        "num_citations": 289,
+        "num_grants": 44,
+        "authors": [
+            {
+                "author": "Klein, Michael T.",
+                "papers": 18,
+                "citations": 44,
+                "contributions": 11.53,
+                "faculty": 0,
+                "students": 8
+            },
+            {
+                "author": "Al-Khattaf, Sulaiman S.",
+                "papers": 12,
+                "citations": 58,
+                "contributions": 4.1,
+                "faculty": 1,
+                "students": 16
+            },
+            {
+                "author": "Ali, Syed Ahmed",
+                "papers": 7,
+                "citations": 29,
+                "contributions": 1.78,
+                "faculty": 0,
+                "students": 10
+            },
+            {
+                "author": "Ahmed, Shakeel",
+                "papers": 6,
+                "citations": 20,
+                "contributions": 1.78,
+                "faculty": 1,
+                "students": 10
+            },
+            {
+                "author": "Alasiri, H.",
+                "papers": 6,
+                "citations": 8,
+                "contributions": 1.7,
+                "faculty": 0,
+                "students": 11
+            }
+        ],
+        "papers": [
+            {
+                "title": "Hydroconversion of fatty acid derivative over supported Ni-Mo catalysts under low hydrogen pressure",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Hydrogen Production through Steam Reforming of Diesel over Highly Efficient Promoted Ni/gamma-Al2O3 Catalysts Containing Lanthanide Series (La, Ce, Eu, Pr, and Gd) Promoters",
+                "citations": "8",
+                "authors": 4
+            },
+            {
+                "title": "A new water stable zinc metal organic framework as an electrode material for hydrazine sensing",
+                "citations": "7",
+                "authors": 4
+            },
+            {
+                "title": "Recent Advances in Heavy Oil Upgrading Using Dispersed Catalysts",
+                "citations": "7",
+                "authors": 6
+            },
+            {
+                "title": "Catalytic Upgrading of Light Naphtha to Gasoline Blending Components: A Mini Review",
+                "citations": "7",
+                "authors": 4
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 37
+            },
+            {
+                "area": "Chemistry",
+                "number": 28
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 26
+            },
+            {
+                "area": "Materials Science",
+                "number": 3
+            },
+            {
+                "area": "Crystallography",
+                "number": 3
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 2
+            },
+            {
+                "area": "Water Resources",
+                "number": 2
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Chemical Engineering Department",
+                "number": 26
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 9
+            },
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 5
+            },
+            {
+                "collab": "Renewable Energy Research Excellence Center",
+                "number": 4
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 3
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Renewable Energy Research Excellence Center",
+        "num_papers": 242,
+        "num_collabs": 226,
+        "num_citations": 1723,
+        "num_grants": 208,
+        "authors": [
+            {
+                "author": "Sari, Ahmet",
+                "papers": 36,
+                "citations": 522,
+                "contributions": 23.15,
+                "faculty": 0,
+                "students": 11
+            },
+            {
+                "author": "Al-Sulaiman, F. A.",
+                "papers": 35,
+                "citations": 527,
+                "contributions": 10.6,
+                "faculty": 2,
+                "students": 45
+            },
+            {
+                "author": "Yilbas, Bekir Sami",
+                "papers": 32,
+                "citations": 76,
+                "contributions": 5.98,
+                "faculty": 4,
+                "students": 27
+            },
+            {
+                "author": "Zahir, Md Hasan",
+                "papers": 29,
+                "citations": 145,
+                "contributions": 7.51,
+                "faculty": 1,
+                "students": 36
+            },
+            {
+                "author": "Saidur, Rahman",
+                "papers": 24,
+                "citations": 390,
+                "contributions": 11.08,
+                "faculty": 0,
+                "students": 15
+            }
+        ],
+        "papers": [
+            {
+                "title": "Polyamide magnetic palygorskite for the simultaneous removal of Hg(II) and methyl mercury; with factorial design analysis",
+                "citations": "91",
+                "authors": 3
+            },
+            {
+                "title": "A review of thermoelectric power generation systems: Roles of existing test rigs/prototypes and their associated cooling units on output performance",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Stability, thermophysical properties and performance assessment of alumina-water nanofluid with emphasis on ultrasonication and storage period",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Experimental performance evaluation of a novel designed phase change material integrated manifold heat pipe evacuated tube solar collector system",
+                "citations": "9",
+                "authors": 1
+            },
+            {
+                "title": "Sizing and life-cycle assessment of building integrated thermoelectric air cooling and photovoltaic wall system",
+                "citations": "9",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Energy & Fuels",
+                "number": 89
+            },
+            {
+                "area": "Engineering",
+                "number": 65
+            },
+            {
+                "area": "Materials Science",
+                "number": 44
+            },
+            {
+                "area": "Chemistry",
+                "number": 42
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 36
+            },
+            {
+                "area": "Physics",
+                "number": 35
+            },
+            {
+                "area": "Thermodynamics",
+                "number": 31
+            },
+            {
+                "area": "Environmental Sciences & Ecology",
+                "number": 19
+            },
+            {
+                "area": "Mechanics",
+                "number": 16
+            },
+            {
+                "area": "Polymer Science",
+                "number": 11
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 73
+            },
+            {
+                "collab": "Chemistry Department",
+                "number": 28
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 20
+            },
+            {
+                "collab": "Nanotechnology Research Excellence Center",
+                "number": 16
+            },
+            {
+                "collab": "Physics Department",
+                "number": 13
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Science Research Excellence Center MIT Collaboration",
+        "num_papers": 3,
+        "num_collabs": 5,
+        "num_citations": 17,
+        "num_grants": 3,
+        "authors": [
+            {
+                "author": "Merah, N.",
+                "papers": 1,
+                "citations": 14,
+                "contributions": 0.14,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Matin, Asif",
+                "papers": 1,
+                "citations": 14,
+                "contributions": 0.14,
+                "faculty": 0,
+                "students": 5
+            },
+            {
+                "author": "Merah, Nesar",
+                "papers": 1,
+                "citations": 3,
+                "contributions": 0.17,
+                "faculty": 0,
+                "students": 4
+            },
+            {
+                "author": "Baig, Umair",
+                "papers": 1,
+                "citations": 0,
+                "contributions": 1.0,
+                "faculty": 0,
+                "students": 0
+            }
+        ],
+        "papers": [
+            {
+                "title": "UV-resistant and transparent hydrophobic surfaces with different wetting states by a facile dip-coating method",
+                "citations": "3",
+                "authors": 5
+            },
+            {
+                "title": "Preparation of transparent and robust superhydrophobic surfaces for self-cleaning applications",
+                "citations": "14",
+                "authors": 6
+            },
+            {
+                "title": "Determination of Phenanthrene and Fluorene by MCM-41-Dispersive Micro-solid Phase Extraction Combined with Gas Chromatography-Mass Spectrometry",
+                "citations": "0",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Chemistry",
+                "number": 2
+            },
+            {
+                "area": "Materials Science",
+                "number": 2
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 1
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Mechanical Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Physics Department",
+                "number": 2
+            },
+            {
+                "collab": "Environment and Water Research Center",
+                "number": 1
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Systems Engineering Department",
+        "num_papers": 169,
+        "num_collabs": 27,
+        "num_citations": 528,
+        "num_grants": 105,
+        "authors": [
+            {
+                "author": "Al-Dhaifallah, Mujahed",
+                "papers": 37,
+                "citations": 251,
+                "contributions": 35.0,
+                "faculty": 0,
+                "students": 0
+            },
+            {
+                "author": "Mahmoud, Magdi S.",
+                "papers": 23,
+                "citations": 79,
+                "contributions": 15.67,
+                "faculty": 0,
+                "students": 7
+            },
+            {
+                "author": "Elferik, Sami",
+                "papers": 11,
+                "citations": 45,
+                "contributions": 7.17,
+                "faculty": 1,
+                "students": 3
+            },
+            {
+                "author": "Salih Osman Duffuaa",
+                "papers": 10,
+                "citations": 15,
+                "contributions": 3.67,
+                "faculty": 0,
+                "students": 8
+            },
+            {
+                "author": "Saif, Abdul-Wahid A.",
+                "papers": 8,
+                "citations": 9,
+                "contributions": 5.25,
+                "faculty": 0,
+                "students": 8
+            }
+        ],
+        "papers": [
+            {
+                "title": "Adaptive critics based cooperative control scheme for islanded Microgrids",
+                "citations": "9",
+                "authors": 2
+            },
+            {
+                "title": "Sizing Methodology of a Multi-Mirror Solar Concentrated Hybrid PV/Thermal System",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Joint planning of service engineers and spare parts",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Event-triggered fault detection filtering for discrete-time Markovian jump systems",
+                "citations": "8",
+                "authors": 1
+            },
+            {
+                "title": "Joint optimization of maintenance, buffers and machines in manufacturing lines",
+                "citations": "8",
+                "authors": 1
+            }
+        ],
+        "areas": [
+            {
+                "area": "Engineering",
+                "number": 87
+            },
+            {
+                "area": "Computer Science",
+                "number": 53
+            },
+            {
+                "area": "Automation & Control Systems",
+                "number": 29
+            },
+            {
+                "area": "Operations Research & Management Science",
+                "number": 25
+            },
+            {
+                "area": "Telecommunications",
+                "number": 23
+            },
+            {
+                "area": "Mathematics",
+                "number": 19
+            },
+            {
+                "area": "Energy & Fuels",
+                "number": 15
+            },
+            {
+                "area": "Science & Technology - Other Topics",
+                "number": 10
+            },
+            {
+                "area": "Business & Economics",
+                "number": 6
+            },
+            {
+                "area": "Physics",
+                "number": 4
+            }
+        ],
+        "collabs": [
+            {
+                "collab": "Computer Engineering Department",
+                "number": 8
+            },
+            {
+                "collab": "Construction Engineering and Management Department",
+                "number": 4
+            },
+            {
+                "collab": "Petroleum Engineering Department",
+                "number": 3
+            },
+            {
+                "collab": "Electrical Engineering Department",
+                "number": 2
+            },
+            {
+                "collab": "Mathematics and Statistics Department",
+                "number": 2
+            }
+        ]
+    }
+]

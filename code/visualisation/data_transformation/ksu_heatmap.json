@@ -1,0 +1,1704 @@
+{
+    "series": [
+        {
+            "name": "Zoology Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 86
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 39
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 52
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 21
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 7
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 4
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 9
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 31
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 3
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 19
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 28
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 18
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 4
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Botany & Microbiology Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 86
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 29
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 35
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 10
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 31
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 11
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 19
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 7
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 6
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 112
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 1
+                }
+            ]
+        },
+        {
+            "name": "Biochemistry Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 39
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 29
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 28
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 6
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 14
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 22
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 9
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 11
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 18
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 2
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 48
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 3
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Chemistry Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 52
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 35
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 28
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 78
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 21
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 14
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 24
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 26
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 4
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 1
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 20
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 1
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "King Abdullah Institute Nanotechnology",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 21
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 10
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 6
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 78
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 89
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 9
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 3
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 3
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Physics & Astronomy Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 7
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 31
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 6
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 21
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 89
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 5
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pharmaceutical Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 4
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 8
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 14
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 14
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 9
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 5
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 42
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 38
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 20
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 35
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 8
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Clinical Pharmacology Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 9
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 11
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 1
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 42
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 15
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 19
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 5
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pharmaceutical Chemistry Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 31
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 22
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 24
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 2
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 38
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 15
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 14
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 17
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 1
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Medical Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 3
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 9
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 1
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 8
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 21
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 9
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pathology Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 11
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 2
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 1
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 21
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 4
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 8
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pharmacognosy Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 19
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 19
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 18
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 26
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 3
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 20
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 14
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 3
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 15
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 2
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pharmacology & Toxicology Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 28
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 6
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 4
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 35
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 19
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 17
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 4
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 3
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 3
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 1
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Pediatric Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 7
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 5
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 9
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 8
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Mechanical Engineering Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 2
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 8
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 5
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Food Science & Nutrition Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 18
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 6
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 48
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 20
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 3
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 15
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 3
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 18
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Prosthetic Dental Science Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 2
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Plant Production Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 4
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 112
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 3
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 1
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 2
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 18
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Computer Science Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 21
+                }
+            ]
+        },
+        {
+            "name": "Software Engineering Department",
+            "data": [
+                {
+                    "x": "Zoology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Botany & Microbiology Department",
+                    "y": 1
+                },
+                {
+                    "x": "Biochemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "King Abdullah Institute Nanotechnology",
+                    "y": 0
+                },
+                {
+                    "x": "Physics & Astronomy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Clinical Pharmacology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmaceutical Chemistry Department",
+                    "y": 0
+                },
+                {
+                    "x": "Medical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pathology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacognosy Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pharmacology & Toxicology Department",
+                    "y": 0
+                },
+                {
+                    "x": "Pediatric Department",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Food Science & Nutrition Department",
+                    "y": 0
+                },
+                {
+                    "x": "Prosthetic Dental Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Plant Production Department",
+                    "y": 0
+                },
+                {
+                    "x": "Computer Science Department",
+                    "y": 21
+                },
+                {
+                    "x": "Software Engineering Department",
+                    "y": 0
+                }
+            ]
+        }
+    ]
+}

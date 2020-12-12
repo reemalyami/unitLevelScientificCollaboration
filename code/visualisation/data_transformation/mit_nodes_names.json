@@ -1,0 +1,1932 @@
+[
+    {
+        "id": 0,
+        "name": "Civil & Environmental Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 1,
+        "name": "Woods Hole Oceanographic Institute",
+        "type": "center"
+    },
+    {
+        "id": 2,
+        "name": "Earth Atmospheric & Planetary Science Department",
+        "type": "department"
+    },
+    {
+        "id": 3,
+        "name": "Nuclear Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Information & Network Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 6,
+        "name": "Information & Decision Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 7,
+        "name": "Electrical Engineering & Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 8,
+        "name": "Biological Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 9,
+        "name": "Chemical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 10,
+        "name": "Chemical Department",
+        "type": "department"
+    },
+    {
+        "id": 11,
+        "name": "Physical Department",
+        "type": "department"
+    },
+    {
+        "id": 12,
+        "name": "Lincoln Lab",
+        "type": "center"
+    },
+    {
+        "id": 13,
+        "name": "Global Change Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 14,
+        "name": "Institute Data Systems & Society",
+        "type": "center"
+    },
+    {
+        "id": 15,
+        "name": "Brain & Cognitive Science Department",
+        "type": "department"
+    },
+    {
+        "id": 16,
+        "name": "Medicine Engineering & Science Institute",
+        "type": "center"
+    },
+    {
+        "id": 17,
+        "name": "Broad Institute",
+        "type": "center"
+    },
+    {
+        "id": 18,
+        "name": "Electrical Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 19,
+        "name": "Material Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 20,
+        "name": "Health Science & Technology Division",
+        "type": "center"
+    },
+    {
+        "id": 21,
+        "name": "Theoretical Physical Lab",
+        "type": "center"
+    },
+    {
+        "id": 22,
+        "name": "Plasma Science & Fusion Center",
+        "type": "center"
+    },
+    {
+        "id": 23,
+        "name": "Mcgovern Institute Brain Research Center",
+        "type": "center"
+    },
+    {
+        "id": 24,
+        "name": "Laser Biomedical Research Center",
+        "type": "center"
+    },
+    {
+        "id": 25,
+        "name": "Biological Department",
+        "type": "department"
+    },
+    {
+        "id": 26,
+        "name": "Francis Bitter Magnet Lab",
+        "type": "center"
+    },
+    {
+        "id": 27,
+        "name": "Aeronautics & Astronaut Department",
+        "type": "department"
+    },
+    {
+        "id": 28,
+        "name": "Fluid Dynamics Division Transmission Lab",
+        "type": "center"
+    },
+    {
+        "id": 29,
+        "name": "Computer Science & Artificial Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 30,
+        "name": "Synthetic Biological Center",
+        "type": "center"
+    },
+    {
+        "id": 31,
+        "name": "Koch Institute Integrative Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 32,
+        "name": "Kavli Astrophysics & Space Science Institute",
+        "type": "center"
+    },
+    {
+        "id": 33,
+        "name": "Process Systems Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 34,
+        "name": "Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 35,
+        "name": "Singaporemit  Alliance Research & Technology Smart Center",
+        "type": "center"
+    },
+    {
+        "id": 36,
+        "name": "Howard Hughes Medicine Institute",
+        "type": "center"
+    },
+    {
+        "id": 37,
+        "name": "Microbiome Information & Therapeutics Lab",
+        "type": "center"
+    },
+    {
+        "id": 38,
+        "name": "Architecture Department",
+        "type": "department"
+    },
+    {
+        "id": 39,
+        "name": "Division Health Science & Technology",
+        "type": "center"
+    },
+    {
+        "id": 40,
+        "name": "Ragon Institute",
+        "type": "center"
+    },
+    {
+        "id": 41,
+        "name": "David H Koch Institute Integrative Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 42,
+        "name": "Media Lab",
+        "type": "center"
+    },
+    {
+        "id": 43,
+        "name": "Economics Department",
+        "type": "department"
+    },
+    {
+        "id": 44,
+        "name": "Minimally Invasive Therapeutics Lab",
+        "type": "center"
+    },
+    {
+        "id": 45,
+        "name": "Microsystems Technology Labs",
+        "type": "center"
+    },
+    {
+        "id": 46,
+        "name": "Division Comparative Medicine",
+        "type": "center"
+    },
+    {
+        "id": 47,
+        "name": "Earth Researchources Lab",
+        "type": "center"
+    },
+    {
+        "id": 48,
+        "name": "Nuclear Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 49,
+        "name": "Urban Studies & Planning Department",
+        "type": "department"
+    },
+    {
+        "id": 50,
+        "name": "Collective Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 51,
+        "name": "Computational Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 52,
+        "name": "Picower Institute",
+        "type": "center"
+    },
+    {
+        "id": 53,
+        "name": "Parsons Lab",
+        "type": "center"
+    },
+    {
+        "id": 54,
+        "name": "Innovation Science & Policy Lab",
+        "type": "center"
+    },
+    {
+        "id": 55,
+        "name": "Multiscale Material Science For Energy And Environment Lab",
+        "type": "center"
+    },
+    {
+        "id": 56,
+        "name": "Senseable City Lab",
+        "type": "center"
+    },
+    {
+        "id": 57,
+        "name": "Financial Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 58,
+        "name": "Institute Medicine Engineering Science",
+        "type": "center"
+    },
+    {
+        "id": 59,
+        "name": "Linguistics & Philosophy Department",
+        "type": "department"
+    },
+    {
+        "id": 60,
+        "name": "Material Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 61,
+        "name": "Singaporemit  Alliance Research & Technology Center",
+        "type": "center"
+    },
+    {
+        "id": 62,
+        "name": "Lorenz Center",
+        "type": "center"
+    },
+    {
+        "id": 63,
+        "name": "Eecs Department",
+        "type": "department"
+    },
+    {
+        "id": 64,
+        "name": "Operations Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 65,
+        "name": "Singaporemit  Alliance Research & Technology Smart",
+        "type": "center"
+    },
+    {
+        "id": 66,
+        "name": "Ralph M Parsons Lab",
+        "type": "center"
+    },
+    {
+        "id": 67,
+        "name": "Athinoula A Martinos Center Biomedical Imaging",
+        "type": "center"
+    },
+    {
+        "id": 68,
+        "name": "Computational & Statistics Learning Lab",
+        "type": "center"
+    },
+    {
+        "id": 69,
+        "name": "Impact & Crashworthiness Lab",
+        "type": "center"
+    },
+    {
+        "id": 70,
+        "name": "Real Estate Lab",
+        "type": "center"
+    },
+    {
+        "id": 71,
+        "name": "Singaporemit  Alliance Research & Technology",
+        "type": "center"
+    },
+    {
+        "id": 72,
+        "name": "Transportation & Logistics Lab",
+        "type": "center"
+    },
+    {
+        "id": 73,
+        "name": "Extreme Bion Lab",
+        "type": "center"
+    },
+    {
+        "id": 74,
+        "name": "Koch Institute Integrated Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 75,
+        "name": "Institute Soldier Nanotechnology",
+        "type": "center"
+    },
+    {
+        "id": 76,
+        "name": "Electrochemical Energy Lab",
+        "type": "center"
+    },
+    {
+        "id": 77,
+        "name": "Biomedical Innovation Lab",
+        "type": "center"
+    },
+    {
+        "id": 78,
+        "name": "Koch Institute",
+        "type": "center"
+    },
+    {
+        "id": 79,
+        "name": "Simons Center Social Brain",
+        "type": "center"
+    },
+    {
+        "id": 80,
+        "name": "Space Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 81,
+        "name": "Whitehead Biomedical Research Institute",
+        "type": "center"
+    },
+    {
+        "id": 82,
+        "name": "Ultracold Atoms Lab",
+        "type": "center"
+    },
+    {
+        "id": 83,
+        "name": "Nuclear Reactor Lab",
+        "type": "center"
+    },
+    {
+        "id": 84,
+        "name": "Tata Center Technology & Design",
+        "type": "center"
+    },
+    {
+        "id": 85,
+        "name": "D Lab",
+        "type": "center"
+    },
+    {
+        "id": 86,
+        "name": "Ragon Institute Massachusetts Gen Hospital  &",
+        "type": "center"
+    },
+    {
+        "id": 87,
+        "name": "Sutdmit  International Design Center",
+        "type": "center"
+    },
+    {
+        "id": 88,
+        "name": "Manufacturing & Productivity Lab",
+        "type": "center"
+    },
+    {
+        "id": 89,
+        "name": "Intelligent Transportation Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 90,
+        "name": "Singaporemit  Alliance Research & Technology Center Smart",
+        "type": "center"
+    },
+    {
+        "id": 91,
+        "name": "Computational Physiology Lab",
+        "type": "center"
+    },
+    {
+        "id": 92,
+        "name": "Political Science Department",
+        "type": "department"
+    },
+    {
+        "id": 93,
+        "name": "Energy Initiative Lowcarbon Carbon Energy Center Carbon Captu",
+        "type": "center"
+    },
+    {
+        "id": 94,
+        "name": "Sloan Automotive Lab",
+        "type": "center"
+    },
+    {
+        "id": 95,
+        "name": "Material Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 96,
+        "name": "Information & Decision Systems Lids Lab",
+        "type": "center"
+    },
+    {
+        "id": 97,
+        "name": "Statistics & Data Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 98,
+        "name": "Bates Research & Engineering Center",
+        "type": "center"
+    },
+    {
+        "id": 99,
+        "name": "Leadership Center",
+        "type": "center"
+    },
+    {
+        "id": 100,
+        "name": "Infrastructure Science & Sustainability Lab",
+        "type": "center"
+    },
+    {
+        "id": 101,
+        "name": "Mcgovern Institute",
+        "type": "center"
+    },
+    {
+        "id": 102,
+        "name": "Laser Interferometer Gravitational Wave Observatory  Lab",
+        "type": "center"
+    },
+    {
+        "id": 103,
+        "name": "Environmental Health Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 104,
+        "name": "Brains Minds & Machines Lab",
+        "type": "center"
+    },
+    {
+        "id": 105,
+        "name": "Teaching Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 106,
+        "name": "Mobility Systems Center",
+        "type": "center"
+    },
+    {
+        "id": 107,
+        "name": "Energy & Environmental Policy Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 108,
+        "name": "Operations Research Center",
+        "type": "center"
+    },
+    {
+        "id": 109,
+        "name": "Joint Center Energy Storage Research",
+        "type": "center"
+    },
+    {
+        "id": 110,
+        "name": "Atomistic & Molecular Mechanical Lamm Lab",
+        "type": "center"
+    },
+    {
+        "id": 111,
+        "name": "Ibm Waston Artificial Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 112,
+        "name": "Ibm Watson Artificial Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 113,
+        "name": "Precise Cancer Medicine Lab",
+        "type": "center"
+    },
+    {
+        "id": 114,
+        "name": "Neurobiological Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 115,
+        "name": "Media Arts & Science Department",
+        "type": "department"
+    },
+    {
+        "id": 116,
+        "name": "Ragan Institute",
+        "type": "center"
+    },
+    {
+        "id": 117,
+        "name": "Paul F Glenn Biological Aging Research Center",
+        "type": "center"
+    },
+    {
+        "id": 118,
+        "name": "Self Assembly Lab",
+        "type": "center"
+    },
+    {
+        "id": 119,
+        "name": "Material Science & Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 120,
+        "name": "Medicine Department",
+        "type": "department"
+    },
+    {
+        "id": 121,
+        "name": "Connection Science & Human Dynamics Labs",
+        "type": "center"
+    },
+    {
+        "id": 122,
+        "name": "Urban Risk Lab",
+        "type": "center"
+    },
+    {
+        "id": 123,
+        "name": "Alliance Research & Technology",
+        "type": "center"
+    },
+    {
+        "id": 124,
+        "name": "Health Science & Technology Department",
+        "type": "department"
+    },
+    {
+        "id": 125,
+        "name": "Material Science Department",
+        "type": "department"
+    },
+    {
+        "id": 126,
+        "name": "Synthetic Biological Lab",
+        "type": "center"
+    },
+    {
+        "id": 127,
+        "name": "Biomedical Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 128,
+        "name": "Anthropology Department",
+        "type": "department"
+    },
+    {
+        "id": 129,
+        "name": "Atomistic & Molecular Mechanical Lab",
+        "type": "center"
+    },
+    {
+        "id": 130,
+        "name": "Bits & Atoms Lab",
+        "type": "center"
+    },
+    {
+        "id": 131,
+        "name": "Kevli Institute Astrophysics & Space Research",
+        "type": "center"
+    },
+    {
+        "id": 132,
+        "name": "Health Science Technology Division",
+        "type": "center"
+    },
+    {
+        "id": 133,
+        "name": "Nuclear Science Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 134,
+        "name": "Univ Medicine Center Rotterdam",
+        "type": "center"
+    },
+    {
+        "id": 135,
+        "name": "Microphoton Center",
+        "type": "center"
+    },
+    {
+        "id": 136,
+        "name": "National Agricultural Technology Institute",
+        "type": "center"
+    },
+    {
+        "id": 137,
+        "name": "Engineering Systems Division",
+        "type": "center"
+    },
+    {
+        "id": 138,
+        "name": "Electrical & Biological Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 139,
+        "name": "Whitehead Institute",
+        "type": "center"
+    },
+    {
+        "id": 140,
+        "name": "California Nanosystems Institute Cnsi",
+        "type": "center"
+    },
+    {
+        "id": 141,
+        "name": "Artificial Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 142,
+        "name": "Medicine Engineering Institute",
+        "type": "center"
+    },
+    {
+        "id": 143,
+        "name": "Division Health Science & Technology Hst",
+        "type": "center"
+    },
+    {
+        "id": 144,
+        "name": "Elecenteromagnet & Electrical Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 145,
+        "name": "Biomedical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 146,
+        "name": "Electrical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 147,
+        "name": "Computer Science & Biological Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 148,
+        "name": "Nuclear & Material Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 149,
+        "name": "Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 150,
+        "name": "Health Science Department",
+        "type": "department"
+    },
+    {
+        "id": 151,
+        "name": "Space Nanotechnology Lab",
+        "type": "center"
+    },
+    {
+        "id": 152,
+        "name": "Massachusetts Institute Technology",
+        "type": "center"
+    },
+    {
+        "id": 153,
+        "name": "Urban Mobility Lab",
+        "type": "center"
+    },
+    {
+        "id": 154,
+        "name": "Danafarber Farber Cancer Institute",
+        "type": "center"
+    },
+    {
+        "id": 155,
+        "name": "Biomicrocenterpeople Center",
+        "type": "center"
+    },
+    {
+        "id": 156,
+        "name": "Aeronautics & Astronaut Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 157,
+        "name": "&  Division Health Science & Technology",
+        "type": "center"
+    },
+    {
+        "id": 158,
+        "name": "Civic Data Design Lab",
+        "type": "center"
+    },
+    {
+        "id": 159,
+        "name": "Computer Science & Artificial Intelligence Lab Csail",
+        "type": "center"
+    },
+    {
+        "id": 160,
+        "name": "Age Lab",
+        "type": "center"
+    },
+    {
+        "id": 161,
+        "name": "Electrical & Computer Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 162,
+        "name": "Stanley Center Psychiatry Research",
+        "type": "center"
+    },
+    {
+        "id": 163,
+        "name": "Langer Lab",
+        "type": "center"
+    },
+    {
+        "id": 164,
+        "name": "Marble Center Cancer Nanomedicine",
+        "type": "center"
+    },
+    {
+        "id": 165,
+        "name": "Rikenmit  Center Neural Circuit Genetics",
+        "type": "center"
+    },
+    {
+        "id": 166,
+        "name": "Magnetism & Cryogen Division",
+        "type": "center"
+    },
+    {
+        "id": 167,
+        "name": "Program Atmospheresearch Oceans & Climate",
+        "type": "center"
+    },
+    {
+        "id": 168,
+        "name": "Division Health Science Technology",
+        "type": "center"
+    },
+    {
+        "id": 169,
+        "name": "Aerospace Controls Lab",
+        "type": "center"
+    },
+    {
+        "id": 170,
+        "name": "Gynephathol Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 171,
+        "name": "Gynepathol Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 172,
+        "name": "Little Devices Lab",
+        "type": "center"
+    },
+    {
+        "id": 173,
+        "name": "Complex Engineering Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 174,
+        "name": "Elecenterochem Material Lab",
+        "type": "center"
+    },
+    {
+        "id": 175,
+        "name": "Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 176,
+        "name": "International Studies Lab",
+        "type": "center"
+    },
+    {
+        "id": 177,
+        "name": "Norman B Leventhal Center Advancement Urbanism",
+        "type": "center"
+    },
+    {
+        "id": 178,
+        "name": "Ludwig Molecular Oncology Research Center",
+        "type": "center"
+    },
+    {
+        "id": 179,
+        "name": "Nuclear Security & Policy Lab",
+        "type": "center"
+    },
+    {
+        "id": 180,
+        "name": "Engineering Mechanical Department",
+        "type": "department"
+    },
+    {
+        "id": 181,
+        "name": "Research Lab Electrical Department",
+        "type": "department"
+    },
+    {
+        "id": 182,
+        "name": "Research Electrical Lab",
+        "type": "center"
+    },
+    {
+        "id": 183,
+        "name": "Sociotechnical Systems Research Center",
+        "type": "center"
+    },
+    {
+        "id": 184,
+        "name": "Poitras Center Affective Disorders Research",
+        "type": "center"
+    },
+    {
+        "id": 185,
+        "name": "3D Optical Lab",
+        "type": "center"
+    },
+    {
+        "id": 186,
+        "name": "Microsystems Technology Electrical Engineering & Computer Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 187,
+        "name": "Neurotechnology Department",
+        "type": "department"
+    },
+    {
+        "id": 188,
+        "name": "Applied  Economics Department",
+        "type": "department"
+    },
+    {
+        "id": 189,
+        "name": "Ragon Institute Mgh  &",
+        "type": "center"
+    },
+    {
+        "id": 190,
+        "name": "Space Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 191,
+        "name": "Computer Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 192,
+        "name": "Auto Id Labs",
+        "type": "center"
+    },
+    {
+        "id": 193,
+        "name": "New England Univ Transportation Center",
+        "type": "center"
+    },
+    {
+        "id": 194,
+        "name": "Idss & Eecs Department",
+        "type": "department"
+    },
+    {
+        "id": 195,
+        "name": "Environmental Sensing & Modeling Censam Lab",
+        "type": "center"
+    },
+    {
+        "id": 196,
+        "name": "Institute Work & Employment Research",
+        "type": "center"
+    },
+    {
+        "id": 197,
+        "name": "Science Technology & Society Department",
+        "type": "department"
+    },
+    {
+        "id": 198,
+        "name": "Microbiology Department",
+        "type": "department"
+    },
+    {
+        "id": 199,
+        "name": "Amu Joint Lab Multiscale Material Science Energy & Environment",
+        "type": "center"
+    },
+    {
+        "id": 200,
+        "name": "Mechanical & Ocean Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 201,
+        "name": "Global Engineering & Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 202,
+        "name": "Electrical Power Systems Lowcarbon Carbon Energy Center",
+        "type": "center"
+    },
+    {
+        "id": 203,
+        "name": "Statistics Lab",
+        "type": "center"
+    },
+    {
+        "id": 204,
+        "name": "Swanson Biotechnology Center",
+        "type": "center"
+    },
+    {
+        "id": 205,
+        "name": "Han Lab",
+        "type": "center"
+    },
+    {
+        "id": 206,
+        "name": "Nonlinear Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 207,
+        "name": "Singaporemit  Alliance Fin Research & Technology Smart Ct",
+        "type": "center"
+    },
+    {
+        "id": 208,
+        "name": "Environmental Studies Department",
+        "type": "department"
+    },
+    {
+        "id": 209,
+        "name": "Neuroscience Department",
+        "type": "department"
+    },
+    {
+        "id": 210,
+        "name": "Highvoltage Voltage Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 211,
+        "name": "George Harrison Spectroscopy Lab",
+        "type": "center"
+    },
+    {
+        "id": 212,
+        "name": "Infectious Division Interdisciplinary Research Group",
+        "type": "center"
+    },
+    {
+        "id": 213,
+        "name": "Autoid Lab",
+        "type": "center"
+    },
+    {
+        "id": 214,
+        "name": "Cryptoeconomic Lab",
+        "type": "center"
+    },
+    {
+        "id": 215,
+        "name": "Computational Science & Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 216,
+        "name": "Field Intelligence Lab",
+        "type": "center"
+    },
+    {
+        "id": 217,
+        "name": "Lincoln Labs",
+        "type": "center"
+    },
+    {
+        "id": 218,
+        "name": "Material Research Archaeological & Ethnol Lab",
+        "type": "center"
+    },
+    {
+        "id": 219,
+        "name": "Bioengineering Department",
+        "type": "department"
+    },
+    {
+        "id": 220,
+        "name": "Computational Phisiol Lab",
+        "type": "center"
+    },
+    {
+        "id": 221,
+        "name": "Advancement Technology Division",
+        "type": "center"
+    },
+    {
+        "id": 222,
+        "name": "Singaporemit  Alliance Research & Technology Program",
+        "type": "center"
+    },
+    {
+        "id": 223,
+        "name": "Eric P & Evelyn E Newman Biomech Lab",
+        "type": "center"
+    },
+    {
+        "id": 224,
+        "name": "Human Rehabilitation Lab",
+        "type": "center"
+    },
+    {
+        "id": 225,
+        "name": "Nuclear Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 226,
+        "name": "Ludwig Center Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 227,
+        "name": "Biological & Biological Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 228,
+        "name": "Earth Planetary & Atmospheric Science Department",
+        "type": "department"
+    },
+    {
+        "id": 229,
+        "name": "Biomat Science & Engineering Lab",
+        "type": "center"
+    },
+    {
+        "id": 230,
+        "name": "Massachusetts Institute Technology  &",
+        "type": "center"
+    },
+    {
+        "id": 231,
+        "name": "Kavii Institute Astrophysics & Space Research",
+        "type": "center"
+    },
+    {
+        "id": 232,
+        "name": "Cancer Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 233,
+        "name": "Koch Institute Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 234,
+        "name": "Work & Employment Research",
+        "type": "center"
+    },
+    {
+        "id": 235,
+        "name": "Sloan Sch Institute Work & Employment Research",
+        "type": "center"
+    },
+    {
+        "id": 236,
+        "name": "Broad Institute Massachusetts Institute Technology  & Harva",
+        "type": "center"
+    },
+    {
+        "id": 237,
+        "name": "Electrical Engineering & Computer Science Eecs Department",
+        "type": "department"
+    },
+    {
+        "id": 238,
+        "name": "Athinoula A Martinos Imaging Center",
+        "type": "center"
+    },
+    {
+        "id": 239,
+        "name": "Earth & Planetary Science Department",
+        "type": "department"
+    },
+    {
+        "id": 240,
+        "name": "Electrical Engineering & Computer Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 241,
+        "name": "Multiscale Material Science For Energy And Environment Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 242,
+        "name": "Human Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 243,
+        "name": "Teaching & Learning Lab",
+        "type": "center"
+    },
+    {
+        "id": 244,
+        "name": "Zaragoza Logistics Center",
+        "type": "center"
+    },
+    {
+        "id": 245,
+        "name": "Biomicrocenter",
+        "type": "center"
+    },
+    {
+        "id": 246,
+        "name": "Abdul Latif Jameel Poverty Lab",
+        "type": "center"
+    },
+    {
+        "id": 247,
+        "name": "Chemical Engineering & Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 248,
+        "name": "Singaporemit  Alliance Research & 284 Technology Smart Ct",
+        "type": "center"
+    },
+    {
+        "id": 249,
+        "name": "Emergent Behaviors Integrated Cellular Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 250,
+        "name": "Biological Engineering & Chemical Department",
+        "type": "department"
+    },
+    {
+        "id": 251,
+        "name": "Information Systems Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 252,
+        "name": "Systems Architecture Lab",
+        "type": "center"
+    },
+    {
+        "id": 253,
+        "name": "Fee Lab",
+        "type": "center"
+    },
+    {
+        "id": 254,
+        "name": "Manufacturing & Product Lab",
+        "type": "center"
+    },
+    {
+        "id": 255,
+        "name": "Swiss Fed Institute Technology",
+        "type": "center"
+    },
+    {
+        "id": 256,
+        "name": "Aeronautics & Astronaut & Engineering Systems Department",
+        "type": "department"
+    },
+    {
+        "id": 257,
+        "name": "Microsystems Technology Lab",
+        "type": "center"
+    },
+    {
+        "id": 258,
+        "name": "David H Koch Center Integrative Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 259,
+        "name": "Mechanical Engineering Research & Educ  & Sustech Lab",
+        "type": "center"
+    },
+    {
+        "id": 260,
+        "name": "Material Process Lab",
+        "type": "center"
+    },
+    {
+        "id": 261,
+        "name": "Ocean Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 262,
+        "name": "Division Cardiovascular",
+        "type": "center"
+    },
+    {
+        "id": 263,
+        "name": "Senseable City Lab Scl",
+        "type": "center"
+    },
+    {
+        "id": 264,
+        "name": "Darbeloff Lab Information Systems & Technology",
+        "type": "center"
+    },
+    {
+        "id": 265,
+        "name": "Computer Science & Artificial Intelligence Lab Csa1L",
+        "type": "center"
+    },
+    {
+        "id": 266,
+        "name": "Art Science & Technology Cast Lab",
+        "type": "center"
+    },
+    {
+        "id": 267,
+        "name": "Art Science & Technology Lab",
+        "type": "center"
+    },
+    {
+        "id": 268,
+        "name": "Material Research Labs",
+        "type": "center"
+    },
+    {
+        "id": 269,
+        "name": "Transit Lab",
+        "type": "center"
+    },
+    {
+        "id": 270,
+        "name": "Mathematics & Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 271,
+        "name": "Electrical Engineering & Computer Science & Medicine Engineering & Science Institute",
+        "type": "center"
+    },
+    {
+        "id": 272,
+        "name": "Environmental Health Lab",
+        "type": "center"
+    },
+    {
+        "id": 273,
+        "name": "Senseable City Lab & Computer Science",
+        "type": "center"
+    },
+    {
+        "id": 274,
+        "name": "Intelligent Transportation Research Center",
+        "type": "center"
+    },
+    {
+        "id": 275,
+        "name": "Computer Science & Artificial Intelligent Lab",
+        "type": "center"
+    },
+    {
+        "id": 276,
+        "name": "Aeronautics & Astronautics Department",
+        "type": "department"
+    },
+    {
+        "id": 277,
+        "name": "Statistics & Data Science Center",
+        "type": "center"
+    },
+    {
+        "id": 278,
+        "name": "Google Research",
+        "type": "center"
+    },
+    {
+        "id": 279,
+        "name": "Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 280,
+        "name": "Alliance Research & Technology Smart Center",
+        "type": "center"
+    },
+    {
+        "id": 281,
+        "name": "Computer Science & Lab",
+        "type": "center"
+    },
+    {
+        "id": 282,
+        "name": "Lincoln Lab Supercomputing Center",
+        "type": "center"
+    },
+    {
+        "id": 283,
+        "name": "Lincoln Lab Cyber Security Division",
+        "type": "center"
+    },
+    {
+        "id": 284,
+        "name": "Institute Brain Research",
+        "type": "center"
+    },
+    {
+        "id": 285,
+        "name": "International Design Center",
+        "type": "center"
+    },
+    {
+        "id": 286,
+        "name": "Chemical Engineering &  Chemical Department",
+        "type": "department"
+    },
+    {
+        "id": 287,
+        "name": "Leventhal Center Advancement Urbanism",
+        "type": "center"
+    },
+    {
+        "id": 288,
+        "name": "Blavatnik Institute",
+        "type": "center"
+    },
+    {
+        "id": 289,
+        "name": "Electrical & Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 290,
+        "name": "Governance Lab",
+        "type": "center"
+    },
+    {
+        "id": 291,
+        "name": "Institute Biomedical Engineering & Science",
+        "type": "center"
+    },
+    {
+        "id": 292,
+        "name": "Electrical Engineering & Computer Science Massachusetts Department",
+        "type": "department"
+    },
+    {
+        "id": 293,
+        "name": "Singaporemit  Alliance Research & Technology Smart Create",
+        "type": "center"
+    },
+    {
+        "id": 294,
+        "name": "Joint Lab Multiscale Material Science Energy & Environmental",
+        "type": "center"
+    },
+    {
+        "id": 295,
+        "name": "Institute Medicine Science & Engineering",
+        "type": "center"
+    },
+    {
+        "id": 296,
+        "name": "Ludwig Mit Center Mol Oncol",
+        "type": "center"
+    },
+    {
+        "id": 297,
+        "name": "& Division Health Science & Technology",
+        "type": "center"
+    },
+    {
+        "id": 298,
+        "name": "Clean Water & Clean Energy Lab",
+        "type": "center"
+    },
+    {
+        "id": 299,
+        "name": "Interdepartmental Transportation Program",
+        "type": "center"
+    },
+    {
+        "id": 300,
+        "name": "Brains Minds & Machines Center",
+        "type": "center"
+    },
+    {
+        "id": 301,
+        "name": "Mcgovern Brain Institute",
+        "type": "center"
+    },
+    {
+        "id": 302,
+        "name": "Glass Lab",
+        "type": "center"
+    },
+    {
+        "id": 303,
+        "name": "Information Lab",
+        "type": "center"
+    },
+    {
+        "id": 304,
+        "name": "Decision Systems Lab",
+        "type": "center"
+    },
+    {
+        "id": 305,
+        "name": "Applied  Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 306,
+        "name": "Physical Science Oncology Center",
+        "type": "center"
+    },
+    {
+        "id": 307,
+        "name": "Koch Institute Integrative Cancer Biological",
+        "type": "center"
+    },
+    {
+        "id": 308,
+        "name": "Gastrointestinal Unit",
+        "type": "center"
+    },
+    {
+        "id": 309,
+        "name": "Study Inflammatory Bowel Division Lab",
+        "type": "center"
+    },
+    {
+        "id": 310,
+        "name": "Biological Engineering & Material Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 311,
+        "name": "Institute Integrative Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 312,
+        "name": "Integrative Cancer Research",
+        "type": "center"
+    },
+    {
+        "id": 313,
+        "name": "Energy Assessment Center Lab",
+        "type": "center"
+    },
+    {
+        "id": 314,
+        "name": "Engineering & Management Department",
+        "type": "department"
+    },
+    {
+        "id": 315,
+        "name": "Koch Institute Integrative Research",
+        "type": "center"
+    },
+    {
+        "id": 316,
+        "name": "Displacement & Active Network Research",
+        "type": "center"
+    },
+    {
+        "id": 317,
+        "name": "Photovoltaics Lab",
+        "type": "center"
+    },
+    {
+        "id": 318,
+        "name": "Massachusetts Institute Technology  Faculty",
+        "type": "center"
+    },
+    {
+        "id": 319,
+        "name": "Sustainable Design Lab",
+        "type": "center"
+    },
+    {
+        "id": 320,
+        "name": "Manipulation & Mechanical Lab",
+        "type": "center"
+    },
+    {
+        "id": 321,
+        "name": "Transit Research Program",
+        "type": "center"
+    },
+    {
+        "id": 322,
+        "name": "Massachusetts Institute Technology Division Health Science &",
+        "type": "center"
+    },
+    {
+        "id": 323,
+        "name": "Singaporemit  Alliance Research Technology",
+        "type": "center"
+    },
+    {
+        "id": 324,
+        "name": "Microsoft Research",
+        "type": "center"
+    },
+    {
+        "id": 325,
+        "name": "Aeroastro Department",
+        "type": "department"
+    },
+    {
+        "id": 326,
+        "name": "Autoid Labs",
+        "type": "center"
+    },
+    {
+        "id": 327,
+        "name": "Institute Super Technology",
+        "type": "center"
+    },
+    {
+        "id": 328,
+        "name": "Medicine Electrical Device Realization Center",
+        "type": "center"
+    },
+    {
+        "id": 329,
+        "name": "Connection Science Research Initiative",
+        "type": "center"
+    },
+    {
+        "id": 330,
+        "name": "Aeronautics Astronaut Department",
+        "type": "department"
+    },
+    {
+        "id": 331,
+        "name": "Kavil Institute",
+        "type": "center"
+    },
+    {
+        "id": 332,
+        "name": "Clinical Research Center",
+        "type": "center"
+    },
+    {
+        "id": 333,
+        "name": "3D Structure & Physical Genome Lab",
+        "type": "center"
+    },
+    {
+        "id": 334,
+        "name": "Earth Atmospheric & Planetary & Science Department",
+        "type": "department"
+    },
+    {
+        "id": 335,
+        "name": "Human Dynamics Lab",
+        "type": "center"
+    },
+    {
+        "id": 336,
+        "name": "Stl Real Estate Entrepreneurship Lab",
+        "type": "center"
+    },
+    {
+        "id": 337,
+        "name": "Exciton Lab",
+        "type": "center"
+    },
+    {
+        "id": 338,
+        "name": "Broad Institute Massachusetts Institute Technology",
+        "type": "center"
+    },
+    {
+        "id": 339,
+        "name": "Material Process Center",
+        "type": "center"
+    },
+    {
+        "id": 340,
+        "name": "Sloan Neuroeconomics Lab",
+        "type": "center"
+    },
+    {
+        "id": 341,
+        "name": "Climate Change Science Lab",
+        "type": "center"
+    },
+    {
+        "id": 342,
+        "name": "Stem Cell Institute",
+        "type": "center"
+    },
+    {
+        "id": 343,
+        "name": "Material Science Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 344,
+        "name": "Mechanical Department",
+        "type": "department"
+    },
+    {
+        "id": 345,
+        "name": "Jtl Mobility Lab",
+        "type": "center"
+    },
+    {
+        "id": 346,
+        "name": "Cardiovascular Division",
+        "type": "center"
+    },
+    {
+        "id": 347,
+        "name": "Singapore Mit  Alliance Research & Technology Smart Biosystems",
+        "type": "center"
+    },
+    {
+        "id": 348,
+        "name": "Sloan Institute Work & Employment Research",
+        "type": "center"
+    },
+    {
+        "id": 349,
+        "name": "Multiscale Characterization & Material Design Lab",
+        "type": "center"
+    },
+    {
+        "id": 350,
+        "name": "Novartismit  Center Continuous Manufacturing",
+        "type": "center"
+    },
+    {
+        "id": 351,
+        "name": "Touchlab",
+        "type": "center"
+    },
+    {
+        "id": 352,
+        "name": "Massachusetts Institute Technology Health Science & Technology",
+        "type": "center"
+    },
+    {
+        "id": 353,
+        "name": "Unite Mixte International 3466",
+        "type": "center"
+    },
+    {
+        "id": 354,
+        "name": "Auto Id Center",
+        "type": "center"
+    },
+    {
+        "id": 355,
+        "name": "Electrical Interfaces Lab",
+        "type": "center"
+    },
+    {
+        "id": 356,
+        "name": "Elecenterochern Material",
+        "type": "center"
+    },
+    {
+        "id": 357,
+        "name": "Ragon Institute Mgh",
+        "type": "center"
+    },
+    {
+        "id": 358,
+        "name": "Personalized Cancer Medicine Lab",
+        "type": "center"
+    },
+    {
+        "id": 359,
+        "name": "7 Cambridge Center",
+        "type": "center"
+    },
+    {
+        "id": 360,
+        "name": "Cognitive Behaviors Neurology Unit",
+        "type": "center"
+    },
+    {
+        "id": 361,
+        "name": "Athinoula Martinos Imaging Center",
+        "type": "center"
+    },
+    {
+        "id": 362,
+        "name": "Megacity Logistics Lab",
+        "type": "center"
+    },
+    {
+        "id": 363,
+        "name": "Material Department",
+        "type": "department"
+    },
+    {
+        "id": 364,
+        "name": "Mcgovern Insitute Brain Research",
+        "type": "center"
+    },
+    {
+        "id": 365,
+        "name": "Singaporemit  Alliance Research & Technology Singaporemit",
+        "type": "center"
+    },
+    {
+        "id": 366,
+        "name": "Photovalta Research Lab",
+        "type": "center"
+    },
+    {
+        "id": 367,
+        "name": "Nine Cambridge Center",
+        "type": "center"
+    },
+    {
+        "id": 368,
+        "name": "Glenn Labs Science Aging",
+        "type": "center"
+    },
+    {
+        "id": 369,
+        "name": "Faculty Mathematics Department",
+        "type": "department"
+    },
+    {
+        "id": 370,
+        "name": "Anesthesia Critical Care & Pain Medicine Department",
+        "type": "department"
+    },
+    {
+        "id": 371,
+        "name": "Pathology Department",
+        "type": "department"
+    },
+    {
+        "id": 372,
+        "name": "Operations Research Statistics & Operations Management",
+        "type": "center"
+    },
+    {
+        "id": 373,
+        "name": "Koch Integrative Cancer Research Center",
+        "type": "center"
+    },
+    {
+        "id": 374,
+        "name": "Amu Joint Lab",
+        "type": "center"
+    },
+    {
+        "id": 375,
+        "name": "1 Deforesearcht Ave",
+        "type": "center"
+    },
+    {
+        "id": 376,
+        "name": "Research Center",
+        "type": "center"
+    },
+    {
+        "id": 377,
+        "name": "Computer Science & Electrical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 378,
+        "name": "Mechanical Science & Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 379,
+        "name": "Infectious Division Division",
+        "type": "center"
+    },
+    {
+        "id": 380,
+        "name": "New England Complex Systems Institute",
+        "type": "center"
+    },
+    {
+        "id": 381,
+        "name": "Undergraduate Research Opportunities Program Urop",
+        "type": "center"
+    },
+    {
+        "id": 382,
+        "name": "Singaporemit  Alliance Research & Technology Biosystems & Micromechanics",
+        "type": "center"
+    },
+    {
+        "id": 383,
+        "name": "Synthetic Biological Engineering Research Center",
+        "type": "center"
+    },
+    {
+        "id": 384,
+        "name": "Gear Lab",
+        "type": "center"
+    },
+    {
+        "id": 385,
+        "name": "Cnr  Amu Joint Lab Multiscale Material Science Energy &",
+        "type": "center"
+    }
+]

@@ -1,0 +1,2318 @@
+[
+    {
+        "id": "Civil & Environmental Engineering Department",
+        "name": "Civil & Environmental Engineering Department",
+        "collaborations": 368,
+        "color": "#e6550d"
+    },
+    {
+        "id": "Woods Hole Oceanographic Institute",
+        "name": "Woods Hole Oceanographic Institute",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Earth Atmospheric & Planetary Science Department",
+        "name": "Earth Atmospheric & Planetary Science Department",
+        "collaborations": 416,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Nuclear Science & Engineering Department",
+        "name": "Nuclear Science & Engineering Department",
+        "collaborations": 308,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Mechanical Engineering Department",
+        "name": "Mechanical Engineering Department",
+        "collaborations": 1202,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Wireless Information & Network Science Lab",
+        "name": "Wireless Information & Network Science Lab",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Information & Decision Systems Lab",
+        "name": "Information & Decision Systems Lab",
+        "collaborations": 82,
+        "color": "#636363"
+    },
+    {
+        "id": "Electrical Engineering & Computer Science Department",
+        "name": "Electrical Engineering & Computer Science Department",
+        "collaborations": 1069,
+        "color": "#636363"
+    },
+    {
+        "id": "Biological Engineering Department",
+        "name": "Biological Engineering Department",
+        "collaborations": 1466,
+        "color": "#636363"
+    },
+    {
+        "id": "Chemical Engineering Department",
+        "name": "Chemical Engineering Department",
+        "collaborations": 1106,
+        "color": "#636363"
+    },
+    {
+        "id": "Chemical Department",
+        "name": "Chemical Department",
+        "collaborations": 876,
+        "color": "#636363"
+    },
+    {
+        "id": "Physical Department",
+        "name": "Physical Department",
+        "collaborations": 1064,
+        "color": "#636363"
+    },
+    {
+        "id": "Lincoln Lab",
+        "name": "Lincoln Lab",
+        "collaborations": 203,
+        "color": "#31a354"
+    },
+    {
+        "id": "Global Change Science Lab",
+        "name": "Global Change Science Lab",
+        "collaborations": 18,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Data Systems & Society",
+        "name": "Institute Data Systems & Society",
+        "collaborations": 151,
+        "color": "#74c476"
+    },
+    {
+        "id": "Brain & Cognitive Science Department",
+        "name": "Brain & Cognitive Science Department",
+        "collaborations": 795,
+        "color": "#74c476"
+    },
+    {
+        "id": "Medicine Engineering & Science Institute",
+        "name": "Medicine Engineering & Science Institute",
+        "collaborations": 735,
+        "color": "#74c476"
+    },
+    {
+        "id": "Broad Institute",
+        "name": "Broad Institute",
+        "collaborations": 1232,
+        "color": "#74c476"
+    },
+    {
+        "id": "Electrical Research Lab",
+        "name": "Electrical Research Lab",
+        "collaborations": 749,
+        "color": "#74c476"
+    },
+    {
+        "id": "Material Science & Engineering Department",
+        "name": "Material Science & Engineering Department",
+        "collaborations": 1063,
+        "color": "#74c476"
+    },
+    {
+        "id": "Health Science & Technology Division",
+        "name": "Health Science & Technology Division",
+        "collaborations": 331,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Theoretical Physical Lab",
+        "name": "Theoretical Physical Lab",
+        "collaborations": 73,
+        "color": "#636363"
+    },
+    {
+        "id": "Plasma Science & Fusion Center",
+        "name": "Plasma Science & Fusion Center",
+        "collaborations": 69,
+        "color": "#636363"
+    },
+    {
+        "id": "Mcgovern Institute Brain Research Center",
+        "name": "Mcgovern Institute Brain Research Center",
+        "collaborations": 437,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Laser Biomedical Research Center",
+        "name": "Laser Biomedical Research Center",
+        "collaborations": 24,
+        "color": "#969696"
+    },
+    {
+        "id": "Biological Department",
+        "name": "Biological Department",
+        "collaborations": 853,
+        "color": "#969696"
+    },
+    {
+        "id": "Francis Bitter Magnet Lab",
+        "name": "Francis Bitter Magnet Lab",
+        "collaborations": 55,
+        "color": "#636363"
+    },
+    {
+        "id": "Aeronautics & Astronaut Department",
+        "name": "Aeronautics & Astronaut Department",
+        "collaborations": 381,
+        "color": "#e6550d"
+    },
+    {
+        "id": "Fluid Dynamics Division Transmission Lab",
+        "name": "Fluid Dynamics Division Transmission Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Artificial Intelligence Lab",
+        "name": "Computer Science & Artificial Intelligence Lab",
+        "collaborations": 324,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Synthetic Biological Center",
+        "name": "Synthetic Biological Center",
+        "collaborations": 186,
+        "color": "#74c476"
+    },
+    {
+        "id": "Koch Institute Integrative Cancer Research",
+        "name": "Koch Institute Integrative Cancer Research",
+        "collaborations": 904,
+        "color": "#74c476"
+    },
+    {
+        "id": "Kavli Astrophysics & Space Science Institute",
+        "name": "Kavli Astrophysics & Space Science Institute",
+        "collaborations": 536,
+        "color": "#74c476"
+    },
+    {
+        "id": "Process Systems Engineering Lab",
+        "name": "Process Systems Engineering Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mathematics Department",
+        "name": "Mathematics Department",
+        "collaborations": 263,
+        "color": "#fdae6b"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Smart Center",
+        "name": "Singaporemit  Alliance Research & Technology Smart Center",
+        "collaborations": 60,
+        "color": "#636363"
+    },
+    {
+        "id": "Howard Hughes Medicine Institute",
+        "name": "Howard Hughes Medicine Institute",
+        "collaborations": 325,
+        "color": "#fd8d3c"
+    },
+    {
+        "id": "Microbiome Information & Therapeutics Lab",
+        "name": "Microbiome Information & Therapeutics Lab",
+        "collaborations": 144,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Architecture Department",
+        "name": "Architecture Department",
+        "collaborations": 54,
+        "color": "#636363"
+    },
+    {
+        "id": "Division Health Science & Technology",
+        "name": "Division Health Science & Technology",
+        "collaborations": 56,
+        "color": "#636363"
+    },
+    {
+        "id": "Ragon Institute",
+        "name": "Ragon Institute",
+        "collaborations": 352,
+        "color": "#e6550d"
+    },
+    {
+        "id": "David H Koch Institute Integrative Cancer Research",
+        "name": "David H Koch Institute Integrative Cancer Research",
+        "collaborations": 404,
+        "color": "#6baed6"
+    },
+    {
+        "id": "Media Lab",
+        "name": "Media Lab",
+        "collaborations": 300,
+        "color": "#fdae6b"
+    },
+    {
+        "id": "Economics Department",
+        "name": "Economics Department",
+        "collaborations": 23,
+        "color": "#969696"
+    },
+    {
+        "id": "Minimally Invasive Therapeutics Lab",
+        "name": "Minimally Invasive Therapeutics Lab",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Microsystems Technology Labs",
+        "name": "Microsystems Technology Labs",
+        "collaborations": 63,
+        "color": "#636363"
+    },
+    {
+        "id": "Division Comparative Medicine",
+        "name": "Division Comparative Medicine",
+        "collaborations": 109,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Earth Researchources Lab",
+        "name": "Earth Researchources Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear Science Lab",
+        "name": "Nuclear Science Lab",
+        "collaborations": 29,
+        "color": "#969696"
+    },
+    {
+        "id": "Urban Studies & Planning Department",
+        "name": "Urban Studies & Planning Department",
+        "collaborations": 76,
+        "color": "#636363"
+    },
+    {
+        "id": "Collective Intelligence Lab",
+        "name": "Collective Intelligence Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Computational Engineering Lab",
+        "name": "Computational Engineering Lab",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Picower Institute",
+        "name": "Picower Institute",
+        "collaborations": 183,
+        "color": "#74c476"
+    },
+    {
+        "id": "Parsons Lab",
+        "name": "Parsons Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Innovation Science & Policy Lab",
+        "name": "Innovation Science & Policy Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Multiscale Material Science For Energy And Environment Lab",
+        "name": "Multiscale Material Science For Energy And Environment Lab",
+        "collaborations": 23,
+        "color": "#969696"
+    },
+    {
+        "id": "Senseable City Lab",
+        "name": "Senseable City Lab",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "Financial Engineering Lab",
+        "name": "Financial Engineering Lab",
+        "collaborations": 28,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Medicine Engineering Science",
+        "name": "Institute Medicine Engineering Science",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Linguistics & Philosophy Department",
+        "name": "Linguistics & Philosophy Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Research Lab",
+        "name": "Material Research Lab",
+        "collaborations": 64,
+        "color": "#636363"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Center",
+        "name": "Singaporemit  Alliance Research & Technology Center",
+        "collaborations": 20,
+        "color": "#969696"
+    },
+    {
+        "id": "Lorenz Center",
+        "name": "Lorenz Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Eecs Department",
+        "name": "Eecs Department",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "Operations Research Lab",
+        "name": "Operations Research Lab",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Smart",
+        "name": "Singaporemit  Alliance Research & Technology Smart",
+        "collaborations": 35,
+        "color": "#969696"
+    },
+    {
+        "id": "Ralph M Parsons Lab",
+        "name": "Ralph M Parsons Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Athinoula A Martinos Center Biomedical Imaging",
+        "name": "Athinoula A Martinos Center Biomedical Imaging",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Computational & Statistics Learning Lab",
+        "name": "Computational & Statistics Learning Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Impact & Crashworthiness Lab",
+        "name": "Impact & Crashworthiness Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Real Estate Lab",
+        "name": "Real Estate Lab",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology",
+        "name": "Singaporemit  Alliance Research & Technology",
+        "collaborations": 227,
+        "color": "#31a354"
+    },
+    {
+        "id": "Transportation & Logistics Lab",
+        "name": "Transportation & Logistics Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Extreme Bion Lab",
+        "name": "Extreme Bion Lab",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Institute Integrated Cancer Research",
+        "name": "Koch Institute Integrated Cancer Research",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Soldier Nanotechnology",
+        "name": "Institute Soldier Nanotechnology",
+        "collaborations": 139,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Electrochemical Energy Lab",
+        "name": "Electrochemical Energy Lab",
+        "collaborations": 48,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomedical Innovation Lab",
+        "name": "Biomedical Innovation Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Institute",
+        "name": "Koch Institute",
+        "collaborations": 116,
+        "color": "#a1d99b"
+    },
+    {
+        "id": "Simons Center Social Brain",
+        "name": "Simons Center Social Brain",
+        "collaborations": 28,
+        "color": "#969696"
+    },
+    {
+        "id": "Space Research Lab",
+        "name": "Space Research Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Whitehead Biomedical Research Institute",
+        "name": "Whitehead Biomedical Research Institute",
+        "collaborations": 32,
+        "color": "#969696"
+    },
+    {
+        "id": "Ultracold Atoms Lab",
+        "name": "Ultracold Atoms Lab",
+        "collaborations": 20,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear Reactor Lab",
+        "name": "Nuclear Reactor Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Tata Center Technology & Design",
+        "name": "Tata Center Technology & Design",
+        "collaborations": 33,
+        "color": "#969696"
+    },
+    {
+        "id": "D Lab",
+        "name": "D Lab",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Ragon Institute Massachusetts Gen Hospital  &",
+        "name": "Ragon Institute Massachusetts Gen Hospital  &",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Sutdmit  International Design Center",
+        "name": "Sutdmit  International Design Center",
+        "collaborations": 14,
+        "color": "#969696"
+    },
+    {
+        "id": "Manufacturing & Productivity Lab",
+        "name": "Manufacturing & Productivity Lab",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Intelligent Transportation Systems Lab",
+        "name": "Intelligent Transportation Systems Lab",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Center Smart",
+        "name": "Singaporemit  Alliance Research & Technology Center Smart",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Computational Physiology Lab",
+        "name": "Computational Physiology Lab",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Political Science Department",
+        "name": "Political Science Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Energy Initiative Lowcarbon Carbon Energy Center Carbon Captu",
+        "name": "Energy Initiative Lowcarbon Carbon Energy Center Carbon Captu",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Sloan Automotive Lab",
+        "name": "Sloan Automotive Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Systems Lab",
+        "name": "Material Systems Lab",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Information & Decision Systems Lids Lab",
+        "name": "Information & Decision Systems Lids Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics & Data Science Lab",
+        "name": "Statistics & Data Science Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Bates Research & Engineering Center",
+        "name": "Bates Research & Engineering Center",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Leadership Center",
+        "name": "Leadership Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Infrastructure Science & Sustainability Lab",
+        "name": "Infrastructure Science & Sustainability Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Mcgovern Institute",
+        "name": "Mcgovern Institute",
+        "collaborations": 66,
+        "color": "#636363"
+    },
+    {
+        "id": "Laser Interferometer Gravitational Wave Observatory  Lab",
+        "name": "Laser Interferometer Gravitational Wave Observatory  Lab",
+        "collaborations": 32,
+        "color": "#969696"
+    },
+    {
+        "id": "Environmental Health Science Lab",
+        "name": "Environmental Health Science Lab",
+        "collaborations": 59,
+        "color": "#636363"
+    },
+    {
+        "id": "Brains Minds & Machines Lab",
+        "name": "Brains Minds & Machines Lab",
+        "collaborations": 54,
+        "color": "#636363"
+    },
+    {
+        "id": "Teaching Systems Lab",
+        "name": "Teaching Systems Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mobility Systems Center",
+        "name": "Mobility Systems Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Energy & Environmental Policy Research Lab",
+        "name": "Energy & Environmental Policy Research Lab",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Operations Research Center",
+        "name": "Operations Research Center",
+        "collaborations": 51,
+        "color": "#636363"
+    },
+    {
+        "id": "Joint Center Energy Storage Research",
+        "name": "Joint Center Energy Storage Research",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "Atomistic & Molecular Mechanical Lamm Lab",
+        "name": "Atomistic & Molecular Mechanical Lamm Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Ibm Waston Artificial Intelligence Lab",
+        "name": "Ibm Waston Artificial Intelligence Lab",
+        "collaborations": 30,
+        "color": "#969696"
+    },
+    {
+        "id": "Ibm Watson Artificial Intelligence Lab",
+        "name": "Ibm Watson Artificial Intelligence Lab",
+        "collaborations": 21,
+        "color": "#969696"
+    },
+    {
+        "id": "Precise Cancer Medicine Lab",
+        "name": "Precise Cancer Medicine Lab",
+        "collaborations": 81,
+        "color": "#636363"
+    },
+    {
+        "id": "Neurobiological Engineering Lab",
+        "name": "Neurobiological Engineering Lab",
+        "collaborations": 48,
+        "color": "#969696"
+    },
+    {
+        "id": "Media Arts & Science Department",
+        "name": "Media Arts & Science Department",
+        "collaborations": 19,
+        "color": "#969696"
+    },
+    {
+        "id": "Ragan Institute",
+        "name": "Ragan Institute",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Paul F Glenn Biological Aging Research Center",
+        "name": "Paul F Glenn Biological Aging Research Center",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Self Assembly Lab",
+        "name": "Self Assembly Lab",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Science & Engineering Lab",
+        "name": "Material Science & Engineering Lab",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "Medicine Department",
+        "name": "Medicine Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Connection Science & Human Dynamics Labs",
+        "name": "Connection Science & Human Dynamics Labs",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Urban Risk Lab",
+        "name": "Urban Risk Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Alliance Research & Technology",
+        "name": "Alliance Research & Technology",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Science & Technology Department",
+        "name": "Health Science & Technology Department",
+        "collaborations": 49,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Science Department",
+        "name": "Material Science Department",
+        "collaborations": 34,
+        "color": "#969696"
+    },
+    {
+        "id": "Synthetic Biological Lab",
+        "name": "Synthetic Biological Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomedical Engineering Lab",
+        "name": "Biomedical Engineering Lab",
+        "collaborations": 17,
+        "color": "#969696"
+    },
+    {
+        "id": "Anthropology Department",
+        "name": "Anthropology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Atomistic & Molecular Mechanical Lab",
+        "name": "Atomistic & Molecular Mechanical Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Bits & Atoms Lab",
+        "name": "Bits & Atoms Lab",
+        "collaborations": 12,
+        "color": "#969696"
+    },
+    {
+        "id": "Kevli Institute Astrophysics & Space Research",
+        "name": "Kevli Institute Astrophysics & Space Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Science Technology Division",
+        "name": "Health Science Technology Division",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear Science Engineering Department",
+        "name": "Nuclear Science Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Univ Medicine Center Rotterdam",
+        "name": "Univ Medicine Center Rotterdam",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Microphoton Center",
+        "name": "Microphoton Center",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "National Agricultural Technology Institute",
+        "name": "National Agricultural Technology Institute",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering Systems Division",
+        "name": "Engineering Systems Division",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical & Biological Engineering Department",
+        "name": "Electrical & Biological Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Whitehead Institute",
+        "name": "Whitehead Institute",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "California Nanosystems Institute Cnsi",
+        "name": "California Nanosystems Institute Cnsi",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Artificial Intelligence Lab",
+        "name": "Artificial Intelligence Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Medicine Engineering Institute",
+        "name": "Medicine Engineering Institute",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Division Health Science & Technology Hst",
+        "name": "Division Health Science & Technology Hst",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Elecenteromagnet & Electrical Systems Lab",
+        "name": "Elecenteromagnet & Electrical Systems Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomedical Engineering Department",
+        "name": "Biomedical Engineering Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering Department",
+        "name": "Electrical Engineering Department",
+        "collaborations": 16,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Biological Engineering Department",
+        "name": "Computer Science & Biological Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear & Material Science & Engineering Department",
+        "name": "Nuclear & Material Science & Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering Department",
+        "name": "Engineering Department",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Health Science Department",
+        "name": "Health Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Space Nanotechnology Lab",
+        "name": "Space Nanotechnology Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Massachusetts Institute Technology",
+        "name": "Massachusetts Institute Technology",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Urban Mobility Lab",
+        "name": "Urban Mobility Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Danafarber Farber Cancer Institute",
+        "name": "Danafarber Farber Cancer Institute",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomicrocenterpeople Center",
+        "name": "Biomicrocenterpeople Center",
+        "collaborations": 17,
+        "color": "#969696"
+    },
+    {
+        "id": "Aeronautics & Astronaut Engineering Department",
+        "name": "Aeronautics & Astronaut Engineering Department",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "&  Division Health Science & Technology",
+        "name": "&  Division Health Science & Technology",
+        "collaborations": 27,
+        "color": "#969696"
+    },
+    {
+        "id": "Civic Data Design Lab",
+        "name": "Civic Data Design Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Artificial Intelligence Lab Csail",
+        "name": "Computer Science & Artificial Intelligence Lab Csail",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "Age Lab",
+        "name": "Age Lab",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical & Computer Engineering Department",
+        "name": "Electrical & Computer Engineering Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Stanley Center Psychiatry Research",
+        "name": "Stanley Center Psychiatry Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Langer Lab",
+        "name": "Langer Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Marble Center Cancer Nanomedicine",
+        "name": "Marble Center Cancer Nanomedicine",
+        "collaborations": 25,
+        "color": "#969696"
+    },
+    {
+        "id": "Rikenmit  Center Neural Circuit Genetics",
+        "name": "Rikenmit  Center Neural Circuit Genetics",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Magnetism & Cryogen Division",
+        "name": "Magnetism & Cryogen Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Program Atmospheresearch Oceans & Climate",
+        "name": "Program Atmospheresearch Oceans & Climate",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Division Health Science Technology",
+        "name": "Division Health Science Technology",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Aerospace Controls Lab",
+        "name": "Aerospace Controls Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Gynephathol Research Lab",
+        "name": "Gynephathol Research Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Gynepathol Research Lab",
+        "name": "Gynepathol Research Lab",
+        "collaborations": 26,
+        "color": "#969696"
+    },
+    {
+        "id": "Little Devices Lab",
+        "name": "Little Devices Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Complex Engineering Systems Lab",
+        "name": "Complex Engineering Systems Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Elecenterochem Material Lab",
+        "name": "Elecenterochem Material Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science Department",
+        "name": "Computer Science Department",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "International Studies Lab",
+        "name": "International Studies Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Norman B Leventhal Center Advancement Urbanism",
+        "name": "Norman B Leventhal Center Advancement Urbanism",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Ludwig Molecular Oncology Research Center",
+        "name": "Ludwig Molecular Oncology Research Center",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear Security & Policy Lab",
+        "name": "Nuclear Security & Policy Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering Mechanical Department",
+        "name": "Engineering Mechanical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Lab Electrical Department",
+        "name": "Research Lab Electrical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Electrical Lab",
+        "name": "Research Electrical Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Sociotechnical Systems Research Center",
+        "name": "Sociotechnical Systems Research Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Poitras Center Affective Disorders Research",
+        "name": "Poitras Center Affective Disorders Research",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "3D Optical Lab",
+        "name": "3D Optical Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Microsystems Technology Electrical Engineering & Computer Science Lab",
+        "name": "Microsystems Technology Electrical Engineering & Computer Science Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Neurotechnology Department",
+        "name": "Neurotechnology Department",
+        "collaborations": 11,
+        "color": "#969696"
+    },
+    {
+        "id": "Applied  Economics Department",
+        "name": "Applied  Economics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Ragon Institute Mgh  &",
+        "name": "Ragon Institute Mgh  &",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Space Systems Lab",
+        "name": "Space Systems Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Engineering Department",
+        "name": "Computer Science & Engineering Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Auto Id Labs",
+        "name": "Auto Id Labs",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "New England Univ Transportation Center",
+        "name": "New England Univ Transportation Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Idss & Eecs Department",
+        "name": "Idss & Eecs Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Environmental Sensing & Modeling Censam Lab",
+        "name": "Environmental Sensing & Modeling Censam Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Work & Employment Research",
+        "name": "Institute Work & Employment Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Science Technology & Society Department",
+        "name": "Science Technology & Society Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Microbiology Department",
+        "name": "Microbiology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Amu Joint Lab Multiscale Material Science Energy & Environment",
+        "name": "Amu Joint Lab Multiscale Material Science Energy & Environment",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical & Ocean Engineering Department",
+        "name": "Mechanical & Ocean Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Global Engineering & Research Lab",
+        "name": "Global Engineering & Research Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Power Systems Lowcarbon Carbon Energy Center",
+        "name": "Electrical Power Systems Lowcarbon Carbon Energy Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics Lab",
+        "name": "Statistics Lab",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Swanson Biotechnology Center",
+        "name": "Swanson Biotechnology Center",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Han Lab",
+        "name": "Han Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Nonlinear Systems Lab",
+        "name": "Nonlinear Systems Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Fin Research & Technology Smart Ct",
+        "name": "Singaporemit  Alliance Fin Research & Technology Smart Ct",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Environmental Studies Department",
+        "name": "Environmental Studies Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Neuroscience Department",
+        "name": "Neuroscience Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Highvoltage Voltage Research Lab",
+        "name": "Highvoltage Voltage Research Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "George Harrison Spectroscopy Lab",
+        "name": "George Harrison Spectroscopy Lab",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Division Interdisciplinary Research Group",
+        "name": "Infectious Division Interdisciplinary Research Group",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Autoid Lab",
+        "name": "Autoid Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cryptoeconomic Lab",
+        "name": "Cryptoeconomic Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computational Science & Engineering Lab",
+        "name": "Computational Science & Engineering Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Field Intelligence Lab",
+        "name": "Field Intelligence Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Lincoln Labs",
+        "name": "Lincoln Labs",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Research Archaeological & Ethnol Lab",
+        "name": "Material Research Archaeological & Ethnol Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Bioengineering Department",
+        "name": "Bioengineering Department",
+        "collaborations": 22,
+        "color": "#969696"
+    },
+    {
+        "id": "Computational Phisiol Lab",
+        "name": "Computational Phisiol Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Advancement Technology Division",
+        "name": "Advancement Technology Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Program",
+        "name": "Singaporemit  Alliance Research & Technology Program",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Eric P & Evelyn E Newman Biomech Lab",
+        "name": "Eric P & Evelyn E Newman Biomech Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Human Rehabilitation Lab",
+        "name": "Human Rehabilitation Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Nuclear Engineering Department",
+        "name": "Nuclear Engineering Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Ludwig Center Cancer Research",
+        "name": "Ludwig Center Cancer Research",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Biological & Biological Engineering Department",
+        "name": "Biological & Biological Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Earth Planetary & Atmospheric Science Department",
+        "name": "Earth Planetary & Atmospheric Science Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomat Science & Engineering Lab",
+        "name": "Biomat Science & Engineering Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Massachusetts Institute Technology  &",
+        "name": "Massachusetts Institute Technology  &",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Kavii Institute Astrophysics & Space Research",
+        "name": "Kavii Institute Astrophysics & Space Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cancer Research Lab",
+        "name": "Cancer Research Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Institute Cancer Research",
+        "name": "Koch Institute Cancer Research",
+        "collaborations": 9,
+        "color": "#969696"
+    },
+    {
+        "id": "Work & Employment Research",
+        "name": "Work & Employment Research",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Sloan Sch Institute Work & Employment Research",
+        "name": "Sloan Sch Institute Work & Employment Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Broad Institute Massachusetts Institute Technology  & Harva",
+        "name": "Broad Institute Massachusetts Institute Technology  & Harva",
+        "collaborations": 13,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering & Computer Science Eecs Department",
+        "name": "Electrical Engineering & Computer Science Eecs Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Athinoula A Martinos Imaging Center",
+        "name": "Athinoula A Martinos Imaging Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Earth & Planetary Science Department",
+        "name": "Earth & Planetary Science Department",
+        "collaborations": 18,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering & Computer Engineering Department",
+        "name": "Electrical Engineering & Computer Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Multiscale Material Science For Energy And Environment Research Lab",
+        "name": "Multiscale Material Science For Energy And Environment Research Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Human Systems Lab",
+        "name": "Human Systems Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Teaching & Learning Lab",
+        "name": "Teaching & Learning Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Zaragoza Logistics Center",
+        "name": "Zaragoza Logistics Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biomicrocenter",
+        "name": "Biomicrocenter",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Abdul Latif Jameel Poverty Lab",
+        "name": "Abdul Latif Jameel Poverty Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemical Engineering & Mathematics Department",
+        "name": "Chemical Engineering & Mathematics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & 284 Technology Smart Ct",
+        "name": "Singaporemit  Alliance Research & 284 Technology Smart Ct",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Emergent Behaviors Integrated Cellular Systems Lab",
+        "name": "Emergent Behaviors Integrated Cellular Systems Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Biological Engineering & Chemical Department",
+        "name": "Biological Engineering & Chemical Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Information Systems Research Lab",
+        "name": "Information Systems Research Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Systems Architecture Lab",
+        "name": "Systems Architecture Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Fee Lab",
+        "name": "Fee Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Manufacturing & Product Lab",
+        "name": "Manufacturing & Product Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Swiss Fed Institute Technology",
+        "name": "Swiss Fed Institute Technology",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Aeronautics & Astronaut & Engineering Systems Department",
+        "name": "Aeronautics & Astronaut & Engineering Systems Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Microsystems Technology Lab",
+        "name": "Microsystems Technology Lab",
+        "collaborations": 10,
+        "color": "#969696"
+    },
+    {
+        "id": "David H Koch Center Integrative Cancer Research",
+        "name": "David H Koch Center Integrative Cancer Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical Engineering Research & Educ  & Sustech Lab",
+        "name": "Mechanical Engineering Research & Educ  & Sustech Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Process Lab",
+        "name": "Material Process Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Ocean Engineering Department",
+        "name": "Ocean Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Division Cardiovascular",
+        "name": "Division Cardiovascular",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Senseable City Lab Scl",
+        "name": "Senseable City Lab Scl",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Darbeloff Lab Information Systems & Technology",
+        "name": "Darbeloff Lab Information Systems & Technology",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Artificial Intelligence Lab Csa1L",
+        "name": "Computer Science & Artificial Intelligence Lab Csa1L",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Art Science & Technology Cast Lab",
+        "name": "Art Science & Technology Cast Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Art Science & Technology Lab",
+        "name": "Art Science & Technology Lab",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Research Labs",
+        "name": "Material Research Labs",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Transit Lab",
+        "name": "Transit Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mathematics & Computer Science Department",
+        "name": "Mathematics & Computer Science Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering & Computer Science & Medicine Engineering & Science Institute",
+        "name": "Electrical Engineering & Computer Science & Medicine Engineering & Science Institute",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Environmental Health Lab",
+        "name": "Environmental Health Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "Senseable City Lab & Computer Science",
+        "name": "Senseable City Lab & Computer Science",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Intelligent Transportation Research Center",
+        "name": "Intelligent Transportation Research Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Artificial Intelligent Lab",
+        "name": "Computer Science & Artificial Intelligent Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Aeronautics & Astronautics Department",
+        "name": "Aeronautics & Astronautics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Statistics & Data Science Center",
+        "name": "Statistics & Data Science Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Google Research",
+        "name": "Google Research",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Lab",
+        "name": "Research Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Alliance Research & Technology Smart Center",
+        "name": "Alliance Research & Technology Smart Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Lab",
+        "name": "Computer Science & Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Lincoln Lab Supercomputing Center",
+        "name": "Lincoln Lab Supercomputing Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Lincoln Lab Cyber Security Division",
+        "name": "Lincoln Lab Cyber Security Division",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Brain Research",
+        "name": "Institute Brain Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "International Design Center",
+        "name": "International Design Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Chemical Engineering &  Chemical Department",
+        "name": "Chemical Engineering &  Chemical Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Leventhal Center Advancement Urbanism",
+        "name": "Leventhal Center Advancement Urbanism",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Blavatnik Institute",
+        "name": "Blavatnik Institute",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical & Computer Science Department",
+        "name": "Electrical & Computer Science Department",
+        "collaborations": 8,
+        "color": "#969696"
+    },
+    {
+        "id": "Governance Lab",
+        "name": "Governance Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Biomedical Engineering & Science",
+        "name": "Institute Biomedical Engineering & Science",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Engineering & Computer Science Massachusetts Department",
+        "name": "Electrical Engineering & Computer Science Massachusetts Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Smart Create",
+        "name": "Singaporemit  Alliance Research & Technology Smart Create",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Joint Lab Multiscale Material Science Energy & Environmental",
+        "name": "Joint Lab Multiscale Material Science Energy & Environmental",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Medicine Science & Engineering",
+        "name": "Institute Medicine Science & Engineering",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Ludwig Mit Center Mol Oncol",
+        "name": "Ludwig Mit Center Mol Oncol",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "& Division Health Science & Technology",
+        "name": "& Division Health Science & Technology",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Clean Water & Clean Energy Lab",
+        "name": "Clean Water & Clean Energy Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Interdepartmental Transportation Program",
+        "name": "Interdepartmental Transportation Program",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Brains Minds & Machines Center",
+        "name": "Brains Minds & Machines Center",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Mcgovern Brain Institute",
+        "name": "Mcgovern Brain Institute",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Glass Lab",
+        "name": "Glass Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Information Lab",
+        "name": "Information Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Decision Systems Lab",
+        "name": "Decision Systems Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Applied  Mathematics Department",
+        "name": "Applied  Mathematics Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Physical Science Oncology Center",
+        "name": "Physical Science Oncology Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Institute Integrative Cancer Biological",
+        "name": "Koch Institute Integrative Cancer Biological",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Gastrointestinal Unit",
+        "name": "Gastrointestinal Unit",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Study Inflammatory Bowel Division Lab",
+        "name": "Study Inflammatory Bowel Division Lab",
+        "collaborations": 7,
+        "color": "#969696"
+    },
+    {
+        "id": "Biological Engineering & Material Science & Engineering Department",
+        "name": "Biological Engineering & Material Science & Engineering Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Integrative Cancer Research",
+        "name": "Institute Integrative Cancer Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Integrative Cancer Research",
+        "name": "Integrative Cancer Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Energy Assessment Center Lab",
+        "name": "Energy Assessment Center Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Engineering & Management Department",
+        "name": "Engineering & Management Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Institute Integrative Research",
+        "name": "Koch Institute Integrative Research",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Displacement & Active Network Research",
+        "name": "Displacement & Active Network Research",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Photovoltaics Lab",
+        "name": "Photovoltaics Lab",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Massachusetts Institute Technology  Faculty",
+        "name": "Massachusetts Institute Technology  Faculty",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Sustainable Design Lab",
+        "name": "Sustainable Design Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Manipulation & Mechanical Lab",
+        "name": "Manipulation & Mechanical Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Transit Research Program",
+        "name": "Transit Research Program",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Massachusetts Institute Technology Division Health Science &",
+        "name": "Massachusetts Institute Technology Division Health Science &",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research Technology",
+        "name": "Singaporemit  Alliance Research Technology",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Microsoft Research",
+        "name": "Microsoft Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Aeroastro Department",
+        "name": "Aeroastro Department",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Autoid Labs",
+        "name": "Autoid Labs",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Institute Super Technology",
+        "name": "Institute Super Technology",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Medicine Electrical Device Realization Center",
+        "name": "Medicine Electrical Device Realization Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Connection Science Research Initiative",
+        "name": "Connection Science Research Initiative",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Aeronautics Astronaut Department",
+        "name": "Aeronautics Astronaut Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Kavil Institute",
+        "name": "Kavil Institute",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Clinical Research Center",
+        "name": "Clinical Research Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "3D Structure & Physical Genome Lab",
+        "name": "3D Structure & Physical Genome Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Earth Atmospheric & Planetary & Science Department",
+        "name": "Earth Atmospheric & Planetary & Science Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Human Dynamics Lab",
+        "name": "Human Dynamics Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Stl Real Estate Entrepreneurship Lab",
+        "name": "Stl Real Estate Entrepreneurship Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Exciton Lab",
+        "name": "Exciton Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Broad Institute Massachusetts Institute Technology",
+        "name": "Broad Institute Massachusetts Institute Technology",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Process Center",
+        "name": "Material Process Center",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Sloan Neuroeconomics Lab",
+        "name": "Sloan Neuroeconomics Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Climate Change Science Lab",
+        "name": "Climate Change Science Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Stem Cell Institute",
+        "name": "Stem Cell Institute",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Science Engineering Department",
+        "name": "Material Science Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical Department",
+        "name": "Mechanical Department",
+        "collaborations": 4,
+        "color": "#969696"
+    },
+    {
+        "id": "Jtl Mobility Lab",
+        "name": "Jtl Mobility Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cardiovascular Division",
+        "name": "Cardiovascular Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Singapore Mit  Alliance Research & Technology Smart Biosystems",
+        "name": "Singapore Mit  Alliance Research & Technology Smart Biosystems",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Sloan Institute Work & Employment Research",
+        "name": "Sloan Institute Work & Employment Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Multiscale Characterization & Material Design Lab",
+        "name": "Multiscale Characterization & Material Design Lab",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Novartismit  Center Continuous Manufacturing",
+        "name": "Novartismit  Center Continuous Manufacturing",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Touchlab",
+        "name": "Touchlab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Massachusetts Institute Technology Health Science & Technology",
+        "name": "Massachusetts Institute Technology Health Science & Technology",
+        "collaborations": 6,
+        "color": "#969696"
+    },
+    {
+        "id": "Unite Mixte International 3466",
+        "name": "Unite Mixte International 3466",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Auto Id Center",
+        "name": "Auto Id Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Electrical Interfaces Lab",
+        "name": "Electrical Interfaces Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Elecenterochern Material",
+        "name": "Elecenterochern Material",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Ragon Institute Mgh",
+        "name": "Ragon Institute Mgh",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Personalized Cancer Medicine Lab",
+        "name": "Personalized Cancer Medicine Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "7 Cambridge Center",
+        "name": "7 Cambridge Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cognitive Behaviors Neurology Unit",
+        "name": "Cognitive Behaviors Neurology Unit",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Athinoula Martinos Imaging Center",
+        "name": "Athinoula Martinos Imaging Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Megacity Logistics Lab",
+        "name": "Megacity Logistics Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Material Department",
+        "name": "Material Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mcgovern Insitute Brain Research",
+        "name": "Mcgovern Insitute Brain Research",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Singaporemit",
+        "name": "Singaporemit  Alliance Research & Technology Singaporemit",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Photovalta Research Lab",
+        "name": "Photovalta Research Lab",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Nine Cambridge Center",
+        "name": "Nine Cambridge Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Glenn Labs Science Aging",
+        "name": "Glenn Labs Science Aging",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Faculty Mathematics Department",
+        "name": "Faculty Mathematics Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Anesthesia Critical Care & Pain Medicine Department",
+        "name": "Anesthesia Critical Care & Pain Medicine Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Pathology Department",
+        "name": "Pathology Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Operations Research Statistics & Operations Management",
+        "name": "Operations Research Statistics & Operations Management",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Koch Integrative Cancer Research Center",
+        "name": "Koch Integrative Cancer Research Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Amu Joint Lab",
+        "name": "Amu Joint Lab",
+        "collaborations": 5,
+        "color": "#969696"
+    },
+    {
+        "id": "1 Deforesearcht Ave",
+        "name": "1 Deforesearcht Ave",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Research Center",
+        "name": "Research Center",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Computer Science & Electrical Engineering Department",
+        "name": "Computer Science & Electrical Engineering Department",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Mechanical Science & Engineering Department",
+        "name": "Mechanical Science & Engineering Department",
+        "collaborations": 3,
+        "color": "#969696"
+    },
+    {
+        "id": "Infectious Division Division",
+        "name": "Infectious Division Division",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "New England Complex Systems Institute",
+        "name": "New England Complex Systems Institute",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Undergraduate Research Opportunities Program Urop",
+        "name": "Undergraduate Research Opportunities Program Urop",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Singaporemit  Alliance Research & Technology Biosystems & Micromechanics",
+        "name": "Singaporemit  Alliance Research & Technology Biosystems & Micromechanics",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Synthetic Biological Engineering Research Center",
+        "name": "Synthetic Biological Engineering Research Center",
+        "collaborations": 2,
+        "color": "#969696"
+    },
+    {
+        "id": "Gear Lab",
+        "name": "Gear Lab",
+        "collaborations": 1,
+        "color": "#969696"
+    },
+    {
+        "id": "Cnr  Amu Joint Lab Multiscale Material Science Energy &",
+        "name": "Cnr  Amu Joint Lab Multiscale Material Science Energy &",
+        "collaborations": 1,
+        "color": "#969696"
+    }
+]

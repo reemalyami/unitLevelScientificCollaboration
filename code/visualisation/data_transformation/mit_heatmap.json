@@ -1,0 +1,1704 @@
+{
+    "series": [
+        {
+            "name": "Biological Engineering Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 153
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 122
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 66
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 109
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 14
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 61
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 102
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 50
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 84
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 67
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 42
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 48
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 37
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 38
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 4
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 42
+                }
+            ]
+        },
+        {
+            "name": "Broad Institute",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 153
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 11
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 21
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 54
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 104
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 54
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 124
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 70
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 23
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 68
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 42
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 23
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 1
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 53
+                }
+            ]
+        },
+        {
+            "name": "Mechanical Engineering Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 122
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 11
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 93
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 87
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 27
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 133
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 30
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 40
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 13
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 23
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 94
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 50
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 7
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 5
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 23
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 31
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 65
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 2
+                }
+            ]
+        },
+        {
+            "name": "Chemical Engineering Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 66
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 21
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 93
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 37
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 25
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 99
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 105
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 119
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 21
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 18
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 25
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 80
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 10
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 8
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 66
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 8
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 26
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 17
+                }
+            ]
+        },
+        {
+            "name": "Electrical Engineering & Computer Science Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 109
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 54
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 87
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 37
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 52
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 87
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 25
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 41
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 10
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 23
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 142
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 40
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 4
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 13
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 3
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 8
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 12
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 8
+                }
+            ]
+        },
+        {
+            "name": "Physical Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 14
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 8
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 27
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 25
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 52
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 18
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 13
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 27
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 20
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 8
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 97
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 28
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 276
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 3
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 98
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 74
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 8
+                }
+            ]
+        },
+        {
+            "name": "Material Science & Engineering Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 61
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 5
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 133
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 99
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 87
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 18
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 41
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 58
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 2
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 19
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 91
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 8
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 4
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 17
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 16
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 9
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 18
+                }
+            ]
+        },
+        {
+            "name": "Koch Institute Integrative Cancer Research",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 102
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 104
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 30
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 105
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 25
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 13
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 41
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 63
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 116
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 14
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 3
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 40
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 14
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 51
+                }
+            ]
+        },
+        {
+            "name": "Chemical Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 50
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 54
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 40
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 119
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 41
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 27
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 58
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 63
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 66
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 13
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 20
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 28
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 2
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 5
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 14
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 3
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 38
+                }
+            ]
+        },
+        {
+            "name": "Biological Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 84
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 124
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 21
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 10
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 20
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 116
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 66
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 0
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 28
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 2
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 19
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 4
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 42
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 12
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 13
+                }
+            ]
+        },
+        {
+            "name": "Brain & Cognitive Science Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 67
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 70
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 23
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 18
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 23
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 19
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 14
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 13
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 28
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 12
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 30
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 162
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 2
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 1
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 3
+                }
+            ]
+        },
+        {
+            "name": "Electrical Research Lab",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 42
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 23
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 94
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 25
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 142
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 97
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 91
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 3
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 20
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 2
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 12
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 0
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 16
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 2
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 11
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 3
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 1
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 4
+                }
+            ]
+        },
+        {
+            "name": "Medicine Engineering & Science Institute",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 48
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 68
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 50
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 80
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 40
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 28
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 40
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 28
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 19
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 30
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 16
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 2
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 5
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 46
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 8
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 6
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 35
+                }
+            ]
+        },
+        {
+            "name": "Kavli Astrophysics & Space Science Institute",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 7
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 4
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 276
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 2
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 0
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 2
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 2
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 1
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 111
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 79
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Mcgovern Institute Brain Research Center",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 37
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 42
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 5
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 10
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 13
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 3
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 17
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 14
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 5
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 4
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 162
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 11
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 5
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 2
+                }
+            ]
+        },
+        {
+            "name": "Earth Atmospheric & Planetary Science Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 2
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 3
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 98
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 2
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 0
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 111
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 89
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 44
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "David H Koch Institute Integrative Cancer Research",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 38
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 23
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 23
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 66
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 8
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 0
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 16
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 14
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 42
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 3
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 46
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 1
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 3
+                }
+            ]
+        },
+        {
+            "name": "Aeronautics & Astronaut Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 4
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 31
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 8
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 12
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 74
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 9
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 3
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 0
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 1
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 1
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 8
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 79
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 0
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 89
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 0
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 3
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Civil & Environmental Engineering Department",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 6
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 65
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 26
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 6
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 7
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 13
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 2
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 2
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 12
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 2
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 2
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 6
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 1
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 44
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 1
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 3
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "name": "Ragon Institute",
+            "data": [
+                {
+                    "x": "Biological Engineering Department",
+                    "y": 42
+                },
+                {
+                    "x": "Broad Institute",
+                    "y": 53
+                },
+                {
+                    "x": "Mechanical Engineering Department",
+                    "y": 2
+                },
+                {
+                    "x": "Chemical Engineering Department",
+                    "y": 17
+                },
+                {
+                    "x": "Electrical Engineering & Computer Science Department",
+                    "y": 8
+                },
+                {
+                    "x": "Physical Department",
+                    "y": 8
+                },
+                {
+                    "x": "Material Science & Engineering Department",
+                    "y": 18
+                },
+                {
+                    "x": "Koch Institute Integrative Cancer Research",
+                    "y": 51
+                },
+                {
+                    "x": "Chemical Department",
+                    "y": 38
+                },
+                {
+                    "x": "Biological Department",
+                    "y": 13
+                },
+                {
+                    "x": "Brain & Cognitive Science Department",
+                    "y": 3
+                },
+                {
+                    "x": "Electrical Research Lab",
+                    "y": 4
+                },
+                {
+                    "x": "Medicine Engineering & Science Institute",
+                    "y": 35
+                },
+                {
+                    "x": "Kavli Astrophysics & Space Science Institute",
+                    "y": 0
+                },
+                {
+                    "x": "Mcgovern Institute Brain Research Center",
+                    "y": 2
+                },
+                {
+                    "x": "Earth Atmospheric & Planetary Science Department",
+                    "y": 0
+                },
+                {
+                    "x": "David H Koch Institute Integrative Cancer Research",
+                    "y": 3
+                },
+                {
+                    "x": "Aeronautics & Astronaut Department",
+                    "y": 0
+                },
+                {
+                    "x": "Civil & Environmental Engineering Department",
+                    "y": 0
+                },
+                {
+                    "x": "Ragon Institute",
+                    "y": 0
+                }
+            ]
+        }
+    ]
+}

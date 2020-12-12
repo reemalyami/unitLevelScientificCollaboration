@@ -1,0 +1,2032 @@
+[
+    {
+        "id": 1,
+        "name": "Minimally Invasive Therapeutics Lab",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 8
+    },
+    {
+        "id": 2,
+        "name": "Real Estate Lab",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 25
+    },
+    {
+        "id": 3,
+        "name": "Computer Science & Artificial Intelligence Lab Csail",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 34
+    },
+    {
+        "id": 4,
+        "name": "Microsystems Technology Lab",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 4
+    },
+    {
+        "id": 5,
+        "name": "Institute Medicine Engineering Science",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 9
+    },
+    {
+        "id": 6,
+        "name": "Ragon Institute Massachusetts Gen Hospital  &",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 23
+    },
+    {
+        "id": 7,
+        "name": "Computational Physiology Lab",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 32
+    },
+    {
+        "id": 8,
+        "name": "Energy & Environmental Policy Research Lab",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 15
+    },
+    {
+        "id": 9,
+        "name": "Ragan Institute",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 2
+    },
+    {
+        "id": 10,
+        "name": "Aeronautics & Astronaut Engineering Department",
+        "type": "Department",
+        "num_collaborations": 9,
+        "num_papers": 4
+    },
+    {
+        "id": 11,
+        "name": "Computer Science Department",
+        "type": "Department",
+        "num_collaborations": 9,
+        "num_papers": 15
+    },
+    {
+        "id": 12,
+        "name": "Koch Institute Cancer Research",
+        "type": "",
+        "num_collaborations": 9,
+        "num_papers": 5
+    },
+    {
+        "id": 13,
+        "name": "Division Health Science & Technology Hst",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 8
+    },
+    {
+        "id": 14,
+        "name": "Division Health Science Technology",
+        "type": "",
+        "num_collaborations": 8,
+        "num_papers": 6
+    },
+    {
+        "id": 15,
+        "name": "Electrical & Computer Science Department",
+        "type": "Department",
+        "num_collaborations": 8,
+        "num_papers": 3
+    },
+    {
+        "id": 16,
+        "name": "D Lab",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 23
+    },
+    {
+        "id": 17,
+        "name": "Bates Research & Engineering Center",
+        "type": "Center",
+        "num_collaborations": 7,
+        "num_papers": 6
+    },
+    {
+        "id": 18,
+        "name": "Health Science Technology Division",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 19,
+        "name": "Statistics Lab",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 7
+    },
+    {
+        "id": 20,
+        "name": "Swanson Biotechnology Center",
+        "type": "Center",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 21,
+        "name": "George Harrison Spectroscopy Lab",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 6
+    },
+    {
+        "id": 22,
+        "name": "Art Science & Technology Lab",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 23,
+        "name": "Gastrointestinal Unit",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 1
+    },
+    {
+        "id": 24,
+        "name": "Study Inflammatory Bowel Division Lab",
+        "type": "",
+        "num_collaborations": 7,
+        "num_papers": 1
+    },
+    {
+        "id": 25,
+        "name": "Athinoula A Martinos Center Biomedical Imaging",
+        "type": "Center",
+        "num_collaborations": 6,
+        "num_papers": 13
+    },
+    {
+        "id": 26,
+        "name": "Koch Institute Integrated Cancer Research",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 19
+    },
+    {
+        "id": 27,
+        "name": "Manufacturing & Productivity Lab",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 13
+    },
+    {
+        "id": 28,
+        "name": "Material Systems Lab",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 17
+    },
+    {
+        "id": 29,
+        "name": "Self Assembly Lab",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 8
+    },
+    {
+        "id": 30,
+        "name": "Whitehead Institute",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 16
+    },
+    {
+        "id": 31,
+        "name": "California Nanosystems Institute Cnsi",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 7
+    },
+    {
+        "id": 32,
+        "name": "Leventhal Center Advancement Urbanism",
+        "type": "Center",
+        "num_collaborations": 6,
+        "num_papers": 6
+    },
+    {
+        "id": 33,
+        "name": "Singaporemit  Alliance Research & Technology Smart Create",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 34,
+        "name": "& Division Health Science & Technology",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 2
+    },
+    {
+        "id": 35,
+        "name": "Massachusetts Institute Technology Health Science & Technology",
+        "type": "",
+        "num_collaborations": 6,
+        "num_papers": 1
+    },
+    {
+        "id": 36,
+        "name": "Woods Hole Oceanographic Institute",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 60
+    },
+    {
+        "id": 37,
+        "name": "Ralph M Parsons Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 23
+    },
+    {
+        "id": 38,
+        "name": "Information & Decision Systems Lids Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 35
+    },
+    {
+        "id": 39,
+        "name": "Statistics & Data Science Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 5
+    },
+    {
+        "id": 40,
+        "name": "Infrastructure Science & Sustainability Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 4
+    },
+    {
+        "id": 41,
+        "name": "Atomistic & Molecular Mechanical Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 13
+    },
+    {
+        "id": 42,
+        "name": "Engineering Department",
+        "type": "Department",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 43,
+        "name": "Space Nanotechnology Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 10
+    },
+    {
+        "id": 44,
+        "name": "Norman B Leventhal Center Advancement Urbanism",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 45,
+        "name": "Ragon Institute Mgh  &",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 6
+    },
+    {
+        "id": 46,
+        "name": "Massachusetts Institute Technology  &",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 47,
+        "name": "Material Process Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 8
+    },
+    {
+        "id": 48,
+        "name": "Art Science & Technology Cast Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 49,
+        "name": "Material Research Labs",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 50,
+        "name": "Environmental Health Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 51,
+        "name": "Amu Joint Lab",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 1
+    },
+    {
+        "id": 52,
+        "name": "Nuclear Reactor Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 23
+    },
+    {
+        "id": 53,
+        "name": "Singaporemit  Alliance Research & Technology Center Smart",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 4
+    },
+    {
+        "id": 54,
+        "name": "Urban Risk Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 55,
+        "name": "Artificial Intelligence Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 15
+    },
+    {
+        "id": 56,
+        "name": "Massachusetts Institute Technology",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 8
+    },
+    {
+        "id": 57,
+        "name": "Urban Mobility Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 4
+    },
+    {
+        "id": 58,
+        "name": "Rikenmit  Center Neural Circuit Genetics",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 59,
+        "name": "Aerospace Controls Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 12
+    },
+    {
+        "id": 60,
+        "name": "Gynephathol Research Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 61,
+        "name": "Nonlinear Systems Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 9
+    },
+    {
+        "id": 62,
+        "name": "Highvoltage Voltage Research Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 63,
+        "name": "Ludwig Center Cancer Research",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 64,
+        "name": "Information Systems Research Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 9
+    },
+    {
+        "id": 65,
+        "name": "Electrical Engineering & Computer Science & Medicine Engineering & Science Institute",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 66,
+        "name": "Koch Institute Integrative Cancer Biological",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 4
+    },
+    {
+        "id": 67,
+        "name": "Photovoltaics Lab",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 68,
+        "name": "Material Process Center",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 3
+    },
+    {
+        "id": 69,
+        "name": "Stem Cell Institute",
+        "type": "",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 70,
+        "name": "Mechanical Department",
+        "type": "Department",
+        "num_collaborations": 4,
+        "num_papers": 1
+    },
+    {
+        "id": 71,
+        "name": "Earth Researchources Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 29
+    },
+    {
+        "id": 72,
+        "name": "Collective Intelligence Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 28
+    },
+    {
+        "id": 73,
+        "name": "Impact & Crashworthiness Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 21
+    },
+    {
+        "id": 74,
+        "name": "Transportation & Logistics Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 47
+    },
+    {
+        "id": 75,
+        "name": "Space Research Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 76,
+        "name": "Energy Initiative Lowcarbon Carbon Energy Center Carbon Captu",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 13
+    },
+    {
+        "id": 77,
+        "name": "Leadership Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 7
+    },
+    {
+        "id": 78,
+        "name": "Mobility Systems Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 79,
+        "name": "Medicine Engineering Institute",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 80,
+        "name": "Biomedical Engineering Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 81,
+        "name": "Electrical & Computer Engineering Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 82,
+        "name": "Program Atmospheresearch Oceans & Climate",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 83,
+        "name": "Little Devices Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 11
+    },
+    {
+        "id": 84,
+        "name": "Sociotechnical Systems Research Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 14
+    },
+    {
+        "id": 85,
+        "name": "Poitras Center Affective Disorders Research",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 86,
+        "name": "Computer Science & Engineering Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 87,
+        "name": "Auto Id Labs",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 12
+    },
+    {
+        "id": 88,
+        "name": "New England Univ Transportation Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 89,
+        "name": "Environmental Studies Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 90,
+        "name": "Neuroscience Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 91,
+        "name": "Computational Science & Engineering Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 92,
+        "name": "Lincoln Labs",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 6
+    },
+    {
+        "id": 93,
+        "name": "Singaporemit  Alliance Research & Technology Program",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 94,
+        "name": "Nuclear Engineering Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 95,
+        "name": "Biomat Science & Engineering Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 96,
+        "name": "Cancer Research Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 97,
+        "name": "Work & Employment Research",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 98,
+        "name": "Electrical Engineering & Computer Science Eecs Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 7
+    },
+    {
+        "id": 99,
+        "name": "Athinoula A Martinos Imaging Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 100,
+        "name": "Biomicrocenter",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 101,
+        "name": "Biological Engineering & Chemical Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 102,
+        "name": "Division Cardiovascular",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 103,
+        "name": "Google Research",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 104,
+        "name": "Lincoln Lab Supercomputing Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 105,
+        "name": "Lincoln Lab Cyber Security Division",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 106,
+        "name": "International Design Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 107,
+        "name": "Institute Biomedical Engineering & Science",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 108,
+        "name": "Electrical Engineering & Computer Science Massachusetts Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 109,
+        "name": "Ludwig Mit Center Mol Oncol",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 110,
+        "name": "Clean Water & Clean Energy Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 9
+    },
+    {
+        "id": 111,
+        "name": "Brains Minds & Machines Center",
+        "type": "Center",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 112,
+        "name": "Mcgovern Brain Institute",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 113,
+        "name": "Koch Institute Integrative Research",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 114,
+        "name": "Aeronautics Astronaut Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 4
+    },
+    {
+        "id": 115,
+        "name": "Earth Atmospheric & Planetary & Science Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 116,
+        "name": "Exciton Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 2
+    },
+    {
+        "id": 117,
+        "name": "Broad Institute Massachusetts Institute Technology",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 118,
+        "name": "Climate Change Science Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 5
+    },
+    {
+        "id": 119,
+        "name": "Multiscale Characterization & Material Design Lab",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 120,
+        "name": "Mechanical Science & Engineering Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 1
+    },
+    {
+        "id": 121,
+        "name": "Innovation Science & Policy Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 122,
+        "name": "Lorenz Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 14
+    },
+    {
+        "id": 123,
+        "name": "Biomedical Innovation Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 11
+    },
+    {
+        "id": 124,
+        "name": "Connection Science & Human Dynamics Labs",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 125,
+        "name": "Alliance Research & Technology",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 126,
+        "name": "Kevli Institute Astrophysics & Space Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 127,
+        "name": "Engineering Systems Division",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 11
+    },
+    {
+        "id": 128,
+        "name": "Electrical & Biological Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 129,
+        "name": "Computer Science & Biological Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 130,
+        "name": "Nuclear & Material Science & Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 131,
+        "name": "Danafarber Farber Cancer Institute",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 21
+    },
+    {
+        "id": 132,
+        "name": "Complex Engineering Systems Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 133,
+        "name": "Elecenterochem Material Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 9
+    },
+    {
+        "id": 134,
+        "name": "International Studies Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 8
+    },
+    {
+        "id": 135,
+        "name": "Research Electrical Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 136,
+        "name": "3D Optical Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 137,
+        "name": "Microsystems Technology Electrical Engineering & Computer Science Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 138,
+        "name": "Institute Work & Employment Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 6
+    },
+    {
+        "id": 139,
+        "name": "Amu Joint Lab Multiscale Material Science Energy & Environment",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 140,
+        "name": "Mechanical & Ocean Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 141,
+        "name": "Global Engineering & Research Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 4
+    },
+    {
+        "id": 142,
+        "name": "Electrical Power Systems Lowcarbon Carbon Energy Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 143,
+        "name": "Singaporemit  Alliance Fin Research & Technology Smart Ct",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 144,
+        "name": "Infectious Division Interdisciplinary Research Group",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 145,
+        "name": "Sloan Sch Institute Work & Employment Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 146,
+        "name": "Electrical Engineering & Computer Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 147,
+        "name": "Abdul Latif Jameel Poverty Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 7
+    },
+    {
+        "id": 148,
+        "name": "Chemical Engineering & Mathematics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 149,
+        "name": "Systems Architecture Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 4
+    },
+    {
+        "id": 150,
+        "name": "Senseable City Lab Scl",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 151,
+        "name": "Mathematics & Computer Science Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 152,
+        "name": "Statistics & Data Science Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 3
+    },
+    {
+        "id": 153,
+        "name": "Institute Brain Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 4
+    },
+    {
+        "id": 154,
+        "name": "Governance Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 155,
+        "name": "Institute Medicine Science & Engineering",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 156,
+        "name": "Interdepartmental Transportation Program",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 157,
+        "name": "Information Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 158,
+        "name": "Decision Systems Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 159,
+        "name": "Applied  Mathematics Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 4
+    },
+    {
+        "id": 160,
+        "name": "Biological Engineering & Material Science & Engineering Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 161,
+        "name": "Displacement & Active Network Research",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 162,
+        "name": "Massachusetts Institute Technology  Faculty",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 163,
+        "name": "Sustainable Design Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 6
+    },
+    {
+        "id": 164,
+        "name": "Transit Research Program",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 165,
+        "name": "Singaporemit  Alliance Research Technology",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 166,
+        "name": "Aeroastro Department",
+        "type": "Department",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 167,
+        "name": "Autoid Labs",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 168,
+        "name": "Connection Science Research Initiative",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 169,
+        "name": "Kavil Institute",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 170,
+        "name": "3D Structure & Physical Genome Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 171,
+        "name": "Human Dynamics Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 172,
+        "name": "Singapore Mit  Alliance Research & Technology Smart Biosystems",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 173,
+        "name": "Unite Mixte International 3466",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 2
+    },
+    {
+        "id": 174,
+        "name": "Electrical Interfaces Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 175,
+        "name": "Personalized Cancer Medicine Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 176,
+        "name": "Singaporemit  Alliance Research & Technology Singaporemit",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 177,
+        "name": "Photovalta Research Lab",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 178,
+        "name": "Koch Integrative Cancer Research Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 179,
+        "name": "New England Complex Systems Institute",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 180,
+        "name": "Singaporemit  Alliance Research & Technology Biosystems & Micromechanics",
+        "type": "",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 181,
+        "name": "Synthetic Biological Engineering Research Center",
+        "type": "Center",
+        "num_collaborations": 2,
+        "num_papers": 1
+    },
+    {
+        "id": 182,
+        "name": "Fluid Dynamics Division Transmission Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 12
+    },
+    {
+        "id": 183,
+        "name": "Process Systems Engineering Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 30
+    },
+    {
+        "id": 184,
+        "name": "Parsons Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 16
+    },
+    {
+        "id": 185,
+        "name": "Linguistics & Philosophy Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 37
+    },
+    {
+        "id": 186,
+        "name": "Computational & Statistics Learning Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 187,
+        "name": "Sloan Automotive Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 15
+    },
+    {
+        "id": 188,
+        "name": "Teaching Systems Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 12
+    },
+    {
+        "id": 189,
+        "name": "Atomistic & Molecular Mechanical Lamm Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 190,
+        "name": "Medicine Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 5
+    },
+    {
+        "id": 191,
+        "name": "Synthetic Biological Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 192,
+        "name": "Anthropology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 9
+    },
+    {
+        "id": 193,
+        "name": "Nuclear Science Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 194,
+        "name": "Univ Medicine Center Rotterdam",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 195,
+        "name": "National Agricultural Technology Institute",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 196,
+        "name": "Elecenteromagnet & Electrical Systems Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 197,
+        "name": "Health Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 198,
+        "name": "Civic Data Design Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 199,
+        "name": "Stanley Center Psychiatry Research",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 6
+    },
+    {
+        "id": 200,
+        "name": "Langer Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 201,
+        "name": "Magnetism & Cryogen Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 202,
+        "name": "Nuclear Security & Policy Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 5
+    },
+    {
+        "id": 203,
+        "name": "Engineering Mechanical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 5
+    },
+    {
+        "id": 204,
+        "name": "Research Lab Electrical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 205,
+        "name": "Applied  Economics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 4
+    },
+    {
+        "id": 206,
+        "name": "Space Systems Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 9
+    },
+    {
+        "id": 207,
+        "name": "Idss & Eecs Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 208,
+        "name": "Environmental Sensing & Modeling Censam Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 209,
+        "name": "Science Technology & Society Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 210,
+        "name": "Microbiology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 211,
+        "name": "Han Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 212,
+        "name": "Autoid Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 213,
+        "name": "Cryptoeconomic Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 214,
+        "name": "Field Intelligence Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 215,
+        "name": "Material Research Archaeological & Ethnol Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 9
+    },
+    {
+        "id": 216,
+        "name": "Computational Phisiol Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 217,
+        "name": "Advancement Technology Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 218,
+        "name": "Eric P & Evelyn E Newman Biomech Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 219,
+        "name": "Human Rehabilitation Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 220,
+        "name": "Biological & Biological Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 221,
+        "name": "Earth Planetary & Atmospheric Science Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 222,
+        "name": "Kavii Institute Astrophysics & Space Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 223,
+        "name": "Multiscale Material Science For Energy And Environment Research Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 6
+    },
+    {
+        "id": 224,
+        "name": "Human Systems Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 7
+    },
+    {
+        "id": 225,
+        "name": "Teaching & Learning Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 226,
+        "name": "Zaragoza Logistics Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 227,
+        "name": "Singaporemit  Alliance Research & 284 Technology Smart Ct",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 228,
+        "name": "Emergent Behaviors Integrated Cellular Systems Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 229,
+        "name": "Fee Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 230,
+        "name": "Manufacturing & Product Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 231,
+        "name": "Swiss Fed Institute Technology",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 232,
+        "name": "Aeronautics & Astronaut & Engineering Systems Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 233,
+        "name": "David H Koch Center Integrative Cancer Research",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 234,
+        "name": "Mechanical Engineering Research & Educ  & Sustech Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 235,
+        "name": "Ocean Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 236,
+        "name": "Darbeloff Lab Information Systems & Technology",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 237,
+        "name": "Computer Science & Artificial Intelligence Lab Csa1L",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 238,
+        "name": "Transit Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 239,
+        "name": "Senseable City Lab & Computer Science",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 240,
+        "name": "Intelligent Transportation Research Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 241,
+        "name": "Computer Science & Artificial Intelligent Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 242,
+        "name": "Aeronautics & Astronautics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 243,
+        "name": "Research Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 244,
+        "name": "Alliance Research & Technology Smart Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 245,
+        "name": "Computer Science & Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 246,
+        "name": "Chemical Engineering &  Chemical Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 247,
+        "name": "Blavatnik Institute",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 248,
+        "name": "Joint Lab Multiscale Material Science Energy & Environmental",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 249,
+        "name": "Glass Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 250,
+        "name": "Physical Science Oncology Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 251,
+        "name": "Institute Integrative Cancer Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 252,
+        "name": "Integrative Cancer Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 253,
+        "name": "Energy Assessment Center Lab",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 254,
+        "name": "Engineering & Management Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 255,
+        "name": "Manipulation & Mechanical Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 256,
+        "name": "Massachusetts Institute Technology Division Health Science &",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 4
+    },
+    {
+        "id": 257,
+        "name": "Microsoft Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 8
+    },
+    {
+        "id": 258,
+        "name": "Institute Super Technology",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 259,
+        "name": "Medicine Electrical Device Realization Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 260,
+        "name": "Clinical Research Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 261,
+        "name": "Stl Real Estate Entrepreneurship Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 262,
+        "name": "Sloan Neuroeconomics Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 263,
+        "name": "Material Science Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 264,
+        "name": "Jtl Mobility Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 265,
+        "name": "Cardiovascular Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 266,
+        "name": "Sloan Institute Work & Employment Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 267,
+        "name": "Novartismit  Center Continuous Manufacturing",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 268,
+        "name": "Touchlab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 269,
+        "name": "Auto Id Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 270,
+        "name": "Elecenterochern Material",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 271,
+        "name": "Ragon Institute Mgh",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 272,
+        "name": "7 Cambridge Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 273,
+        "name": "Cognitive Behaviors Neurology Unit",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 274,
+        "name": "Athinoula Martinos Imaging Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 275,
+        "name": "Megacity Logistics Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 276,
+        "name": "Material Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 277,
+        "name": "Mcgovern Insitute Brain Research",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 278,
+        "name": "Nine Cambridge Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 279,
+        "name": "Glenn Labs Science Aging",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 3
+    },
+    {
+        "id": 280,
+        "name": "Faculty Mathematics Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 281,
+        "name": "Anesthesia Critical Care & Pain Medicine Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 282,
+        "name": "Pathology Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 283,
+        "name": "Operations Research Statistics & Operations Management",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 284,
+        "name": "1 Deforesearcht Ave",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 285,
+        "name": "Research Center",
+        "type": "Center",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 286,
+        "name": "Computer Science & Electrical Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 287,
+        "name": "Infectious Division Division",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 288,
+        "name": "Undergraduate Research Opportunities Program Urop",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 289,
+        "name": "Gear Lab",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 2
+    },
+    {
+        "id": 290,
+        "name": "Cnr  Amu Joint Lab Multiscale Material Science Energy &",
+        "type": "",
+        "num_collaborations": 1,
+        "num_papers": 1
+    }
+]

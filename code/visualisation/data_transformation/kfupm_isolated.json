@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Preparatory Year Program",
+        "type": "",
+        "num_collaborations": 10,
+        "num_papers": 18
+    },
+    {
+        "id": 2,
+        "name": "Accounting and Management Information Systems Department",
+        "type": "Department",
+        "num_collaborations": 9,
+        "num_papers": 16
+    },
+    {
+        "id": 3,
+        "name": "Projects Department",
+        "type": "Department",
+        "num_collaborations": 7,
+        "num_papers": 3
+    },
+    {
+        "id": 4,
+        "name": "Information System & Operations Management Department",
+        "type": "Department",
+        "num_collaborations": 6,
+        "num_papers": 6
+    },
+    {
+        "id": 5,
+        "name": "Hafr Al-Batin Community College",
+        "type": "",
+        "num_collaborations": 5,
+        "num_papers": 2
+    },
+    {
+        "id": 6,
+        "name": "Science Research Excellence Center MIT Collaboration",
+        "type": "Center",
+        "num_collaborations": 5,
+        "num_papers": 3
+    },
+    {
+        "id": 7,
+        "name": "Refining & Petrochemicals Research Excellence Center",
+        "type": "Center",
+        "num_collaborations": 4,
+        "num_papers": 2
+    },
+    {
+        "id": 8,
+        "name": "Architecture Department",
+        "type": "Department",
+        "num_collaborations": 3,
+        "num_papers": 13
+    },
+    {
+        "id": 9,
+        "name": "Engn Technol Program",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 10,
+        "name": "Graduate Studies",
+        "type": "",
+        "num_collaborations": 3,
+        "num_papers": 3
+    },
+    {
+        "id": 11,
+        "name": "Civil Engineering Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 12,
+        "name": "General Studies Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 1
+    },
+    {
+        "id": 13,
+        "name": "Global and Social Studies Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 26
+    },
+    {
+        "id": 14,
+        "name": "Physical Education Department",
+        "type": "Department",
+        "num_collaborations": 1,
+        "num_papers": 31
+    }
+]

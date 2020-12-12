@@ -1,0 +1,232 @@
+[
+    {
+        "id": 0,
+        "name": "Accounting and Management Information Systems Department",
+        "type": "department"
+    },
+    {
+        "id": 1,
+        "name": "Aerospace Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 2,
+        "name": "Architectural Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 3,
+        "name": "Architecture Department",
+        "type": "department"
+    },
+    {
+        "id": 4,
+        "name": "Carbon Capture and Sequestration Research Center",
+        "type": "center"
+    },
+    {
+        "id": 5,
+        "name": "Chemical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 6,
+        "name": "Chemistry Department",
+        "type": "department"
+    },
+    {
+        "id": 7,
+        "name": "City and Regional Planning Department",
+        "type": "department"
+    },
+    {
+        "id": 8,
+        "name": "Civil and Environmental Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 9,
+        "name": "Civil Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 10,
+        "name": "Computer Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 11,
+        "name": "Construction Engineering and Management Department",
+        "type": "department"
+    },
+    {
+        "id": 12,
+        "name": "Corrosion Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 13,
+        "name": "Dammam Community College",
+        "type": "center"
+    },
+    {
+        "id": 14,
+        "name": "Electrical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 15,
+        "name": "Energy Efficiency Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 16,
+        "name": "Energy Research and Innovation Center",
+        "type": "center"
+    },
+    {
+        "id": 17,
+        "name": "Engineering Research Center",
+        "type": "center"
+    },
+    {
+        "id": 18,
+        "name": "Engn Technol Program",
+        "type": "center"
+    },
+    {
+        "id": 19,
+        "name": "Environment & Water Research Center",
+        "type": "center"
+    },
+    {
+        "id": 20,
+        "name": "Environment and Water Research Center",
+        "type": "center"
+    },
+    {
+        "id": 21,
+        "name": "General Studies Department",
+        "type": "department"
+    },
+    {
+        "id": 22,
+        "name": "Geosciences Department",
+        "type": "department"
+    },
+    {
+        "id": 23,
+        "name": "Global and Social Studies Department",
+        "type": "department"
+    },
+    {
+        "id": 24,
+        "name": "Graduate Studies",
+        "type": "center"
+    },
+    {
+        "id": 25,
+        "name": "Hafr Al-Batin Community College",
+        "type": "center"
+    },
+    {
+        "id": 26,
+        "name": "Information and Communication Technology Center",
+        "type": "center"
+    },
+    {
+        "id": 27,
+        "name": "Information and Computer Science Department",
+        "type": "department"
+    },
+    {
+        "id": 28,
+        "name": "Information System & Operations Management Department",
+        "type": "department"
+    },
+    {
+        "id": 29,
+        "name": "Integrative Petroleum Research Center",
+        "type": "center"
+    },
+    {
+        "id": 30,
+        "name": "Life Sciences Department",
+        "type": "department"
+    },
+    {
+        "id": 31,
+        "name": "Management and Marketing Department",
+        "type": "department"
+    },
+    {
+        "id": 32,
+        "name": "Mathematics and Statistics Department",
+        "type": "department"
+    },
+    {
+        "id": 33,
+        "name": "Mechanical Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 34,
+        "name": "Modeling and Computer Simulation Research Center",
+        "type": "center"
+    },
+    {
+        "id": 35,
+        "name": "Nanotechnology Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 36,
+        "name": "Petroleum Engineering Department",
+        "type": "department"
+    },
+    {
+        "id": 37,
+        "name": "Physical Education Department",
+        "type": "department"
+    },
+    {
+        "id": 38,
+        "name": "Physics Department",
+        "type": "department"
+    },
+    {
+        "id": 39,
+        "name": "Preparatory Year Program",
+        "type": "center"
+    },
+    {
+        "id": 40,
+        "name": "Projects Department",
+        "type": "department"
+    },
+    {
+        "id": 41,
+        "name": "Refining & Petrochemicals Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 42,
+        "name": "Refining and Petrochemicals Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 43,
+        "name": "Renewable Energy Research Excellence Center",
+        "type": "center"
+    },
+    {
+        "id": 44,
+        "name": "Science Research Excellence Center MIT Collaboration",
+        "type": "center"
+    },
+    {
+        "id": 45,
+        "name": "Systems Engineering Department",
+        "type": "department"
+    }
+]
