@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/logo.png" width=300/>
+<img src="images/KFUPM_NLP.png" width=300/>
 </p>
 
 # Unit Collaboration
