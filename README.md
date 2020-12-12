@@ -2,7 +2,7 @@
 <img src="images/KFUPM_NLP.png" width=300/>
 </p>
 
-# Unit Collaboration
+# KFUPM Scientific Collaboration
 This repository provides an exploration on the collaboration between univeristy departments in two Saudi universities and international university. This work focuses on King Fahd University of Petroleum and Minerals and compare it with King Saud University as a local comparsion and MIT as an international comparsion. The collaboration is measured based on the collaboratin between authors in all publications that was published during 2018 - 2020. 
 
 In this Repo you will find the following:
